@@ -2,7 +2,7 @@ This is a repository to host the Manual APWorlds I create for use with [Archipel
 Currently, there is only one present here:
 
 # *Lonely Wolf Treat: The Complete Series*
-From NomnomNami's [itch.io page](https://nomnomnami.itch.io/lonely-wolf-treat): *Lonely Wolf Treat* is the heartwarming story of a wolf who moves into a town full of rabbits that are all very afraid of her, so she can't make any friends... until one little bunny bursts into her home, and decides to make her some delicious curry!
+From *Lonely Wolf Treat*'s [itch.io page](https://nomnomnami.itch.io/lonely-wolf-treat): *Lonely Wolf Treat* is the heartwarming story of a wolf who moves into a town full of rabbits that are all very afraid of her, so she can't make any friends... until one little bunny bursts into her home, and decides to make her some delicious curry!
 
 *Lonely Wolf Treat: The Complete Series* takes the first six chapters of the series (originally released as separate games), adds two more, and brings it all together in one package, with various touch-ups and additions made to those first six chapters
 
