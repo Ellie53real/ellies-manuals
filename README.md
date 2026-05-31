@@ -12,7 +12,7 @@ In Archipelago, the goal of this game is to reach the end of the second part of 
 
 Locations mostly consist of the various items you can find (or buy from shops) throughout the game. There are also locations for:
 * Completing each chapter
-* Achieving Alternate Endings in chapters that have them (this can be disabled in YAML settings if you would rather not do those, thought!)
+* Achieving Alternate Endings in chapters that have them (this can be disabled in YAML settings if you would rather not do those, though!)
 * Speaking to every unique character encountered throughout the game (this can also be disabled in YAML settings!)
 
 A guide with explanations of how to reach every location (including Alternate Ending and Charactersanity locations) can be found here: https://docs.google.com/spreadsheets/d/1lXn8EjXZygeHEp_0UqDCy0bydC1OupYLXKq40t84OhQ/edit?usp=sharing
