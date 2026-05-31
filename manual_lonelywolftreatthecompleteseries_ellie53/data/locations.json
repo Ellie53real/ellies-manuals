@@ -1,0 +1,1935 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Frosting Shop Item #1",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1: Lonely Wolf Treat"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Foxy Den Shop Item #1",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1: Lonely Wolf Treat"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Alternate Ending: Lonely Wolf Treat",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1: Lonely Wolf Treat",
+        "Alternate Endings"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "name": "Chapter Completion: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1: Lonely Wolf Treat"
+      ],
+      "requires": "|Cup Noodles| AND |Chicken|"
+    },
+    {
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "name": "Frosting Shop Item #2",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Frosting Shop Item #3",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Tip Boreas",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "name": "Summoning Flute",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Devipuri",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Frosting Shop Item #4",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dead Bulb #1",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": "|Magic Bulb|"
+    },
+    {
+      "name": "Dead Bulb #2",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": " |Magic Bulb:2|"
+    },
+    {
+      "name": "Chapter Completion: Friendly Bunny Mochi",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2: Friendly Bunny Mochi"
+      ],
+      "requires": "|Blueberry Tart|"
+    },
+    {
+      "name": "Letter from Mom",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Prop Knife",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spooky Mask",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Foxy Den Shop Item #3",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask|"
+    },
+    {
+      "name": "Foxy Den: $10 from Plant",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Remote Control",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup|"
+    },
+    {
+      "name": "Anywhere Pass (Moxie)",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup|"
+    },
+    {
+      "region": "Chapter 3: Clever Fox Moxie",
+      "name": "Candy Coupon",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup|"
+    },
+    {
+      "name": "Letter of Resignation",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup|"
+    },
+    {
+      "name": "Chapter Completion: Clever Fox Moxie",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Bar of Gold",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie",
+        "Alternate Endings"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup|"
+    },
+    {
+      "name": "Ticket to Ginseng",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie",
+        "Alternate Endings"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Bar of Gold|"
+    },
+    {
+      "name": "Alternate Ending: Clever Fox Moxie",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3: Clever Fox Moxie",
+        "Alternate Endings"
+      ],
+      "requires": "|Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Bar of Gold| AND |Ticket to Ginseng|"
+    },
+    {
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "name": "Lantern",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "name": "Trail Mix",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "name": "Wishing Coin",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": "|Lantern|"
+    },
+    {
+      "name": "Apple",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": "|Lantern|"
+    },
+    {
+      "name": "Ticket to Daifuku",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": "|Lantern| AND |Apple|"
+    },
+    {
+      "name": "Foreign Berries",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": "|Lantern| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Anywhere Pass (Trick)",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": "|Lantern| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Moxie)| AND |Devipuri|"
+    },
+    {
+      "name": "Chapter Completion: Wandering Wolf Trick",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": "|Lantern| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Postcard #1",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ticket to Atelier Sweets #1",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ticket to Atelier Sweets #2",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Corn Starch",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Seeds",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Syrup's Candy",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Corn Starch|"
+    },
+    {
+      "name": "Leftovers",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds|"
+    },
+    {
+      "name": "Postcard #2",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds|"
+    },
+    {
+      "name": "Tea",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds|"
+    },
+    {
+      "region": "Chapter 5: Dreaming Treat",
+      "name": "Postcard #3",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea|"
+    },
+    {
+      "name": "Ticket to Beach",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea|"
+    },
+    {
+      "name": "Orange Ice Pop",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Seashell #1",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Seashell #2",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Seashell #3",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Chapter Completion: Dreaming Treat",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5: Dreaming Treat"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach| AND |Seashell:3|"
+    },
+    {
+      "name": "Carrot Soup from Parsnip",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6: Mochi in Frosting",
+        "Alternate Endings"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Chapter 6: Mochi in Frosting",
+      "name": "Office Key",
+      "category": [
+        "Chapter 6: Mochi in Frosting",
+        "Alternate Endings"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Chapter 6: Mochi in Frosting",
+      "name": "Room Keys",
+      "category": [
+        "Chapter 6: Mochi in Frosting",
+        "Alternate Endings"
+      ],
+      "requires": "|Office Key|"
+    },
+    {
+      "region": "Chapter 6: Mochi in Frosting",
+      "name": "Resident List",
+      "category": [
+        "Chapter 6: Mochi in Frosting",
+        "Alternate Endings"
+      ],
+      "requires": "|Office Key|"
+    },
+    {
+      "name": "Mini Shovel",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6: Mochi in Frosting",
+        "Alternate Endings"
+      ],
+      "requires": "|Office Key|"
+    },
+    {
+      "name": "Pizza Slice",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6: Mochi in Frosting",
+        "Alternate Endings"
+      ],
+      "requires": "|Office Key| AND |Room Keys|"
+    },
+    {
+      "name": "Alternate Ending: Mochi in Frosting",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6: Mochi in Frosting",
+        "Alternate Endings"
+      ],
+      "requires": "|Office Key| AND |Room Keys|"
+    },
+    {
+      "name": "Vending Machine (Annie May Hot Springs)",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6: Mochi in Frosting"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chapter Completion: Mochi in Frosting",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6: Mochi in Frosting"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Backpack",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Communicator",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Beef Jerky",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Tinder #1",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Tinder #2",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Tinder #3",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Pine Cones #1",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Pine Cones #2",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Firewood",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Chapter Completion: Lucky Number Moxie",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7: Lucky Number Moxie"
+      ],
+      "requires": "|Backpack| AND |Tinder| AND |Pine Cones| AND |Firewood|"
+    },
+    {
+      "name": "Master's Photo",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Mysterious Key",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Manuscript",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": "|Mysterious Key|"
+    },
+    {
+      "name": "Give water to Souffle",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Cookie #1 from Souffle",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Cookie #2 from Souffle",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "name": "Vending Machine (Chickpea Enchanted Farm)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "name": "Good Egg",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 1)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Use Canary Fountain",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Wishing Coin| AND |Good Egg|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "name": "To-Do List #1",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "name": "Package",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Toadstool Towers Shop Item #1",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Toadstool Towers Shop Item #2",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Toadstool Towers Shop Item #3",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Junk Mail",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Small Key",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "name": "Medicine",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "To-Do List #2",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "name": "Garbage",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Watering Can",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Small Parcel",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #1",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #2",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #3",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #4",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #5",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #6",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #7",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #8",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Fairy #9",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key|"
+    },
+    {
+      "name": "Takeout",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine|"
+    },
+    {
+      "name": "Granny's Note",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+    },
+    {
+      "name": "Charm Bracelet",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel| AND |Takeout|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "name": "Birdseed from Clove",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+    },
+    {
+      "name": "Trail Mix from Clove",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+    },
+    {
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "name": "Chapter Completion: Trick Comes Home",
+      "victory": true,
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+    },
+    {
+      "name": "Charactersanity: Treat",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Manjuu",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Annie",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: May",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Cinnamom",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Dango",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Mochi",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Moxie",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Nutmeg",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Cinnason",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Pitaya",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Lemonne",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Boreas",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Eleni",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Salt",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Pepper",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Chai",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters"
+      ],
+      "requires": "|Cup Noodles|"
+    },
+    {
+      "name": "Charactersanity: Timber",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Tundra",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #1",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #2",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #3",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #4",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #5",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #6",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #7",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #8",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Glaze Wolf #9",
+      "region": "Chapter 1: Lonely Wolf Treat",
+      "category": [
+        "Chapter 1 Characters",
+        "Alternate Endings"      
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Kamilla",
+      "region": "Chapter 2: Friendly Bunny Mochi",
+      "category": [
+        "Chapter 2 Characters"
+      ],
+      "requires": "|Magic Bulb:2| AND |Summoning Flute| AND |Devipuri|"
+    },
+    {
+      "name": "Charactersanity: Spice",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Peanut",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Brittle",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Mousse",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Thyme",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Biscotti",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Cassia",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Astragalus",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Toffee",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Butterscotch",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Drop",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Nougat",
+      "region": "Chapter 3: Clever Fox Moxie",
+      "category": [
+        "Chapter 3 Characters"
+      ],
+      "requires": "|Remote Control| AND |Anywhere Pass (Moxie)|"
+    },
+    {
+      "name": "Charactersanity: Trick",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Mango",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Cotton",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Powder",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Fennel",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Candy",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Marzipan",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Jam",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Cat Mother",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Witch Merchant #1",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Pastille",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Syrup",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Witch Merchant #2",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Chinchilla Shopper",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Mouse Merchant",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Cat Merchant",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Cat Child",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix|"
+    },
+    {
+      "name": "Charactersanity: Daifuku Rabbit #1",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Daifuku Rabbit #2",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Castella",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Wormwood Mouse #1",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Wormwood Mouse #2",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Wormwood Mouse #3",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Wormwood Mouse #4",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Wormwood Mouse #5",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Moxie's Mom",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
+      "name": "Charactersanity: Demon Employees",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|"
+    },
+    {
+      "name": "Charactersanity: Orchid",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|"
+    },
+    {
+      "name": "Charactersanity: Lilium",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|"
+    },
+    {
+      "name": "Charactersanity: Hero",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|"
+    },
+    {
+      "name": "Charactersanity: Underling",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4 Characters"
+      ],
+      "requires": "|Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|"
+    },
+    {
+      "name": "Charactersanity: Tiramisu",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Charactersanity: Gumdrop",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Charactersanity: Mitsu",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Charactersanity: Crab Witch",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Charactersanity: Angelica",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Charactersanity: Blue-Eyed Cat",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets|"
+    },
+    {
+      "name": "Charactersanity: Rose",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds|"
+    },
+    {
+      "name": "Charactersanity: Grumpy Grandpa",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea|"
+    },
+    {
+      "name": "Charactersanity: Rude Receptionist",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea|"
+    },
+    {
+      "name": "Charactersanity: Bad Boyfriend",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea|"
+    },
+    {
+      "name": "Charactersanity: Strudel",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Charactersanity: Popsicle Seal",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Charactersanity: Sakura",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Charactersanity: CiCi",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Charactersanity: Mel",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Charactersanity: Issa",
+      "region": "Chapter 5: Dreaming Treat",
+      "category": [
+        "Chapter 5 Characters"
+      ],
+      "requires": "|Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|"
+    },
+    {
+      "name": "Charactersanity: Junior Guard",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Snooty Rabbit",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Brickzo",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Senbei",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Nori",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Parsnip",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters",
+        "Alternate Endings"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Dazed Rabbit",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters",
+        "Alternate Endings"
+      ],
+      "requires": "|Office Key| AND |Room Keys|"
+    },
+    {
+      "name": "Charactersanity: Snickering Jerk",
+      "region": "Chapter 6: Mochi in Frosting",
+      "category": [
+        "Chapter 6 Characters",
+        "Alternate Endings"
+      ],
+      "requires": "|Office Key| AND |Room Keys|"
+    },
+    {
+      "name": "Charactersanity: Genoise",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Fashionable Witch",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Plum",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7 Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Periwinkle",
+      "region": "Chapter 7: Lucky Number Moxie",
+      "category": [
+        "Chapter 7 Characters"
+      ],
+      "requires": "|Backpack|"
+    },
+    {
+      "name": "Charactersanity: Red Riding Hood",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Squirrel Gramma",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Charactersanity: Witch Student #1",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Krem Resident #1",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Krem Resident #2",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Souffle",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Sesame",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Lime",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Witch Student #2",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Saffron",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Ukulele Bat",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Krem Dog",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Witch Student #3",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Witch Student #4",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Witch Student #5",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Elder Witch",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: 'Familiar' Dog",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Maia",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Anywhere Pass (Trick)|"
+    },
+    {
+      "name": "Charactersanity: Marmalade",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Saffron's Dad",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript|"
+    },
+    {
+      "name": "Charactersanity: Phoenix",
+      "region": "Chapter 8: Trick Comes Home (Part 1)",
+      "category": [
+        "Chapter 8 (Part 1) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Myrrh",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Red Witch",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Lilikoi",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Canary Mama",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Pip",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Squeak",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Grenadine",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Clove",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Mr. Brew",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg|"
+    },
+    {
+      "name": "Charactersanity: Capillaire",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Small Key|"
+    },
+    {
+      "name": "Charactersanity: Anise",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Small Key|"
+    },
+    {
+      "name": "Charactersanity: MealCarrier Employee",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8 (Part 2) Characters"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Small Key| AND |Medicine|"
+    }
+  ]
+}

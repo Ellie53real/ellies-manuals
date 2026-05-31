@@ -1,0 +1,56 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Chapter 1: Lonely Wolf Treat": {
+    "starting": true,
+    "connects_to": [
+      "Chapter 2: Friendly Bunny Mochi"
+    ],
+    "requires": ""
+  },
+  "Chapter 2: Friendly Bunny Mochi": {
+    "connects_to": [
+      "Chapter 3: Clever Fox Moxie"
+    ],
+    "requires": "|Progressive Chapter Unlock| AND |Cup Noodles| AND |Chicken|"
+  },
+  "Chapter 3: Clever Fox Moxie": {
+    "connects_to": [
+      "Chapter 4: Wandering Wolf Trick"
+    ],
+    "requires": "|Progressive Chapter Unlock:2| AND |Blueberry Tart|"
+  },
+  "Chapter 4: Wandering Wolf Trick": {
+    "connects_to": [
+      "Chapter 5: Dreaming Treat"
+    ],
+    "requires": "|Progressive Chapter Unlock:3| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Anywhere Pass (Moxie)|"
+  },
+  "Chapter 5: Dreaming Treat": {
+    "connects_to": [
+      "Chapter 6: Mochi in Frosting"
+    ],
+    "requires": "|Progressive Chapter Unlock:4| AND |Lantern| AND |Apple| AND |Ticket to Daifuku|"
+  },
+  "Chapter 6: Mochi in Frosting": {
+    "connects_to": [
+      "Chapter 7: Lucky Number Moxie"
+    ],
+    "requires": "|Progressive Chapter Unlock:5| AND |Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach| AND |Seashell:3|"
+  },
+  "Chapter 7: Lucky Number Moxie": {
+    "connects_to": [
+      "Chapter 8: Trick Comes Home (Part 1)"
+    ],
+    "requires": "|Progressive Chapter Unlock:6|"
+  },
+  "Chapter 8: Trick Comes Home (Part 1)": {
+    "connects_to": [
+      "Chapter 8: Trick Comes Home (Part 2)"
+    ],
+    "requires": "|Progressive Chapter Unlock:7| AND |Backpack| AND |Tinder| AND |Pine Cones| AND |Firewood|"
+  },
+  "Chapter 8: Trick Comes Home (Part 2)": {
+    "connects_to": [],
+    "requires": "|Progressive Chapter Unlock:7| AND |Backpack| AND |Tinder| AND |Pine Cones| AND |Firewood|"
+  }
+}

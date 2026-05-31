@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "LonelyWolfTreatTheCompleteSeries",
+  "creator": "Ellie53",
+  "filler_item_name": "Excess Snow",
+  "starting_items": []
+}

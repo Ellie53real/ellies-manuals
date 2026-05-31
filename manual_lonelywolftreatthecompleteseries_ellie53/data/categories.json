@@ -1,0 +1,46 @@
+{
+ "Alternate Endings": {
+        "hidden": true,
+        "yaml_option": ["Enable_Alternate_Endings"]
+    },
+ "Alternate Ending Items": {
+        "hidden": true,
+        "yaml_option": ["Enable_Alternate_Endings"]
+    },
+ "Chapter 1 Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 2 Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 3 Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 4 Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 5 Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 6 Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 7 Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 8 (Part 1) Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    },
+ "Chapter 8 (Part 2) Characters": {
+        "hidden": true,
+        "yaml_option": ["Charactersanity"]
+    }
+}

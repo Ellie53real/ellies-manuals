@@ -1,0 +1,594 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "7",
+      "name": "Progressive Chapter Unlock",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "$5",
+      "category": [
+        "Money"
+      ],
+      "useful": true
+    },
+    {
+      "count": "2",
+      "name": "$10",
+      "category": [
+        "Money"
+      ],
+      "useful": true
+    },
+    {
+      "count": "2",
+      "name": "$2",
+      "category": [
+        "Money"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Treat's Parka",
+      "category": [
+        "Junk"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Mochi's Sweater",
+      "category": [
+        "Junk"
+      ],
+      "filler": true
+    },
+    {
+      "count": "1",
+      "name": "Moxie's Scarf",
+      "category": [
+        "Junk"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Cup Noodles",
+      "category": [
+        "Chapter 1 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chicken",
+      "category": [
+        "Chapter 1 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Magic Bulb",
+      "category": [
+        "Chapter 2 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Carrot Soup",
+      "category": [
+        "Chapter 2 Items",
+        "Chapter 6 Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Summoning Flute",
+      "category": [
+        "Chapter 2 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Devipuri",
+      "category": [
+        "Chapter 2 Items",
+        "Chapter 4 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blueberry Tart",
+      "category": [
+        "Chapter 2 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Letter from Mom",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Prop Knife",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spooky Mask",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Catsup",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Remote Control",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Anywhere Pass (Moxie)",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Candy Coupon",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Letter of Resignation",
+      "category": [
+        "Chapter 3 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Bar of Gold",
+      "category": [
+        "Chapter 3 Items",
+        "Alternate Ending Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ticket to Ginseng",
+      "category": [
+        "Chapter 3 Items",
+        "Alternate Ending Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lantern",
+      "category": [
+        "Chapter 4 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Trail Mix",
+      "category": [
+        "Chapter 4 Items",
+        "Chapter 6 Items",
+        "Chapter 8 (Part 1) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wishing Coin",
+      "category": [
+        "Chapter 4 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Apple",
+      "category": [
+        "Chapter 4 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ticket to Daifuku",
+      "category": [
+        "Chapter 4 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Foreign Berries",
+      "category": [
+        "Chapter 4 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Anywhere Pass (Trick)",
+      "category": [
+        "Chapter 4 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Postcard",
+      "category": [
+        "Chapter 5 Items",
+        "Chapter 8 (Part 2) Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": "2",
+      "name": "Ticket to Atelier Sweets",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Corn Starch",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Seeds",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Syrup's Candy",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Leftovers",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Tea",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ticket to Beach",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Orange Ice Pop",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": "3",
+      "name": "Seashell",
+      "category": [
+        "Chapter 5 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Potato Chips",
+      "category": [
+        "Chapter 6 Items",
+        "Chapter 8 (Part 1) Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Granola Bar",
+      "category": [
+        "Chapter 6 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": "3",
+      "name": "Cookie",
+      "category": [
+        "Chapter 6 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Office Key",
+      "category": [
+        "Chapter 6 Items",
+        "Alternate Ending Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Room Keys",
+      "category": [
+        "Chapter 6 Items",
+        "Alternate Ending Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Resident List",
+      "category": [
+        "Chapter 6 Items",
+        "Alternate Ending Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mini Shovel",
+      "category": [
+        "Chapter 6 Items",
+        "Alternate Ending Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Backpack",
+      "category": [
+        "Chapter 7 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Communicator",
+      "category": [
+        "Chapter 7 Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Beef Jerky",
+      "category": [
+        "Chapter 7 Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": "3",
+      "name": "Tinder",
+      "category": [
+        "Chapter 7 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pine Cones",
+      "category": [
+        "Chapter 7 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Firewood",
+      "category": [
+        "Chapter 7 Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Master's Photo",
+      "category": [
+        "Chapter 8 (Part 1) Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mysterious Key",
+      "category": [
+        "Chapter 8 (Part 1) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Abandoned Manuscript",
+      "category": [
+        "Chapter 8 (Part 1) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Good Egg",
+      "category": [
+        "Chapter 8 (Part 1) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "To-Do List",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Package",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Birdseed",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Junk Mail",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Small Key",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Medicine",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Garbage",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Watering Can",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Small Parcel",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "9",
+      "name": "Fairy",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Takeout",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Granny's Note",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Charm Bracelet",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Pizza Slice",
+      "category": [
+        "Chapter 6 Items",
+        "Alternate Ending Items"
+      ],
+      "useful": true
+    }
+  ]
+}
