@@ -262,6 +262,14 @@
       "requires": "|Lantern| AND |Apple| AND |Ticket to Daifuku|"
     },
     {
+      "name": "Devipuri from Lemonne",
+      "region": "Chapter 4: Wandering Wolf Trick",
+      "category": [
+        "Chapter 4: Wandering Wolf Trick"
+      ],
+      "requires": "|Lantern| AND |Apple| AND |Ticket to Daifuku|"
+    },
+    {
       "name": "Anywhere Pass (Trick)",
       "region": "Chapter 4: Wandering Wolf Trick",
       "category": [
