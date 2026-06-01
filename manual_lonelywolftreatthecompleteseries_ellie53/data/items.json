@@ -567,6 +567,14 @@
     },
     {
       "count": 1,
+      "name": "Granny's Gift",
+      "category": [
+        "Chapter 8 (Part 2) Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "Granny's Note",
       "category": [
         "Chapter 8 (Part 2) Items"

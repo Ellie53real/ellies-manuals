@@ -821,12 +821,20 @@
       "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine|"
     },
     {
-      "name": "Granny's Note",
+      "name": "Granny's Gift",
       "region": "Chapter 8: Trick Comes Home (Part 2)",
       "category": [
         "Chapter 8: Trick Comes Home (Part 2)"
       ],
       "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+    },
+    {
+      "name": "Granny's Note",
+      "region": "Chapter 8: Trick Comes Home (Part 2)",
+      "category": [
+        "Chapter 8: Trick Comes Home (Part 2)"
+      ],
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel| AND |Granny's Gift|"
     },
     {
       "name": "Charm Bracelet",
@@ -834,7 +842,7 @@
       "category": [
         "Chapter 8: Trick Comes Home (Part 2)"
       ],
-      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel| AND |Takeout|"
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel| AND |Granny's Gift| AND |Takeout|"
     },
     {
       "region": "Chapter 8: Trick Comes Home (Part 2)",
@@ -842,7 +850,7 @@
       "category": [
         "Chapter 8: Trick Comes Home (Part 2)"
       ],
-      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel| AND |Granny's Gift|"
     },
     {
       "name": "Trail Mix from Clove",
@@ -850,7 +858,7 @@
       "category": [
         "Chapter 8: Trick Comes Home (Part 2)"
       ],
-      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel| AND |Granny's Gift|"
     },
     {
       "region": "Chapter 8: Trick Comes Home (Part 2)",
@@ -859,7 +867,7 @@
       "category": [
         "Chapter 8: Trick Comes Home (Part 2)"
       ],
-      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel|"
+      "requires": "|Mysterious Key| AND |Abandoned Manuscript| AND |Good Egg| AND |Package| AND |Birdseed| AND |Small Key| AND |Medicine| AND |Garbage| AND |Watering Can| AND |Small Parcel| AND |Granny's Gift|"
     },
     {
       "name": "Charactersanity: Treat",
