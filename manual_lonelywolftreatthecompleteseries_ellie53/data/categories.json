@@ -8,39 +8,39 @@
         "yaml_option": ["enable_alternate_endings"]
     },
  "Chapter 1 Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 2 Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 3 Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 4 Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 5 Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 6 Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 7 Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 8 (Part 1) Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     },
  "Chapter 8 (Part 2) Characters": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["charactersanity"]
     }
 }
