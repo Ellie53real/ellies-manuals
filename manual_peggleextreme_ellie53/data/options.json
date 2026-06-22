@@ -1,0 +1,63 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "include_full_clears":{
+            "description": [
+                "If enabled, locations for fully clearing levels will be created when generating the multiworld.",
+                "WARNING: This can be extremely difficult. Be advised."
+            ],
+            "display_name": "Include Full Clears",
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "gold_pegs_total":{
+            "description": [
+                "The total number of Gold Peg items that will be in the multiworld."
+            ],
+            "display_name": "Gold Pegs Total",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 30,
+            "default": 20,
+            "group": "Game Options"
+        },
+        "gold_pegs_required":{
+            "description": [
+                "The total percentage of Gold Peg items that will be required to unlock the goal level."
+            ],
+            "display_name": "Gold Pegs Required",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 100,
+            "default": 50,
+            "group": "Game Options"
+        }
+    }
+
+}

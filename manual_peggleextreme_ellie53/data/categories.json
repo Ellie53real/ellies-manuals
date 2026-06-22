@@ -1,0 +1,6 @@
+{
+ "Full Clears": {
+        "hidden": true,
+        "yaml_option": ["include_full_clears"]
+    }
+}

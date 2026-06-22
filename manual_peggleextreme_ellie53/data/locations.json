@@ -1,0 +1,507 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "1-1 Vortigaunt - 7 Peg Combo",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt"
+        },
+        {
+            "name": "1-1 Vortigaunt - 15 Peg Combo",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt"
+        },
+        {
+            "name": "1-1 Vortigaunt - 3 Orange Peg Combo",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt"
+        },
+        {
+            "name": "1-1 Vortigaunt - 5 Orange Peg Combo",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt"
+        },
+        {
+            "name": "1-1 Vortigaunt - Fever Meter X2",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt"
+        },
+        {
+            "name": "1-1 Vortigaunt - Fever Meter X3",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "1-1 Vortigaunt - Fever Meter X5",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "1-1 Vortigaunt - Fever Meter X10",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "1-1 Vortigaunt - Level Clear",
+            "category": ["1-1 Vortigaunt"],
+            "region": "1-1 Vortigaunt",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-1 Vortigaunt - Full Clear",
+            "category": ["1-1 Vortigaunt", "Full Clears"],
+            "region": "1-1 Vortigaunt",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-2 Hunter - 7 Peg Combo",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter"
+        },
+        {
+            "name": "1-2 Hunter - 15 Peg Combo",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter"
+        },
+        {
+            "name": "1-2 Hunter - 3 Orange Peg Combo",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter"
+        },
+        {
+            "name": "1-2 Hunter - 5 Orange Peg Combo",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter"
+        },
+        {
+            "name": "1-2 Hunter - Fever Meter X2",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter"
+        },
+        {
+            "name": "1-2 Hunter - Fever Meter X3",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "1-2 Hunter - Fever Meter X5",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "1-2 Hunter - Fever Meter X10",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "1-2 Hunter - Level Clear",
+            "category": ["1-2 Hunter"],
+            "region": "1-2 Hunter",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-2 Hunter - Full Clear",
+            "category": ["1-2 Hunter", "Full Clears"],
+            "region": "1-2 Hunter",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-3 Surprise! - 7 Peg Combo",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!"
+        },
+        {
+            "name": "1-3 Surprise! - 15 Peg Combo",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!"
+        },
+        {
+            "name": "1-3 Surprise! - 3 Orange Peg Combo",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!"
+        },
+        {
+            "name": "1-3 Surprise! - 5 Orange Peg Combo",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!"
+        },
+        {
+            "name": "1-3 Surprise! - Fever Meter X2",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!"
+        },
+        {
+            "name": "1-3 Surprise! - Fever Meter X3",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "1-3 Surprise! - Fever Meter X5",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "1-3 Surprise! - Fever Meter X10",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "1-3 Surprise! - Level Clear",
+            "category": ["1-3 Surprise!"],
+            "region": "1-3 Surprise!",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-3 Surprise! - Full Clear",
+            "category": ["1-3 Surprise!", "Full Clears"],
+            "region": "1-3 Surprise!",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-4 Toasty - 7 Peg Combo",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty"
+        },
+        {
+            "name": "1-4 Toasty - 15 Peg Combo",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty"
+        },
+        {
+            "name": "1-4 Toasty - 3 Orange Peg Combo",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty"
+        },
+        {
+            "name": "1-4 Toasty - 5 Orange Peg Combo",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty"
+        },
+        {
+            "name": "1-4 Toasty - Fever Meter X2",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty"
+        },
+        {
+            "name": "1-4 Toasty - Fever Meter X3",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "1-4 Toasty - Fever Meter X5",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "1-4 Toasty - Fever Meter X10",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "1-4 Toasty - Level Clear",
+            "category": ["1-4 Toasty"],
+            "region": "1-4 Toasty",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-4 Toasty - Full Clear",
+            "category": ["1-4 Toasty", "Full Clears"],
+            "region": "1-4 Toasty",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-5 Dynamic Duo - 7 Peg Combo",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo"
+        },
+        {
+            "name": "1-5 Dynamic Duo - 15 Peg Combo",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo"
+        },
+        {
+            "name": "1-5 Dynamic Duo - 3 Orange Peg Combo",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo"
+        },
+        {
+            "name": "1-5 Dynamic Duo - 5 Orange Peg Combo",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo"
+        },
+        {
+            "name": "1-5 Dynamic Duo - Fever Meter X2",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo"
+        },
+        {
+            "name": "1-5 Dynamic Duo - Fever Meter X3",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "1-5 Dynamic Duo - Fever Meter X5",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "1-5 Dynamic Duo - Fever Meter X10",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "1-5 Dynamic Duo - Level Clear",
+            "category": ["1-5 Dynamic Duo"],
+            "region": "1-5 Dynamic Duo",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "1-5 Dynamic Duo - Full Clear",
+            "category": ["1-5 Dynamic Duo", "Full Clears"],
+            "region": "1-5 Dynamic Duo",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-1 Defense - 7 Peg Combo",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense"
+        },
+        {
+            "name": "2-1 Defense - 15 Peg Combo",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense"
+        },
+        {
+            "name": "2-1 Defense - 3 Orange Peg Combo",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense"
+        },
+        {
+            "name": "2-1 Defense - 5 Orange Peg Combo",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense"
+        },
+        {
+            "name": "2-1 Defense - Fever Meter X2",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense"
+        },
+        {
+            "name": "2-1 Defense - Fever Meter X3",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "2-1 Defense - Fever Meter X5",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "2-1 Defense - Fever Meter X10",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "2-1 Defense - Level Clear",
+            "category": ["2-1 Defense"],
+            "region": "2-1 Defense",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-1 Defense - Full Clear",
+            "category": ["2-1 Defense", "Full Clears"],
+            "region": "2-1 Defense",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-2 Headshot - 7 Peg Combo",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot"
+        },
+        {
+            "name": "2-2 Headshot - 15 Peg Combo",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot"
+        },
+        {
+            "name": "2-2 Headshot - 3 Orange Peg Combo",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot"
+        },
+        {
+            "name": "2-2 Headshot - 5 Orange Peg Combo",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot"
+        },
+        {
+            "name": "2-2 Headshot - Fever Meter X2",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot"
+        },
+        {
+            "name": "2-2 Headshot - Fever Meter X3",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "2-2 Headshot - Fever Meter X5",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "2-2 Headshot - Fever Meter X10",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "2-2 Headshot - Level Clear",
+            "category": ["2-2 Headshot"],
+            "region": "2-2 Headshot",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-2 Headshot - Full Clear",
+            "category": ["2-2 Headshot", "Full Clears"],
+            "region": "2-2 Headshot",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-3 Double Trouble - 7 Peg Combo",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble"
+        },
+        {
+            "name": "2-3 Double Trouble - 15 Peg Combo",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble"
+        },
+        {
+            "name": "2-3 Double Trouble - 3 Orange Peg Combo",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble"
+        },
+        {
+            "name": "2-3 Double Trouble - 5 Orange Peg Combo",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble"
+        },
+        {
+            "name": "2-3 Double Trouble - Fever Meter X2",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble"
+        },
+        {
+            "name": "2-3 Double Trouble - Fever Meter X3",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "2-3 Double Trouble - Fever Meter X5",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "2-3 Double Trouble - Fever Meter X10",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "2-3 Double Trouble - Level Clear",
+            "category": ["2-3 Double Trouble"],
+            "region": "2-3 Double Trouble",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-3 Double Trouble - Full Clear",
+            "category": ["2-3 Double Trouble", "Full Clears"],
+            "region": "2-3 Double Trouble",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-4 So Many Portals - 7 Peg Combo",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals"
+        },
+        {
+            "name": "2-4 So Many Portals - 15 Peg Combo",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals"
+        },
+        {
+            "name": "2-4 So Many Portals - 3 Orange Peg Combo",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals"
+        },
+        {
+            "name": "2-4 So Many Portals - 5 Orange Peg Combo",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals"
+        },
+        {
+            "name": "2-4 So Many Portals - Fever Meter X2",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals"        },
+        {
+            "name": "2-4 So Many Portals - Fever Meter X3",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals",
+            "requires": "|Progressive Fever Meter Threshold|"
+        },
+        {
+            "name": "2-4 So Many Portals - Fever Meter X5",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals",
+            "requires": "|Progressive Fever Meter Threshold:2|"
+        },
+        {
+            "name": "2-4 So Many Portals - Fever Meter X10",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals",
+            "requires": "|Progressive Fever Meter Threshold:3|"
+        },
+        {
+            "name": "2-4 So Many Portals - Level Clear",
+            "category": ["2-4 So Many Portals"],
+            "region": "2-4 So Many Portals",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-4 So Many Portals - Full Clear",
+            "category": ["2-4 So Many Portals", "Full Clears"],
+            "region": "2-4 So Many Portals",
+            "requires": "|Progressive Fever Meter Threshold:4|"
+        },
+        {
+            "name": "2-5 I Love Crates - Level Clear",
+            "category": ["2-5 I Love Crates"],
+            "region": "2-5 I Love Crates",
+            "requires": "|Progressive Fever Meter Threshold:4| AND {OptionCountPercent(|Gold Peg|, gold_pegs_required)}",
+            "victory": true
+        }
+    ]
+}
+
