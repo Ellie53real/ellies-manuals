@@ -2,7 +2,7 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "PeggleExtreme",
   "creator": "Ellie53",
-  "filler_item_name": "Rusted Peg",
+  "filler_item_name": "Disintegrated Peg",
   "starting_items": [],
   "death_link": false
 }
