@@ -20,3 +20,4 @@ Various mechanics featured throughout the game's levels are randomized into the 
 * The Gun Hands seen in 11-1 and 11-3.
 * The Vacuum Hands seen in 11-2 and 11-4.
 * If World 5: All for One is enabled in YAML settings, the Double Jump ability seen in 5-2 and 5-4.
+* * World 5 is a toggleable option due to it being inaccessible in online play. (It should only be enabled if you are going to be playing in local multiplayer mode.)
