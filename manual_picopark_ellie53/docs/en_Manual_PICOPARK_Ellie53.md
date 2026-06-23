@@ -5,6 +5,7 @@ From *PICO PARK*'s [Steam page](https://store.steampowered.com/app/1509960/PICO_
 In Archipelago, the goal of this game is to collect a set number of Park Tokens, and complete a set number of the game's 12 worlds. (Both of these numbers can be configured in the settings of the YAML.)
 
 For this Manual, the game takes on an 'Open World' format similar to the Open World implementation for Celeste, where you can play levels in any order you'd like.
+
 *Because of this, the player is expected to have a save file with *every level already unlocked*.
 
 Various mechanics featured throughout the game's levels are randomized into the item pool, and you must receive them in order to play levels that utilize them:
