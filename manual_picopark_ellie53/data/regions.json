@@ -1,0 +1,61 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Level Select": {
+    "starting": true,
+    "connects_to": [
+      "World 01: Hello Pico Park", "World 02: Go Together", "World 03: Time Limit", "World 04: Gimmick Gimmick", "World 05: All for One", "World 06: Push or Jump", "World 07: Move and Stop", "World 08: Retro Game", "World 09: Ball Park", "World 10: Two Players", "World 11: Hand Gimmick", "World 12: Last Park", "Goal"
+    ]
+  },
+  "World 01: Hello Pico Park": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 02: Go Together": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 03: Time Limit": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 04: Gimmick Gimmick": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 05: All for One": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 06: Push or Jump": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 07: Move and Stop": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 08: Retro Game": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 09: Ball Park": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 10: Two Players": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 11: Hand Gimmick": {
+    "starting": true,
+    "connects_to": []
+  },
+  "World 12: Last Park": {
+    "starting": true,
+    "connects_to": []
+  },
+  "Goal": {
+    "starting": true,
+    "connects_to": []
+  }
+}

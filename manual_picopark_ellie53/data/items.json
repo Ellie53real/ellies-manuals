@@ -1,0 +1,120 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Buttons",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Weighted Platforms",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Push Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Springs",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Planes",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Color Coded Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Retro Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Hard Hats",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Jar",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Tilting Platforms",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Pattern Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Gun Hands",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Vacuum Hands",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Double Jump",
+            "category": [
+                "Mechanics",
+                "World 5 Mechanic"
+            ],
+            "progression": true
+        },
+        {
+            "count": "0",
+            "name": "Park Token",
+            "category": [
+                "Completion Items"
+            ],
+            "progression": true
+        },
+        {
+            "count": "12",
+            "name": "World Completion",
+            "category": [
+                "Completion Items"
+            ],
+            "progression": true
+        }
+    ]
+}

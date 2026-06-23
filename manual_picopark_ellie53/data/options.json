@@ -1,0 +1,74 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "include_world_5":{
+            "description": [
+                "Whether or not to include levels from World 5: All for One in the pool.",
+                "Only turn this on if you're playing the game in local multiplayer, as this world is not accessible in online play."
+            ],
+            "display_name": "Include World 5",
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "park_tokens_total":{
+            "description": [
+                "The total number of Park Token items that will be in the multiworld."
+            ],
+            "display_name": "Park Tokens Total",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 50,
+            "default": 20,
+            "group": "Game Options"
+        },
+        "park tokens_required":{
+            "description": [
+                "The total percentage of Park Tokens that will be required to beat the game."
+            ],
+            "display_name": "Park Tokens Required",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 100,
+            "default": 50,
+            "group": "Game Options"
+        },
+        "world_completions_required":{
+            "description": [
+                "The total number of worlds that must be completed (i.e. all 4 levels in the world beaten) to beat the game."
+            ],
+            "display_name": "World Completions Required",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 12,
+            "default": 6,
+            "group": "Game Options"
+        }
+    }
+
+}

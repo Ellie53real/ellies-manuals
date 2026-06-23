@@ -1,0 +1,10 @@
+{
+ "World 5 Mechanic": {
+        "hidden": true,
+        "yaml_option": ["include_world_5"]
+    },
+ "World 05: All for One": {
+        "hidden": false,
+        "yaml_option": ["include_world_5"]
+    }
+}

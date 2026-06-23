@@ -1,0 +1,679 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "1-1 Completed (1)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Buttons| AND |Weighted Platforms|"
+        },
+        {
+            "name": "1-1 Completed (2)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Buttons| AND |Weighted Platforms|"
+        },
+        {
+            "name": "1-2 Completed (1)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Push Blocks|"
+        },
+        {
+            "name": "1-2 Completed (2)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Push Blocks|"
+        },
+        {
+            "name": "1-3 Completed (1)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Buttons| AND |Push Blocks|"
+        },
+        {
+            "name": "1-3 Completed (2)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Buttons| AND |Push Blocks|"
+        },
+        {
+            "name": "1-4 Completed (1)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Weighted Platforms|"
+        },
+        {
+            "name": "1-4 Completed (2)",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Weighted Platforms|"
+        },
+        {
+            "name": "World 1 Completed",
+            "category": ["World 01: Hello Pico Park"],
+            "region": "World 01: Hello Pico Park",
+            "requires": "|Buttons| AND |Weighted Platforms| AND |Push Blocks|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "2-1 Completed (1)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together"
+        },
+        {
+            "name": "2-1 Completed (2)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together"
+        },
+        {
+            "name": "2-2 Completed (1)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together"
+        },
+        {
+            "name": "2-2 Completed (2)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together"
+        },
+        {
+            "name": "2-3 Completed (1)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together"
+        },
+        {
+            "name": "2-3 Completed (2)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together"
+        },
+        {
+            "name": "2-4 Completed (1)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together",
+            "requires": "|Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "2-4 Completed (2)",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together",
+            "requires": "|Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "World 2 Completed",
+            "category": ["World 02: Go Together"],
+            "region": "World 02: Go Together",
+            "requires": "|Push Blocks| AND |Springs|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "3-1 Completed (1)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit"
+        },
+        {
+            "name": "3-1 Completed (2)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit"
+        },
+        {
+            "name": "3-2 Completed (1)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit",
+            "requires": "|Buttons| AND |Springs|"
+        },
+        {
+            "name": "3-2 Completed (2)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit",
+            "requires": "|Buttons| AND |Springs|"
+        },
+        {
+            "name": "3-3 Completed (1)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit",
+            "requires": "|Springs|"
+        },
+        {
+            "name": "3-3 Completed (2)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit",
+            "requires": "|Springs|"
+        },
+        {
+            "name": "3-4 Completed (1)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit",
+            "requires": "|Buttons| AND |Push Blocks|"
+        },
+        {
+            "name": "3-4 Completed (2)",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit",
+            "requires": "|Buttons| AND |Push Blocks|"
+        },
+        {
+            "name": "World 3 Completed",
+            "category": ["World 03: Time Limit"],
+            "region": "World 03: Time Limit",
+            "requires": "|Buttons| AND |Push Blocks| AND |Springs|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "4-1 Completed (1)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick"
+        },
+        {
+            "name": "4-1 Completed (2)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick"
+        },
+        {
+            "name": "4-2 Completed (1)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick",
+            "requires": "|Push Blocks| AND |Planes|"
+        },
+        {
+            "name": "4-2 Completed (2)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick",
+            "requires": "|Push Blocks| AND |Planes|"
+        },
+        {
+            "name": "4-3 Completed (1)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick",
+            "requires": "|Buttons|"
+        },
+        {
+            "name": "4-3 Completed (2)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick",
+            "requires": "|Buttons|"
+        },
+        {
+            "name": "4-4 Completed (1)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick",
+            "requires": "|Buttons|"
+        },
+        {
+            "name": "4-4 Completed (2)",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick",
+            "requires": "|Buttons|"
+        },
+        {
+            "name": "World 4 Completed",
+            "category": ["World 04: Gimmick Gimmick"],
+            "region": "World 04: Gimmick Gimmick",
+            "requires": "|Buttons| AND |Push Blocks| AND |Planes|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "5-1 Completed (1)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One"
+        },
+        {
+            "name": "5-1 Completed (2)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One"
+        },
+        {
+            "name": "5-2 Completed (1)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One",
+			"requires": "|Buttons| AND |Double Jump|"
+        },
+        {
+            "name": "5-2 Completed (2)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One",
+			"requires": "|Buttons| AND |Double Jump|"
+        },
+        {
+            "name": "5-3 Completed (1)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One"
+        },
+        {
+            "name": "5-3 Completed (2)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One"
+        },
+        {
+            "name": "5-4 Completed (1)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One",
+            "requires": "|Double Jump|"
+        },
+        {
+            "name": "5-4 Completed (2)",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One",
+            "requires": "|Double Jump|"
+        },
+        {
+            "name": "World 5 Completed",
+            "category": ["World 05: All for One"],
+            "region": "World 05: All for One",
+			"requires": "|Buttons| AND |Double Jump|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "6-1 Completed (1)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump",
+			"requires": "|Color Coded Blocks|"
+        },
+        {
+            "name": "6-1 Completed (2)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump",
+			"requires": "|Color Coded Blocks|"
+        },
+        {
+            "name": "6-2 Completed (1)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump",
+            "requires": "|Weighted Platforms| AND |Color Coded Blocks|"
+        },
+        {
+            "name": "6-2 Completed (2)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump",
+            "requires": "|Weighted Platforms| AND |Color Coded Blocks|"
+        },
+        {
+            "name": "6-3 Completed (1)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump",
+            "requires": "|Weighted Platforms|"
+        },
+        {
+            "name": "6-3 Completed (2)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump",
+            "requires": "|Weighted Platforms|"
+        },
+        {
+            "name": "6-4 Completed (1)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump"
+        },
+        {
+            "name": "6-4 Completed (2)",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump"
+        },
+        {
+            "name": "World 6 Completed",
+            "category": ["World 06: Push or Jump"],
+            "region": "World 06: Push or Jump",
+            "requires": "|Weighted Platforms| AND |Color Coded Blocks|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "7-1 Completed (1)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop"
+        },
+        {
+            "name": "7-1 Completed (2)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop"
+        },
+        {
+            "name": "7-2 Completed (1)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop",
+            "requires": "|Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "7-2 Completed (2)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop",
+            "requires": "|Push Blocks| AND |Springs|"
+		},
+        {
+            "name": "7-3 Completed (1)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop",
+            "requires": "|Weighted Platforms|"
+        },
+        {
+            "name": "7-3 Completed (2)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop",
+            "requires": "|Weighted Platforms|"
+        },
+        {
+            "name": "7-4 Completed (1)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop",
+            "requires": "|Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "7-4 Completed (2)",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop",
+            "requires": "|Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "World 7 Completed",
+            "category": ["World 07: Move and Stop"],
+            "region": "World 07: Move and Stop",
+            "requires": "|Weighted Platforms| AND |Push Blocks| AND |Springs|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "8-1 Completed (1)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks|"
+        },
+        {
+            "name": "8-1 Completed (2)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks|"
+        },
+        {
+            "name": "8-2 Completed (1)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks| AND |Hard Hats|"
+        },
+        {
+            "name": "8-2 Completed (2)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks| AND |Hard Hats|"
+        },
+        {
+            "name": "8-3 Completed (1)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks|"
+        },
+        {
+            "name": "8-3 Completed (2)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks|"
+        },
+        {
+            "name": "8-4 Completed (1)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks| AND |Hard Hats|"
+        },
+        {
+            "name": "8-4 Completed (2)",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+			"requires": "|Retro Blocks| AND |Hard Hats|"
+        },
+        {
+            "name": "World 8 Completed",
+            "category": ["World 08: Retro Game"],
+            "region": "World 08: Retro Game",
+            "requires": "|Retro Blocks| AND |Hard Hats|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "9-1 Completed (1)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+			"requires": "|Jar|"
+        },
+        {
+            "name": "9-1 Completed (2)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+			"requires": "|Jar|"
+        },
+        {
+            "name": "9-2 Completed (1)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+            "requires": "|Tilting Platforms|"
+        },
+        {
+            "name": "9-2 Completed (2)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+            "requires": "|Tilting Platforms|"
+        },
+        {
+            "name": "9-3 Completed (1)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+			"requires": "|Retro Blocks| AND |Hard Hats|"
+        },
+        {
+            "name": "9-3 Completed (2)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+			"requires": "|Retro Blocks| AND |Hard Hats|"
+        },
+        {
+            "name": "9-4 Completed (1)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+			"requires": "|Jar|"
+        },
+        {
+            "name": "9-4 Completed (2)",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+			"requires": "|Jar|"
+        },
+        {
+            "name": "World 9 Completed",
+            "category": ["World 09: Ball Park"],
+            "region": "World 09: Ball Park",
+            "requires": "|Retro Blocks| AND |Hard Hats| AND |Jar| AND |Tilting Platforms|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "10-1 Completed (1)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+			"requires": "|Buttons|"
+        },
+        {
+            "name": "10-1 Completed (2)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+			"requires": "|Buttons|"
+        },
+        {
+            "name": "10-2 Completed (1)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+            "requires": "|Buttons| AND |Springs| AND |Pattern Blocks|"
+        },
+        {
+            "name": "10-2 Completed (2)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+            "requires": "|Buttons| AND |Springs| AND |Pattern Blocks|"
+        },
+        {
+            "name": "10-3 Completed (1)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+            "requires": "|Buttons| AND |Weighted Platforms| AND |Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "10-3 Completed (2)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+            "requires": "|Buttons| AND |Weighted Platforms| AND |Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "10-4 Completed (1)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+            "requires": "|Buttons| AND |Weighted Platforms| AND |Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "10-4 Completed (2)",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+            "requires": "|Buttons| AND |Weighted Platforms| AND |Push Blocks| AND |Springs|"
+        },
+        {
+            "name": "World 10 Completed",
+            "category": ["World 10: Two Players"],
+            "region": "World 10: Two Players",
+            "requires": "|Buttons| AND |Weighted Platforms| AND |Push Blocks| AND |Springs| AND |Pattern Blocks|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "11-1 Completed (1)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Gun Hands|"
+        },
+        {
+            "name": "11-1 Completed (2)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Gun Hands|"
+        },
+        {
+            "name": "11-2 Completed (1)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Vacuum Hands|"
+        },
+        {
+            "name": "11-2 Completed (2)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Vacuum Hands|"
+        },
+        {
+            "name": "11-3 Completed (1)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Gun Hands|"
+        },
+        {
+            "name": "11-3 Completed (2)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Gun Hands|"
+        },
+        {
+            "name": "11-4 Completed (1)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Buttons| AND |Push Blocks| AND |Vacuum Hands|"
+        },
+        {
+            "name": "11-4 Completed (2)",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Buttons| AND |Push Blocks| AND |Vacuum Hands|"
+        },
+        {
+            "name": "World 11 Completed",
+            "category": ["World 11: Hand Gimmick"],
+            "region": "World 11: Hand Gimmick",
+			"requires": "|Buttons| AND |Push Blocks| AND |Gun Hands| AND |Vacuum Hands|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "12-1 Completed (1)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+			"requires": "|Push Blocks|"
+        },
+        {
+            "name": "12-1 Completed (2)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+			"requires": "|Push Blocks|"
+        },
+        {
+            "name": "12-2 Completed (1)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+            "requires": "|Weighted Platforms| AND |Springs|"
+        },
+        {
+            "name": "12-2 Completed (2)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+            "requires": "|Weighted Platforms| AND |Springs|"
+        },
+        {
+            "name": "12-3 Completed (1)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+            "requires": "|Planes|"
+        },
+        {
+            "name": "12-3 Completed (2)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+            "requires": "|Planes|"
+        },
+        {
+            "name": "12-4 Completed (1)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+            "requires": "|Buttons| AND |Springs|"
+        },
+        {
+            "name": "12-4 Completed (2)",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+            "requires": "|Buttons| AND |Springs|"
+        },
+        {
+            "name": "World 12 Completed",
+            "category": ["World 12: Last Park"],
+            "region": "World 12: Last Park",
+            "requires": "|Buttons| AND |Weighted Platforms| AND |Push Blocks| AND |Springs| AND |Planes|",
+            "place_item": [
+        "World Completion"
+        ]
+        },
+        {
+            "name": "Game Completed",
+            "category": ["Goal"],
+            "region": "Goal",
+            "requires": "{OptionCount(|World Completion|, world_completions_required)} AND {OptionCountPercent(|Park Token|, park_tokens_required)}",
+            "victory": true
+        }
+    ]
+}
+
