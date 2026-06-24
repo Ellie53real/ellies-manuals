@@ -2,8 +2,49 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
     {
-      "count": "7",
-      "name": "Progressive Chapter Unlock",
+      "name": "Chapter Unlock - Friendly Bunny Mochi",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Chapter Unlock - Clever Fox Moxie",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Chapter Unlock - Wandering Wolf Trick",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Chapter Unlock - Dreaming Treat",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Chapter Unlock - Mochi in Frosting",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Chapter Unlock - Lucky Number Moxie",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Chapter Unlock - Trick Comes Home",
       "category": [
         "Chapter Unlocks"
       ],
@@ -597,6 +638,14 @@
         "Alternate Ending Items"
       ],
       "useful": true
+    },
+    {
+      "count": 8,
+      "name": "Chapter Completion",
+      "category": [
+        "Chapter Completions"
+      ],
+      "progression": true
     }
   ]
 }

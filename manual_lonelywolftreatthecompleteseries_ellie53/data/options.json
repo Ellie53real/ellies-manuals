@@ -48,6 +48,17 @@
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
+        },
+        "chapters_required":{
+            "description": [
+                "How many of the 8 chapters must be completed to beat the game."
+            ],
+            "display_name": "Chapters Required",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 8,
+            "default": 5,
+            "group": "Game Options"
         }
     }
 
