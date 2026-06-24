@@ -3,7 +3,7 @@ From *Lonely Wolf Treat*'s [itch.io page](https://nomnomnami.itch.io/lonely-wolf
 
 *[Lonely Wolf Treat: The Complete Series](https://nomnomnami.itch.io/treat-complete)* takes the first six chapters of the series (originally released as separate games), adds two more, and brings it all together in one package, with various touch-ups and additions made to those first six chapters.
 
-In Archipelago, the goal of this game is to reach the end of the second part of chapter 8: *Trick Comes Home*.
+In Archipelago, the goal of this game is to complete a set number of the total 8 chapters available. (This number can be configured in your YAML settings.)
 
 Locations mostly consist of the various items you can find (or buy from shops) throughout the game. There are also locations for:
 * Completing each chapter
