@@ -71,6 +71,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     item_config["Park Token"] = +world.options.park_tokens_total
+    item_config["World Completion"] = 12 if world.options.include_world_5 else 11
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -80,8 +81,6 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
-    itemNamesToRemove: list["str"] = [] # List of item names
-    if not world.options.include_world_5: itemNamesToRemove.append("World Completion")
     # Add your code here to calculate which items to remove.
     #
     # Because multiple copies of an item can exist, you need to add an item name
