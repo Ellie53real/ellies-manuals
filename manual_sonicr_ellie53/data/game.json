@@ -1,0 +1,16 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SonicR",
+  "creator": "Ellie53",
+  "filler_item_name": "Sonic Token",
+  "starting_items": [
+    {
+      "items": [
+        "Amy Rose",
+        "Resort Island"
+      ]
+    }
+  ],
+  "death_link": false,
+  "starting_index": 1
+}

@@ -1,0 +1,7 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Super Sonic": {
+        "hidden": true,
+        "yaml_option": ["super_sonic"]
+    }
+}
