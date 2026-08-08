@@ -2124,6 +2124,16 @@
             "region": "Retro"
         },
         {
+            "name": "Retro 2 - Secret Melon #11 On Top Of Blue Tower",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #12 On Top Of Orange Tower",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
             "name": "Retro 2 - Golden Melon #1 On Top Of Red Tower",
             "category": ["Retro", "Golden Melons"],
             "region": "Retro"
