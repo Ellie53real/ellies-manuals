@@ -9,6 +9,12 @@
         "Level Packs"
       ],
       "random": 1
+    },
+    {
+      "item_categories": [
+        "Ball Skins"
+      ],
+      "random": 1
     }
   ],
   "death_link": false,

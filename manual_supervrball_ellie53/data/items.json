@@ -52,6 +52,76 @@
             ],
             "count": 4,
             "progression": true
+        },
+        {
+            "name": "Beach Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Red Beach Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Green Beach Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Blue Beach Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Star Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Snowman Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Bauble Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Present Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "LED Lights Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "LGBTQIA+ Ball",
+            "category": [
+                "Ball Skins"
+            ],
+            "filler": true
         }
     ]
 }
