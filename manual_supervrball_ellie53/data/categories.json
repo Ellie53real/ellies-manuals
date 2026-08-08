@@ -1,0 +1,23 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Golden Melons": {
+        "hidden": true,
+        "yaml_option": ["include_golden_melons"]
+    },
+    "Desert Credits": {
+        "hidden": true,
+        "yaml_option": ["include_desert_credits"]
+    },
+    "Secret Melons": {
+        "hidden": true,
+        "yaml_option": ["include_secret_melons"]
+    },
+    "Shortcuts": {
+        "hidden": true,
+        "yaml_option": ["include_shortcuts"]
+    },
+    "Reverse Levels": {
+        "hidden": true,
+        "yaml_option": ["include_reverse_levels"]
+    }
+}

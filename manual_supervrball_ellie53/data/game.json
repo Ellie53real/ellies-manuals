@@ -1,0 +1,16 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SuperVRBall",
+  "creator": "Ellie53",
+  "filler_item_name": "Melon Slice",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Level Packs"
+      ],
+      "random": 1
+    }
+  ],
+  "death_link": false,
+  "starting_index": 1
+}

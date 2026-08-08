@@ -1,0 +1,27 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "A Gift From the Stars": {
+        "hidden": false,
+        "yaml_option": ["include_puzzle_levels"]
+    },
+    "Dropzle": {
+        "hidden": false,
+        "yaml_option": ["include_puzzle_levels"]
+    },
+    "Puzzle Levels": {
+        "hidden": true,
+        "yaml_option": ["include_puzzle_levels"]
+    },
+    "Special Berries": {
+        "hidden": true,
+        "yaml_option": ["include_special_berries"]
+    },
+    "Binoculars": {
+        "hidden": true,
+        "yaml_option": ["binosanity"]
+    },
+    "Cars": {
+        "hidden": true,
+        "yaml_option": ["carsanity"]
+    }
+}

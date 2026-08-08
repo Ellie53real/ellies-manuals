@@ -1,0 +1,16 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "CelesteStrawberryJam",
+  "creator": "Ellie53",
+  "filler_item_name": "Jam Jar",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Green-Beginner Maps"
+      ],
+      "random": 2
+    }
+  ],
+  "death_link": false,
+  "starting_index": 1
+}

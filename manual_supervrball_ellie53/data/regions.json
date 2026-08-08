@@ -1,0 +1,55 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Pack Select":{
+        "connects_to": ["Island", "Night", "Castle", "PC"],
+        "starting": true
+    },
+    "Island":{
+        "connects_to": ["Volcano"],
+        "requires": "|Progressive Kula Cruise|",
+        "starting": true
+    },
+    "Volcano":{
+        "connects_to": ["Space"],
+        "requires": "|Progressive Kula Cruise:2|"
+    },
+    "Space":{
+        "connects_to": ["Night"],
+        "requires": "|Progressive Kula Cruise:3|"
+    },
+    "Night":{
+        "connects_to": ["Toxic"],
+        "requires": "|Progressive Twilight Tour|"
+    },
+    "Toxic":{
+        "connects_to": ["Desert"],
+        "requires": "|Progressive Twilight Tour:2|"
+    },
+    "Desert":{
+        "connects_to": ["Castle"],
+        "requires": "|Progressive Twilight Tour:3|"
+    },
+    "Castle":{
+        "connects_to": ["Winter"],
+        "requires": "|Progressive Spring King|"
+    },
+    "Winter":{
+        "connects_to": ["Swamp"],
+        "requires": "|Progressive Spring King:2|"
+    },
+    "Swamp":{
+        "connects_to": ["PC"],
+        "requires": "|Progressive Spring King:3|"
+    },
+    "PC":{
+        "connects_to": ["Retro"],
+        "requires": "|Progressive Digital Dilemma|"
+    },
+    "Retro":{
+        "connects_to": ["Glitch"],
+        "requires": "|Progressive Digital Dilemma:2|"
+    },
+    "Glitch":{
+        "requires": "|Progressive Digital Dilemma:3|"
+    }
+}

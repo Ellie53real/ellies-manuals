@@ -1,0 +1,80 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Prologue": {
+        "connects_to": ["Beginner Lobby"], 
+        "starting": true
+    },
+    "Beginner Lobby":{
+        "connects_to": ["Beginner Gym", "Forest Path", "Azure Caverns", "Loopy Lagoon", "Collapsing Skyline", "Seeing is Believing", "If my 'driveway' almost did you in...", "Cassette Cliffs", "Over the City", "Troposphere", "Potential for Anything", "Midnight Spire", "paint", "Rose Garden", "Treehive", "The Squeeze", "Soap", "Switchtube Vista", "A Gift From the Stars", "Strawberry Orchard", "Dropzle", "Coresaken City", "Blueberry Bay"],
+        "starting": true
+    },
+    "Beginner Gym": {
+        "starting": true
+    },
+    "Forest Path": {
+        "requires": "|Forest Path|"
+    },
+    "Azure Caverns": {
+        "requires": "|Azure Caverns|"
+    },
+    "Loopy Lagoon": {
+        "requires": "|Loopy Lagoon|"
+    },
+    "Collapsing Skyline": {
+        "requires": "|Collapsing Skyline|"
+    },
+    "Seeing is Believing": {
+        "requires": "|Seeing is Believing|"
+    },
+    "If my 'driveway' almost did you in...": {
+        "requires": "|If my 'driveway' almost did you in...|"
+    },
+    "Cassette Cliffs": {
+        "requires": "|Cassette Cliffs|"
+    },
+    "Over the City": {
+        "requires": "|Over the City|"
+    },
+    "Troposphere": {
+        "requires": "|Troposphere|"
+    },
+    "Potential for Anything": {
+        "requires": "|Potential for Anything|"
+    },
+    "Midnight Spire": {
+        "requires": "|Midnight Spire|"
+    },
+    "paint": {
+        "requires": "|paint|"
+    },
+    "Rose Garden": {
+        "requires": "|Rose Garden|"
+    },
+    "Treehive": {
+        "requires": "|Treehive|"
+    },
+    "The Squeeze": {
+        "requires": "|The Squeeze|"
+    },
+    "Soap": {
+        "requires": "|Soap|"
+    },
+    "Switchtube Vista": {
+        "requires": "|Switchtube Vista|"
+    },
+    "A Gift From the Stars": {
+        "requires": "|A Gift From the Stars|"
+    },
+    "Strawberry Orchard": {
+        "requires": "|Strawberry Orchard|"
+    },
+    "Dropzle": {
+        "requires": "|Dropzle|"
+    },
+    "Coresaken City": {
+        "requires": "|Coresaken City|"
+    },
+    "Blueberry Bay": {
+        "requires": "{OptionCount(|Mini Heart|, mini_heart_requirement)}"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "include_reverse_levels":{
+            "description": [
+                "Whether or not to include checks for the Reversed versions of each level.",
+                "NOTE: Currently unimplemented - this will work in a future version of the APWorld, but I've left it in for now so YAMLs are unlikely to need an update."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "display_name": "Include Reverse Levels",
+            "group": "Game Options"
+        },
+        "include_secret_melons":{
+            "description": [
+                "Whether or not to include checks for collecting Secret Melons.",
+                "Adds 299 checks."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "display_name": "Include Secret Melons",
+            "group": "Game Options"
+        },
+        "include_golden_melons":{
+            "description": [
+                "Whether or not to include checks for collecting Golden Melons.",
+                "Adds 142 checks."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "display_name": "Include Golden Melons",
+            "group": "Game Options"
+        },
+        "include_desert_credits":{
+            "description": [
+                "Whether or not to include checks for collecting each of the credits in Desert 6.",
+                "Adds 11 checks; will only work if Golden Melons are also enabled."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "display_name": "Include Desert Credits",
+            "group": "Game Options"
+        },
+        "include_shortcuts":{
+            "description": [
+                "Whether or not to include checks for taking the developer-intended shortcuts found in a handful of levels.",
+                "Adds 13 checks."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "display_name": "Include Shortcuts",
+            "group": "Game Options"
+        },
+        "pack_requirement":{
+            "type": "Range",
+            "description": [
+                "How many Level Packs (each consisting of 3 sets of levels) must be completed in order to complete the game.",
+                "Reversed Level Packs are counted separately from the normal versions."
+            ],
+            "range_start": 0,
+            "range_end": 8,
+            "default": 3,
+            "display_name": "Pack Requirement",
+            "group": "Game Options"
+        }
+    }
+
+}

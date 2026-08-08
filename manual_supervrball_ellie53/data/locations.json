@@ -1,0 +1,2743 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Island 1 - Level Complete",
+            "category": ["Island"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 2 - Side Platform Shortcut",
+            "category": ["Island", "Shortcuts"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 2 - Level Complete",
+            "category": ["Island"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 3 - Level Complete",
+            "category": ["Island"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 4 - Bridge Shortcut",
+            "category": ["Island", "Shortcuts"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 4 - Level Complete",
+            "category": ["Island"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 5 - Cliff Shortcut",
+            "category": ["Island", "Shortcuts"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 5 - Golden Melon On Top of Cliff",
+            "category": ["Island", "Golden Melons"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 5 - Level Complete",
+            "category": ["Island"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 6 - Secret Float Shortcut",
+            "category": ["Island"],
+            "region": "Island"
+        },
+        {
+            "name": "Island 6 - Level Complete",
+            "category": ["Island"],
+            "region": "Island"
+        },
+        {
+            "name": "Volcano 1 - Level Complete",
+            "category": ["Volcano"],
+            "region": "Volcano"
+        },
+        {
+            "name": "Volcano 2 - Level Complete",
+            "category": ["Volcano"],
+            "region": "Volcano"
+        },
+        {
+            "name": "Volcano 3 - Shortcut",
+            "category": ["Volcano", "Shortcuts"],
+            "region": "Volcano"
+        },
+        {
+            "name": "Volcano 3 - Level Complete",
+            "category": ["Volcano"],
+            "region": "Volcano"
+        },
+        {
+            "name": "Volcano 4 - Shortcut",
+            "category": ["Volcano", "Shortcuts"],
+            "region": "Volcano"
+        },
+        {
+            "name": "Volcano 4 - Level Complete",
+            "category": ["Volcano"],
+            "region": "Volcano"
+        },
+        {
+            "name": "Volcano 5 - Level Complete",
+            "category": ["Volcano"],
+            "region": "Volcano"
+        },
+        {
+            "name": "Space 1 - Level Complete",
+            "category": ["Space"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 2 - Level Complete",
+            "category": ["Space"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 3 - Shortcut",
+            "category": ["Space", "Shortcuts"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 3 - Level Complete",
+            "category": ["Space"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 4 - Level Complete",
+            "category": ["Space"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 5 - Golden Melon #1 On High Asteroid Rings",
+            "category": ["Space", "Golden Melons"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 5 - Golden Melon #2 On Middle Asteroid Rings",
+            "category": ["Space", "Golden Melons"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 5 - Golden Melon #3 On Low Asteroid",
+            "category": ["Space", "Golden Melons"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 5 - Golden Melon #4 On Low Asteroid Rings",
+            "category": ["Space", "Golden Melons"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 5 - Golden Melon #5 On Low Asteroid Rings",
+            "category": ["Space", "Golden Melons"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 5 - Level Complete",
+            "category": ["Space"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 6 - Level Complete",
+            "category": ["Space"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 7 - Level Complete",
+            "category": ["Space"],
+            "region": "Space"
+        },
+        {
+            "name": "Kula Cruise - Pack Complete",
+            "category": ["Completions"],
+            "region": "Space",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "Night 1 - Golden Melon On Right Path",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 1 - Level Complete",
+            "category": ["Night"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Golden Melon Before Goal Post",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Secret Melon #1 Behind Tree",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Secret Melon #2 Behind Tree",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Secret Melon #3 Behind Tree",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Level Complete",
+            "category": ["Night"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 3 - Golden Melon #1 Near Fences",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 3 - Golden Melon #2 In-Between Trees",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 3 - Golden Melon #3 Before Goal Post",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 3 - Level Complete",
+            "category": ["Night"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Golden Melon In Middle Of Top Path",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #1 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #2 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #3 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #4 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #5 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #6 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #7 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #8 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Secret Melon #9 On Bottom Path",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 4 - Level Complete",
+            "category": ["Night"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Golden Melon #1 Past Middle Platform",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Golden Melon #2 Behind Goal Post",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #1 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #2 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #3 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #4 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #5 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #6 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #7 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #8 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #9 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #10 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #11 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #12 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Secret Melon #13 on Middle Platform",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 5 - Level Complete",
+            "category": ["Night"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #1 On Right Path at Start",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #2 On Right Path at Start",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #3 On Right Path at Start",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #4 On Low Left Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #5 On Low Left Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #6 On Low Left Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #7 On Low Left Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #8 On Low Left Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #9 On Low Left Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #10 On Low Right Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #11 On Low Right Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #12 On Low Right Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #13 On Low Right Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #14 On Low Right Bridge",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #15 Past Rock Near Goal Post",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #16 Past Rock Near Goal Post",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #17 Past Rock Near Goal Post",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Golden Melon in Front Of Goal Post",
+            "category": ["Night", "Golden Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Level Complete",
+            "category": ["Night"],
+            "region": "Night"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #1 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #2 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #3 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #4 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #5 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #6 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #7 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #8 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #9 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #10 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #11 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Secret Melon #12 On Top Of Pipe",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 1 - Level Complete",
+            "category": ["Toxic"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 2 - Secret Melon #1 on Platform Left Of Start Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 2 - Secret Melon #2 on Platform Left Of Start Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 2 - Secret Melon #3 on Platform Left Of Start Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 2 - Secret Melon #4 on Platform Left Of Start Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 2 - Golden Melon On High Platform",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 2 - Level Complete",
+            "category": ["Toxic"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #1 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #2 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #3 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #4 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #5 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #6 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #7 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #8 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #9 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #10 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #11 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #12 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #13 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #14 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #15 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #16 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #17 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #18 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #19 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #20 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Secret Melon #21 On Pipe Behind Ship",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Golden Melon #1 On Pipe Behind Ship",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Golden Melon #2 On Pipe Past Ship",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Golden Melon #3 Above Half-Pipe",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Golden Melon #4 Next To Rock",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Pipe Past Ship Shortcut",
+            "category": ["Toxic", "Shortcuts"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 3 - Level Complete",
+            "category": ["Toxic"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 4 - Golden Melon #1 On Side Rail",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 4 - Golden Melon #2 On Side Rail",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 4 - Level Complete",
+            "category": ["Toxic"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 5 - Golden Melon #1 On Pipe Behind Ship",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 5 - Golden Melon #2 Near Rocks After 3rd Tunnel",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 5 - Level Complete",
+            "category": ["Toxic"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Golden Melon #1 In Front Of Float",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Golden Melon #2 Behind Rock",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Golden Melon #3 On Pipe Next To Goal Post",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Golden Melon #3 On Pipe Behind Goal Post",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Level Complete",
+            "category": ["Toxic"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Desert 1 - Level Complete",
+            "category": ["Desert"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Golden Melon By Ramps",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Level Complete",
+            "category": ["Desert"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #1 On Golden Melon Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #2 On Golden Melon Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #3 On Golden Melon Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #4 On Golden Melon Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #5 On Golden Melon Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #6 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #7 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #8 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #9 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #10 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #11 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #12 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #13 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #14 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #15 Surrounding Golden Melon",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Golden Melon #1 On High Platform In Starting Area",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Golden Melon #2 On High Platform In Starting Area",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Golden Melon #3 On High Platform In Starting Area",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Golden Melon #4 On High Platform In Starting Area",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Golden Melon #5 On Top Of Passageway",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Level Complete",
+            "category": ["Desert"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #1 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #2 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #3 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #4 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Golden Melon On Disconnected Pathway",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Level Complete",
+            "category": ["Desert"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 5 - Float Around The Back Shortcut",
+            "category": ["Desert", "Shortcuts"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 5 - Level Complete",
+            "category": ["Desert"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - VRChat Inc. Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - blueasis Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Faxmashine Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Crashtroid Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Merlin Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Jordo Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Dr. Kim Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - CyanLaser Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Varneon Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - VRWorld Toolkit Credit",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Golden Melon Behind Crashtroid Credit",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - 'See you next time!'",
+            "category": ["Desert", "Golden Melons", "Desert Credits"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 6 - Level Complete",
+            "category": ["Desert"],
+            "region": "Desert"
+        },
+        {
+            "name": "Twilight Tour - Pack Complete",
+            "category": ["Completions"],
+            "region": "Desert",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "Castle 1 - Secret Melon #1 To Left Of Wall",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 1 - Secret Melon #2 To Left Of Wall",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 1 - Secret Melon #3 To Left Of Wall",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 1 - Secret Melon #4 To Left Of Wall",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 1 - Golden Melon #1 Behind Wall",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 1 - Golden Melon #2 Behind Wall",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 1 - Golden Melon #3 Behind Wall",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 1 - Level Complete",
+            "category": ["Castle"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #1 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #2 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #3 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #4 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #5 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #6 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Golden Melon #1 On Back Wall",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Golden Melon #2 On Front Wall",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Golden Melon #3 Above Goal Post",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Level Complete",
+            "category": ["Castle"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 3 - Golden Melon #1 On Bridge",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 3 - Golden Melon #2 On Bridge",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 3 - Level Complete",
+            "category": ["Castle"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 4 - Secret Melon #1 Behind Barrels",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Castle 4 - Secret Melon #2 Behind Barrels",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Castle 4 - Secret Melon #3 Behind Barrels",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Castle 4 - Secret Melon #4 Behind Barrels",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Castle 4 - Secret Melon #5 Behind Barrels",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Castle 4 - Secret Melon #6 Behind Barrels",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Castle 4 - Secret Melon #7 Behind Barrels",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Castle 4 - Golden Melon On Ramp",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 4 - Level Complete",
+            "category": ["Castle"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 5 - Secret Melon To Right Of Barrel",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 5 - Golden Melon #1 Behind Barrel",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 5 - Golden Melon #2 On Back Of Wall",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 5 - Level Complete",
+            "category": ["Castle"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Secret Melon #1 In Left Corner Near Entrance",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Secret Melon #2 In Right Corner Near Entrance",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Secret Melon #3 In Left Corner Of Maze",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Secret Melon #4 In Right Corner Of Maze",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Golden Melon Above Hole",
+            "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Level Complete",
+            "category": ["Castle"],
+            "region": "Castle"
+        },
+        {
+            "name": "Winter 1 - Secret Melon #1 In Top-Left Corner Of High Platform",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 1 - Secret Melon #2 In Top-Right Corner Of High Platform",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 1 - Secret Melon #3 In Bottom-Left Corner Of High Platform",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 1 - Secret Melon #4 In Bottom-Right Corner Of High Platform",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 1 - Golden Melon On High Platform",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 1 - High Platform Shortcut",
+            "category": ["Winter", "Shortcuts"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 1 - Level Complete",
+            "category": ["Winter"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 2 - Secret Melon On Ice Block",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 2 - Golden Melon On Ramp",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 2 - Level Complete",
+            "category": ["Winter"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 3 - Golden Melon #1 On Winterberg",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 3 - Golden Melon #2 On Winterberg",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 3 - Golden Melon #3 By Trees",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 3 - Golden Melon #4 By Trees",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 3 - Level Complete",
+            "category": ["Winter"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 4 - Secret Melon #1 Behind Spawn",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 4 - Secret Melon #2 Behind Spawn",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 4 - Secret Melon #3 Behind Spawn",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 4 - Secret Melon #4 Behind Spawn",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 4 - Level Complete",
+            "category": ["Winter"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 5 - Golden Melon In Middle Of Half-Pipe",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 5 - Level Complete",
+            "category": ["Winter"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #1 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #2 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #3 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #4 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #5 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #6 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #7 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #8 On Top Of Half-Pipe",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Secret Melon #9 On High Platform",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Golden Melon #1 On High Platform",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Golden Melon #2 On Iceberg",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Golden Melon #3 On Iceberg",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Golden Melon #4 On Iceberg",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Golden Melon #5 On Iceberg",
+            "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 6 - Level Complete",
+            "category": ["Winter"],
+            "region": "Winter"
+        },
+        {
+            "name": "Swamp 1 - Secret Melon #1 Left Of Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Secret Melon #2 Left Of Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Secret Melon #3 Left Of Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Secret Melon #4 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Secret Melon #5 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Secret Melon #6 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Golden Melon #1 On Lily Pad",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Golden Melon #2 On Ledge",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 1 - Level Complete",
+            "category": ["Swamp"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 2 - Golden Melon #1 Below Bridge",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 2 - Golden Melon #2 Above Tree",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 2 - Level Complete",
+            "category": ["Swamp"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 3 - Golden Melon After Bounce Pad",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 3 - Level Complete",
+            "category": ["Swamp"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #1 In First Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #2 In First Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #3 In First Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #4 In First Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #5 In Second Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #6 In Second Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #7 In Third Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #8 In Third Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #9 In Third Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #10 In Fourth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #11 In Fourth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #12 In Fourth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #13 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #14 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #15 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #16 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #17 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #18 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #19 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #20 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #21 In Seventh Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #22 In Seventh Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #23 In Seventh Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #24 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #25 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #26 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #27 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #28 In First Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #29 In First Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #30 In First Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #31 In Second Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #32 In Second Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #33 In Second Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #34 In Third Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #35 In Third Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #36 In Third Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #37 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #38 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #39 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Secret Melon #40 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Golden Melon #1 Behind Floats",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Golden Melon #2 Behind Bush",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Golden Melon #3 On Bounce Pad",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Golden Melon #4 On High Platform",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 4 - Level Complete",
+            "category": ["Swamp"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 5 - Secret Melon #1 On Wooden Platform",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 5 - Golden Melon #1 On High Ledge",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 5 - Golden Melon #2 On Middle Ledge",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 5 - Golden Melon #3 On Roundabout Path",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 5 - Wooden Stools Shortcut",
+            "category": ["Swamp", "Shortcuts"],
+            "region": "Swamp",
+            "requires": "|Jump|"
+        },
+        {
+            "name": "Swamp 5 - Level Complete",
+            "category": ["Swamp"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #1 On Bridge Below Goal Post",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #2 On Bridge Below Goal Post",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #3 On Bridge Below Goal Post",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #4 On Balcony Below Goal Post",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #5 On Balcony Outside Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #6 On Balcony Outside Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #7 On Bridge Outside Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #8 On Bridge Outside Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #9 On Bridge Outside Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #10 On Balcony Across From Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Golden Melon On Bridge",
+            "category": ["Swamp", "Golden Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Level Complete",
+            "category": ["Swamp"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Spring King - Pack Complete",
+            "category": ["Completions"],
+            "region": "Swamp",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "PC 1 - Golden Melon #1 To Left Of First Fan",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 1 - Golden Melon #2 To Right Of First Fan",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 1 - Level Complete",
+            "category": ["PC"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 2 - Golden Melon #1 In Front Of Ship",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 2 - Golden Melon #2 Next To RAM Stick",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 2 - Golden Melon #3 On Penultimate Platform",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 2 - Golden Melon #4 On Cables",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 2 - Level Complete",
+            "category": ["PC"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 3 - Golden Melon #1 On First Roundabout",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 3 - Golden Melon #2 On First Roundabout",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 3 - Golden Melon #3 On First Roundabout",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 3 - Golden Melon #4 On Second Roundabout",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 3 - Golden Melon #5 On Second Roundabout",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 3 - Golden Melon #6 On Second Roundabout",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 3 - Level Complete",
+            "category": ["PC"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Golden Melon #1 Next To Processor Chip",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Golden Melon #2 Before Goal Post",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Level Complete",
+            "category": ["PC"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #1 On Processor Chip After First Set Of Wires",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #2 On Processor Chip After First Set Of Wires",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #3 On Processor Chip After First Set Of Wires",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #4 On Processor Chip After Second Set Of Wires",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #5 On Processor Chip After Second Set Of Wires",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #6 On Processor Chip After Second Set Of Wires",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #7 In Between Two RAM Sticks",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #8 In Between Two RAM Sticks",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #9 In Between Two RAM Sticks",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Golden Melon #1 On Green Wire",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Golden Melon #2 On Final Set Of Wires",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Level Complete",
+            "category": ["PC"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #2 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #3 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #4 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #5 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #6 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #7 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #8 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #9 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #10 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #11 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #12 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #13 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #14 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #15 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #16 In Corner Next To Processor Chip",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Golden Melon #1 In First Fan",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Golden Melon #2 In Second Fan",
+            "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Level Complete",
+            "category": ["PC"],
+            "region": "PC"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #1 In Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #2 In Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #3 In Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #4 In Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #5 In Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Golden Melon #1 Above Pipe",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Golden Melon #2 Below Pipe",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Golden Melon #3 After Ramp",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Golden Melon #4 Next To Last Pipe",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Pipe Shortcut",
+            "category": ["Retro", "Shortcuts"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Level Complete",
+            "category": ["Retro"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #1 On High Magenta Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #2 On Low Magenta Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #3 On Yellow Back Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #4 On High Blue Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #5 On Red Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #6 On Low Orange Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #7 On Low Blue Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #8 On Green Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #9 On High Orange Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #10 On Yellow Side Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Golden Melon #1 On Top Of Red Tower",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Golden Melon #2 On Orange Platform",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Level Complete",
+            "category": ["Retro"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Secret Melon #1 Left Of Spawn Block",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Secret Melon #2 Left Of Spawn Block",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Golden Melon #1 On Magenta Platform",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Golden Melon #2 On Magenta Platform",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Golden Melon #3 After Ramp",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Golden Melon #4 On Blue Platform",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Left Side Yellow Platforms Shortcut",
+            "category": ["Retro", "Shortcuts"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 3 - Level Complete",
+            "category": ["Retro"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 4 - Golden Melon In Front Of Goal Post",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 4 - Level Complete",
+            "category": ["Retro"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #1 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #2 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #3 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #4 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #5 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #6 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #7 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #8 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #9 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Secret Melon #10 In Float Shortcut",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Golden Melon #1 In Corner At Start",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Golden Melon #2 In Corner Before Float Shortcut",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Golden Melon #3 In Corner After Float Shortcut",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Golden Melon #4 In Corner On Top Platform",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Float Shortcut",
+            "category": ["Retro", "Shortcuts"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 5 - Level Complete",
+            "category": ["Retro"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #1 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #2 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #3 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #4 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #5 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #6 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #7 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #8 On South Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #9 On West Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #10 On West Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #11 On West Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #12 On West Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #13 On West Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #14 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #15 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #16 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #17 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #18 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #19 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #20 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Secret Melon #21 On North/East Outstretched Platforms",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Golden Melon #1 In Intersection",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Golden Melon #2 Near Goal",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 6 - Level Complete",
+            "category": ["Retro"],
+            "region": "Retro"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #1 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #2 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #3 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #4 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #5 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #6 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #7 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Secret Melon #8 On Left Of Path Split",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Golden Melon #1 Behind Rock",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Golden Melon #2 Behind Rock",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 1 - Level Complete",
+            "category": ["Glitch"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #1 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #2 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #3 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #4 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #5 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #6 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #7 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #8 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #9 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Secret Melon #10 Surrounded By Cards",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Golden Melon #1 On Left Side Top Platform",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Golden Melon #2 On Left Side Top Platform",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 2 - Level Complete",
+            "category": ["Glitch"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #1 On Wall Next To Golden Melon",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #2 On Wall Next To Golden Melon",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #3 On Wall Next To Golden Melon",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #4 On High Ledge",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #5 On High Ledge",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #6 On High Ledge",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #7 On High Ledge",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #8 On High Ledge",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Secret Melon #9 On High Ledge",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Golden Melon #1 On Platform Next To Ramp",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Golden Melon #2 Near Goal",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Golden Melon #3 Near Goal",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 3 - Level Complete",
+            "category": ["Glitch"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #1 Above First Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #2 Above First Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #3 Above First Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #4 Above First Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #5 Above First Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #6 Above First Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #7 Above Second Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #8 Above Second Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #9 Above Second Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #10 Above Second Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #11 Above Second Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Golden Melon #12 Above Second Bounce Pad",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 4 - Level Complete",
+            "category": ["Glitch"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #1 Near Ship",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #2 To Left Of Asteroid",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #3 Behind Parasol Asteroid",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #4 Out In The Open",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #5 Behind Left Asteroid",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #6 Behind Middle Asteroid",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #7 Next To Right Asteroid",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Golden Melon #8 Near Computer Window",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 5 - Level Complete",
+            "category": ["Glitch"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Secret Melon #1 Behind Keyboard",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Secret Melon #2 Behind Keyboard",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Secret Melon #3 Behind Keyboard",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Secret Melon #4 Behind Keyboard",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Secret Melon #5 Behind Keyboard",
+            "category": ["Glitch", "Secret Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Golden Melon #1 Behind Right Wire",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Golden Melon #2 Behind Right Wire",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Golden Melon #3 Behind Right Wire",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Golden Melon #4 Behind Right Wire",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Golden Melon #5 Behind Left Wire",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Golden Melon #6 Behind Left Wire",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Golden Melon #7 Behind Left Wire",
+            "category": ["Glitch", "Golden Melons"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Glitch 6 - Level Complete",
+            "category": ["Glitch"],
+            "region": "Glitch"
+        },
+        {
+            "name": "Digital Dilemma - Pack Complete",
+            "category": ["Completions"],
+            "region": "Glitch",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "Game Completed",
+            "category": ["Victory"],
+            "region": "Pack Select",
+            "victory": true,
+            "requires": "{OptionCount(|Level Pack Completion|, pack_requirement)}"
+        }
+    ]
+}
+

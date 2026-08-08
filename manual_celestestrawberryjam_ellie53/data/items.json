@@ -1,0 +1,233 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Mini Heart",
+            "category": [
+                "Collectibles"
+            ],
+            "count": 21,
+            "progression": true
+        },
+        {
+            "name": "Strawberry",
+            "category": [
+                "Collectibles"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Forest Path",
+            "category": [
+                "Green-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Azure Caverns",
+            "category": [
+                "Green-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Loopy Lagoon",
+            "category": [
+                "Green-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Collapsing Skyline",
+            "category": [
+                "Green-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Seeing is Believing",
+            "category": [
+                "Green-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "If my 'driveway' almost did you in...",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cassette Cliffs",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Over the City",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Troposphere",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Potential for Anything",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Midnight Spire",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "paint",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Rose Garden",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Treehive",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Squeeze",
+            "category": [
+                "Yellow-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Soap",
+            "category": [
+                "Red-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Switchtube Vista",
+            "category": [
+                "Red-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "A Gift From the Stars",
+            "category": [
+                "Red-Beginner Maps",
+                "Puzzle Levels"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Strawberry Orchard",
+            "category": [
+                "Red-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Dropzle",
+            "category": [
+                "Red-Beginner Maps",
+                "Puzzle Levels"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Coresaken City",
+            "category": [
+                "Red-Beginner Maps"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Slow Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        },
+        {
+            "name": "Fast Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        },
+        {
+            "name": "Hiccup Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        },
+        {
+            "name": "Invisible Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        },
+        {
+            "name": "High Gravity Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        },
+        {
+            "name": "Dashless Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        },
+        {
+            "name": "Blurry Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        },
+        {
+            "name": "Greyscale Trap",
+            "category": [
+                "Traps"
+            ],
+            "count": 5,
+            "trap": true
+        }
+    ]
+}

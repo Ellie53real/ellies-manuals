@@ -1,0 +1,57 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Item Name for OptionCount Example",
+            "count": 5,
+            "progression": true
+        },
+        {
+            "name": "Jump",
+            "category": [
+                "Abilities"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Progressive Kula Cruise",
+            "category": [
+                "Level Packs"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Progressive Twilight Tour",
+            "category": [
+                "Level Packs"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Progressive Spring King",
+            "category": [
+                "Level Packs"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Progressive Digital Dilemma",
+            "category": [
+                "Level Packs"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Level Pack Completion",
+            "category": [
+                "Victory Condition"
+            ],
+            "count": 4,
+            "progression": true
+        }
+    ]
+}

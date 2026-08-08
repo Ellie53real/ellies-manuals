@@ -1,0 +1,120 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": true
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "display_name": "Trap Percentage",
+            "description": "The percentage of 'Jam Jar' filler items in the pool that will be replaced with traps.",
+            "values": {
+                "default": 20
+            }
+        }
+    },
+    "user": {
+        "include_puzzle_levels":{
+            "description": [
+                "Controls whether or not the slot will include checks and items relating to the two Beginner puzzle levels (A Gift From the Stars and Dropzle).",
+                "Adds 12 checks + an additional 17 if Special Berries and Binosanity are enabled."
+            ],
+            "display_name": "Include Puzzle Levels",
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "victory_condition":{
+            "type": "Choice",
+            "description": [
+                "What you are required to do to complete your game.",
+                "Heartside: Collect enough Mini Hearts to unlock and beat Blueberry Bay, the Beginner Heartside.",
+                "Strawberries: Collect a set number of Strawberries from the item pool."
+            ],
+            "values": {
+                "heartside":0,
+                "strawberries":1
+             },
+            "display_name": "Victory Condition",
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Goal Options"
+        },
+        "mini_heart_requirement":{
+            "description": [
+                "How many Mini Hearts you must receive to unlock Blueberry Bay.",
+                "This option will affect your goal requirements if your goal is set to Heartside."
+            ],
+            "display_name": "Mini Heart Requirement",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 21,
+            "default": 15,
+            "group": "Goal Options"
+        },
+        "strawberry_pool_count":{
+            "description": [
+                "How many Strawberries will be placed into the item pool."
+            ],
+            "display_name": "Strawberry Pool Count",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 88,
+            "default": 50,
+            "group": "Goal Options"
+        },
+        "strawberry_requirement":{
+            "description": [
+                "What percentage of Strawberries in the item pool you must receive to goal.",
+                "This option will not do anything if your goal is set to Heartside."
+            ],
+            "display_name": "Strawberry Requirement",
+            "type": "Range",
+            "range_start": 1,
+            "range_end": 100,
+            "default": 80,
+            "group": "Goal Options"
+        },
+        "include_special_berries":{
+            "description": [
+                "Whether or not to include checks for collecting the Silver Berries, the Heartside's Golden Strawberry, and the lobby's Rainbow Berry.",
+                "Adds 21 checks + an additional 2 if the Puzzle Levels are included."
+            ],
+            "display_name": "Include Special Berries",
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "carsanity":{
+            "description": [
+                "Whether or not jumping on Intro Cars gives checks.",
+                "Adds 1 check."
+            ],
+            "display_name": "Carsanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "binosanity":{
+            "description": [
+                "Whether or not looking into each pair of Binoculars gives checks.",
+                "Adds 112 checks + an additional 15 if the Puzzle Levels are included."
+            ],
+            "display_name": "Binosanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        }
+    }
+
+}
