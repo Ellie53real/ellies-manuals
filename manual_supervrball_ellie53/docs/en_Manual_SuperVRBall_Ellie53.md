@@ -16,3 +16,4 @@ The items include:
 
 Future plans:
 * Add checks related to Reverse levels (will be YAML-toggleable)
+* Come up with more unique filler items to reduce the number of "Melon Slice" fillers found in multiworlds
