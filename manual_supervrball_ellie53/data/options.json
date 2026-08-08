@@ -79,11 +79,10 @@
         "pack_requirement":{
             "type": "Range",
             "description": [
-                "How many Level Packs (each consisting of 3 sets of levels) must be completed in order to complete the game.",
-                "Reversed Level Packs are counted separately from the normal versions."
+                "How many Level Packs (each consisting of 3 sets of levels) must be completed in order to complete the game."
             ],
             "range_start": 0,
-            "range_end": 8,
+            "range_end": 4,
             "default": 3,
             "display_name": "Pack Requirement",
             "group": "Game Options"
