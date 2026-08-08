@@ -6,6 +6,7 @@ In Archipelago, the goal of this game is to complete a set number of Level Packs
 Locations include:
 * Completing levels
 * Collecting Golden Melons and Secret Melons (both YAML-toggleable)
+* Collecting the credits in Desert 6 (YAML-toggleable)
 * Taking developer-intended shortcuts (also YAML-toggleable)
 
 The items include:
