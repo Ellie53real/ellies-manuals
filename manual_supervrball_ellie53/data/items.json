@@ -2,11 +2,6 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
-            "name": "Item Name for OptionCount Example",
-            "count": 5,
-            "progression": true
-        },
-        {
             "name": "Jump",
             "category": [
                 "Abilities"
