@@ -1405,6 +1405,31 @@
             "region": "Swamp"
         },
         {
+            "name": "Swamp 2 - Secret Melon #1 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 2 - Secret Melon #2 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 2 - Secret Melon #3 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 2 - Secret Melon #4 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 2 - Secret Melon #5 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
             "name": "Swamp 2 - Golden Melon #1 Below Bridge",
             "category": ["Swamp", "Golden Melons"],
             "region": "Swamp"

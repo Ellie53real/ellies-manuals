@@ -39,7 +39,7 @@
         "include_secret_melons":{
             "description": [
                 "Whether or not to include checks for collecting Secret Melons.",
-                "Adds 299 checks."
+                "Adds 304 checks."
             ],
             "type": "Toggle",
             "default": false,
