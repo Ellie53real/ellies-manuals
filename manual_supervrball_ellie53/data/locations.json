@@ -67,7 +67,7 @@
             "region": "Volcano"
         },
         {
-            "name": "Volcano 3 - Shortcut",
+            "name": "Volcano 3 - Floats Shortcut",
             "category": ["Volcano", "Shortcuts"],
             "region": "Volcano"
         },
@@ -77,7 +77,7 @@
             "region": "Volcano"
         },
         {
-            "name": "Volcano 4 - Shortcut",
+            "name": "Volcano 4 - Floats Shortcut",
             "category": ["Volcano", "Shortcuts"],
             "region": "Volcano"
         },
@@ -102,7 +102,7 @@
             "region": "Space"
         },
         {
-            "name": "Space 3 - Shortcut",
+            "name": "Space 3 - Float Shortcut",
             "category": ["Space", "Shortcuts"],
             "region": "Space"
         },
