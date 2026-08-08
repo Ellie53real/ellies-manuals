@@ -11,4 +11,4 @@ Locations include:
 In order to play each level, you must receive enough 'Progressive Level Pack' items from its respective level pack in order to access it! The ability to Jump is also randomized into the item pool, so keep that in mind :3
 
 Future plans:
-* Add an option to include Reverse levels in the multiworld
+* Add checks related to Reverse levels (will be YAML-toggleable)
