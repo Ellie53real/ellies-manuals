@@ -69,7 +69,7 @@
         "include_shortcuts":{
             "description": [
                 "Whether or not to include checks for taking the developer-intended shortcuts found in a handful of levels.",
-                "Adds 13 checks."
+                "Adds 14 checks."
             ],
             "type": "Toggle",
             "default": false,
