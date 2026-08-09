@@ -12,7 +12,8 @@
             "hidden": false
         },
         "death_link": {
-            "default": false
+            "default": false,
+            "display_name": "Death Link"
         },
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
@@ -29,7 +30,8 @@
         "include_reverse_levels":{
             "description": [
                 "Whether or not to include checks for the Reversed versions of each level.",
-                "NOTE: Currently unimplemented - this will work in a future version of the APWorld, but I've left it in for now so YAMLs are unlikely to need an update."
+                "NOTE: Golden Melon and Secret Melon checks in Reverse levels are named identically to their Forward counterparts.",
+                "Any Impossible Golden / Secret Melons, and Shortcuts that do not work, in the Reverse version of a level are removed from that Reverse level's locations."
             ],
             "type": "Toggle",
             "default": false,
@@ -39,7 +41,7 @@
         "include_secret_melons":{
             "description": [
                 "Whether or not to include checks for collecting Secret Melons.",
-                "Adds 306 checks."
+                "Adds 308 checks - 597 if Reverse levels are enabled."
             ],
             "type": "Toggle",
             "default": false,
@@ -49,7 +51,7 @@
         "include_golden_melons":{
             "description": [
                 "Whether or not to include checks for collecting Golden Melons.",
-                "Adds 142 checks."
+                "Adds 153 checks - 300 if Reverse levels are enabled."
             ],
             "type": "Toggle",
             "default": false,
@@ -59,7 +61,7 @@
         "include_desert_credits":{
             "description": [
                 "Whether or not to include checks for collecting each of the credits in Desert 6.",
-                "Adds 11 checks; will only work if Golden Melons are also enabled."
+                "Adds 11 checks - 22 if Reverse levels are enabled; will only work if Golden Melons are also enabled."
             ],
             "type": "Toggle",
             "default": false,
@@ -69,7 +71,7 @@
         "include_shortcuts":{
             "description": [
                 "Whether or not to include checks for taking the developer-intended shortcuts found in a handful of levels.",
-                "Adds 14 checks."
+                "Adds 14 checks - 21 if Reverse levels are also enabled."
             ],
             "type": "Toggle",
             "default": false,
@@ -82,7 +84,7 @@
                 "How many Level Packs (each consisting of 3 sets of levels) must be completed in order to complete the game."
             ],
             "range_start": 0,
-            "range_end": 4,
+            "range_end": 8,
             "default": 3,
             "display_name": "Pack Requirement",
             "group": "Game Options"

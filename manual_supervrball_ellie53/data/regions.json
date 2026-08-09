@@ -1,13 +1,12 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
     "Pack Select":{
-        "connects_to": ["Island", "Night", "Castle", "PC"],
+        "connects_to": ["Island", "Night", "Castle", "PC", "Glitch (Reverse)", "Swamp (Reverse)", "Desert (Reverse)", "Space (Reverse)"],
         "starting": true
     },
     "Island":{
         "connects_to": ["Volcano"],
-        "requires": "|Progressive Kula Cruise|",
-        "starting": true
+        "requires": "|Progressive Kula Cruise|"
     },
     "Volcano":{
         "connects_to": ["Space"],
@@ -50,6 +49,54 @@
         "requires": "|Progressive Digital Dilemma:2|"
     },
     "Glitch":{
+        "connects_to": ["Glitch (Reverse)"],
         "requires": "|Progressive Digital Dilemma:3|"
+    },
+    "Glitch (Reverse)":{
+        "connects_to": ["Retro (Reverse)"],
+        "requires": "|Progressive Digital Dilemma (Reverse)|"
+    },
+    "Retro (Reverse)":{
+        "connects_to": ["PC (Reverse)"],
+        "requires": "|Progressive Digital Dilemma (Reverse):2|"
+    },
+    "PC (Reverse)":{
+        "connects_to": ["Swamp (Reverse)"],
+        "requires": "|Progressive Digital Dilemma (Reverse):3|"
+    },
+    "Swamp (Reverse)":{
+        "connects_to": ["Winter (Reverse)"],
+        "requires": "|Progressive Spring King (Reverse)|"
+    },
+    "Winter (Reverse)":{
+        "connects_to": ["Castle (Reverse)"],
+        "requires": "|Progressive Spring King (Reverse):2|"
+    },
+    "Castle (Reverse)":{
+        "connects_to": ["Desert (Reverse)"],
+        "requires": "|Progressive Spring King (Reverse):3|"
+    },
+    "Desert (Reverse)":{
+        "connects_to": ["Toxic (Reverse)"],
+        "requires": "|Progressive Twilight Tour (Reverse)|"
+    },
+    "Toxic (Reverse)":{
+        "connects_to": ["Night (Reverse)"],
+        "requires": "|Progressive Twilight Tour (Reverse):2|"
+    },
+    "Night (Reverse)":{
+        "connects_to": ["Space (Reverse)"],
+        "requires": "|Progressive Twilight Tour (Reverse):3|"
+    },
+    "Space (Reverse)":{
+        "connects_to": ["Volcano (Reverse)"],
+        "requires": "|Progressive Kula Cruise (Reverse)|"
+    },
+    "Volcano (Reverse)":{
+        "connects_to": ["Island (Reverse)"],
+        "requires": "|Progressive Kula Cruise (Reverse):2|"
+    },
+    "Island (Reverse)":{
+        "requires": "|Progressive Kula Cruise (Reverse):3|"
     }
 }

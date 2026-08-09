@@ -1430,6 +1430,11 @@
             "region": "Swamp"
         },
         {
+            "name": "Swamp 2 - Secret Melon #6 Behind Spawn",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
             "name": "Swamp 2 - Golden Melon #1 Below Bridge",
             "category": ["Swamp", "Golden Melons"],
             "region": "Swamp"
@@ -1926,6 +1931,11 @@
         {
             "name": "PC 5 - Level Complete",
             "category": ["PC"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 6 - Secret Melon #1 Behind RAM Stick After Second Fan",
+            "category": ["PC", "Secret Melons"],
             "region": "PC"
         },
         {
@@ -2762,6 +2772,2613 @@
             "name": "Digital Dilemma - Pack Complete",
             "category": ["Completions"],
             "region": "Glitch",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "Island 1R - Level Complete",
+            "category": ["Island (Reverse)", "Reverse Levels"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Island 2R - Level Complete",
+            "category": ["Island (Reverse)", "Reverse Levels"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Island 3R - Level Complete",
+            "category": ["Island (Reverse)", "Reverse Levels"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Island 4R - Level Complete",
+            "category": ["Island (Reverse)", "Reverse Levels"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Island 5R - Golden Melon On Top of Cliff",
+            "category": ["Island (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Island 5R - Level Complete",
+            "category": ["Island (Reverse)", "Reverse Levels"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Island 6R - Secret Float Shortcut",
+            "category": ["Island (Reverse)", "Reverse Levels", "Shortcuts"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Island 6R - Level Complete",
+            "category": ["Island (Reverse)", "Reverse Levels"],
+            "region": "Island (Reverse)"
+        },
+        {
+            "name": "Volcano 1R - Level Complete",
+            "category": ["Volcano (Reverse)", "Reverse Levels"],
+            "region": "Volcano (Reverse)"
+        },
+        {
+            "name": "Volcano 2R - Level Complete",
+            "category": ["Volcano (Reverse)", "Reverse Levels"],
+            "region": "Volcano (Reverse)"
+        },
+        {
+            "name": "Volcano 3R - Floats Shortcut",
+            "category": ["Volcano (Reverse)", "Reverse Levels", "Shortcuts"],
+            "region": "Volcano (Reverse)"
+        },
+        {
+            "name": "Volcano 3R - Level Complete",
+            "category": ["Volcano (Reverse)", "Reverse Levels"],
+            "region": "Volcano (Reverse)"
+        },
+        {
+            "name": "Volcano 4R - Level Complete",
+            "category": ["Volcano (Reverse)", "Reverse Levels"],
+            "region": "Volcano (Reverse)"
+        },
+        {
+            "name": "Volcano 5R - Level Complete",
+            "category": ["Volcano (Reverse)", "Reverse Levels"],
+            "region": "Volcano (Reverse)"
+        },
+        {
+            "name": "Space 1R - Level Complete",
+            "category": ["Space (Reverse)", "Reverse Levels"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 2R - Level Complete",
+            "category": ["Space (Reverse)", "Reverse Levels"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 3R - Float Shortcut",
+            "category": ["Space (Reverse)", "Reverse Levels", "Shortcuts"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 3R - Level Complete",
+            "category": ["Space (Reverse)", "Reverse Levels"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 4R - Level Complete",
+            "category": ["Space (Reverse)", "Reverse Levels"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 5R - Golden Melon #1 On High Asteroid Rings",
+            "category": ["Space (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 5R - Golden Melon #2 On Middle Asteroid Rings",
+            "category": ["Space (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 5R - Golden Melon #3 On Low Asteroid",
+            "category": ["Space (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 5R - Golden Melon #4 On Low Asteroid Rings",
+            "category": ["Space (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 5R - Golden Melon #5 On Low Asteroid Rings",
+            "category": ["Space (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 5R - Level Complete",
+            "category": ["Space (Reverse)", "Reverse Levels"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 6R - Level Complete",
+            "category": ["Space (Reverse)", "Reverse Levels"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Space 7R - Level Complete",
+            "category": ["Space (Reverse)", "Reverse Levels"],
+            "region": "Space (Reverse)"
+        },
+        {
+            "name": "Kula Cruise (Reverse) - Pack Complete",
+            "category": ["Completions"],
+            "region": "Island (Reverse)",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "Night 1R - Golden Melon On Right Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 1R - Level Complete",
+            "category": ["Night (Reverse)", "Reverse Levels"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 2R - Golden Melon Before Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 2R - Secret Melon #1 Behind Tree",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 2R - Secret Melon #2 Behind Tree",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 2R - Secret Melon #3 Behind Tree",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 2R - Level Complete",
+            "category": ["Night (Reverse)", "Reverse Levels"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 3R - Golden Melon #1 Near Fences",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 3R - Golden Melon #2 In-Between Trees",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 3R - Golden Melon #3 Before Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 3R - Level Complete",
+            "category": ["Night (Reverse)", "Reverse Levels"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Golden Melon In Middle Of Top Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #1 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #2 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #3 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #4 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #5 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #6 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #7 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #8 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Secret Melon #9 On Bottom Path",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 4R - Level Complete",
+            "category": ["Night (Reverse)", "Reverse Levels"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Golden Melon #1 Past Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Golden Melon #2 Behind Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #1 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #2 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #3 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #4 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #5 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #6 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #7 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #8 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #9 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #10 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #11 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #12 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Secret Melon #13 on Middle Platform",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 5R - Level Complete",
+            "category": ["Night (Reverse)", "Reverse Levels"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #1 On Right Path at Start",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #2 On Right Path at Start",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #3 On Right Path at Start",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #4 On Low Left Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #5 On Low Left Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #6 On Low Left Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #7 On Low Left Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #8 On Low Left Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #9 On Low Left Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #10 On Low Right Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #11 On Low Right Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #12 On Low Right Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #13 On Low Right Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #14 On Low Right Bridge",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #15 Past Rock Near Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #16 Past Rock Near Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Secret Melon #17 Past Rock Near Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Golden Melon in Front Of Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Night 6R - Level Complete",
+            "category": ["Night (Reverse)", "Reverse Levels"],
+            "region": "Night (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #1 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #2 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #3 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #4 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #5 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #6 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #7 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #8 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #9 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #10 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #11 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Secret Melon #12 On Top Of Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 1R - Level Complete",
+            "category": ["Toxic (Reverse)", "Reverse Levels"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 2R - Secret Melon #1 on Platform Left Of Start Pipes",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 2R - Secret Melon #2 on Platform Left Of Start Pipes",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 2R - Secret Melon #3 on Platform Left Of Start Pipes",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 2R - Secret Melon #4 on Platform Left Of Start Pipes",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 2R - Golden Melon On High Platform",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 2R - Level Complete",
+            "category": ["Toxic (Reverse)", "Reverse Levels"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #1 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #2 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #3 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #4 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #5 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #6 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #7 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #8 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #9 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #10 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #11 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #12 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #13 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #14 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #15 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #16 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #17 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #18 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #19 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #20 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Secret Melon #21 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Golden Melon #1 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Golden Melon #2 On Pipe Past Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Golden Melon #3 Above Half-Pipe",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Golden Melon #4 Next To Rock",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Pipe Past Ship Shortcut",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Shortcuts"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 3R - Level Complete",
+            "category": ["Toxic (Reverse)", "Reverse Levels"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 4R - Golden Melon #1 On Side Rail",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 4R - Golden Melon #2 On Side Rail",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 4R - Level Complete",
+            "category": ["Toxic (Reverse)", "Reverse Levels"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 5R - Golden Melon #1 On Pipe Behind Ship",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 5R - Golden Melon #2 Near Rocks After 3rd Tunnel",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 5R - Level Complete",
+            "category": ["Toxic (Reverse)", "Reverse Levels"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 6R - Golden Melon #1 In Front Of Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 6R - Golden Melon #2 Behind Rock",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 6R - Golden Melon #3 On Pipe Next To Goal Post",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 6R - Golden Melon #4 On Pipe Behind Goal Post",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Toxic 6R - Level Complete",
+            "category": ["Toxic (Reverse)", "Reverse Levels"],
+            "region": "Toxic (Reverse)"
+        },
+        {
+            "name": "Desert 1R - Level Complete",
+            "category": ["Desert (Reverse)", "Reverse Levels"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 2R - Golden Melon By Ramps",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 2R - Level Complete",
+            "category": ["Desert (Reverse)", "Reverse Levels"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #1 On Golden Melon Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #2 On Golden Melon Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #3 On Golden Melon Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #4 On Golden Melon Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #5 On Golden Melon Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #6 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #7 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #8 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #9 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #10 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #11 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #12 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #13 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #14 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #15 Surrounding Golden Melon",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Golden Melon #1 On High Platform In Starting Area",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Golden Melon #2 On High Platform In Starting Area",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Golden Melon #3 On High Platform In Starting Area",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Golden Melon #4 On High Platform In Starting Area",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Golden Melon #5 On Top Of Passageway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 3R - Level Complete",
+            "category": ["Desert (Reverse)", "Reverse Levels"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #1 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #2 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #3 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #4 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 4R - Golden Melon On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 4R - Level Complete",
+            "category": ["Desert (Reverse)", "Reverse Levels"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 5R - Float Around The Back Shortcut",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Shortcuts"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 5R - Level Complete",
+            "category": ["Desert (Reverse)", "Reverse Levels"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - VRChat Inc. Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - blueasis Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Faxmashine Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Crashtroid Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Merlin Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Jordo Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Dr. Kim Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - CyanLaser Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Varneon Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - VRWorld Toolkit Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Golden Melon Behind Crashtroid Credit",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - 'See you next time!'",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons", "Desert Credits"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Desert 6R - Level Complete",
+            "category": ["Desert (Reverse)", "Reverse Levels"],
+            "region": "Desert (Reverse)"
+        },
+        {
+            "name": "Twilight Tour (Reverse) - Pack Complete",
+            "category": ["Completions"],
+            "region": "Night (Reverse)",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "Castle 1R - Secret Melon #1 To Left Of Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 1R - Secret Melon #2 To Left Of Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 1R - Secret Melon #3 To Left Of Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 1R - Secret Melon #4 To Left Of Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 1R - Golden Melon #1 Behind Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 1R - Golden Melon #2 Behind Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 1R - Golden Melon #3 Behind Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 1R - Level Complete",
+            "category": ["Castle (Reverse)", "Reverse Levels"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #1 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #2 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #3 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #4 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #5 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #6 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Golden Melon #1 On Back Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Golden Melon #2 On Front Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Golden Melon #3 Above Goal Post",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 2R - Level Complete",
+            "category": ["Castle (Reverse)", "Reverse Levels"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 3R - Golden Melon #1 On Bridge",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 3R - Golden Melon #2 On Bridge",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 3R - Level Complete",
+            "category": ["Castle (Reverse)", "Reverse Levels"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Secret Melon #1 Behind Barrels",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Secret Melon #2 Behind Barrels",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Secret Melon #3 Behind Barrels",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Secret Melon #4 Behind Barrels",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Secret Melon #5 Behind Barrels",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Secret Melon #6 Behind Barrels",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Secret Melon #7 Behind Barrels",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Golden Melon On Ramp",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 4R - Level Complete",
+            "category": ["Castle (Reverse)", "Reverse Levels"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 5R - Secret Melon To Right Of Barrel",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 5R - Golden Melon #1 Behind Barrel",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 5R - Golden Melon #2 On Back Of Wall",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 5R - Level Complete",
+            "category": ["Castle (Reverse)", "Reverse Levels"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 6R - Secret Melon #1 In Left Corner Near Entrance",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 6R - Secret Melon #2 In Right Corner Near Entrance",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 6R - Secret Melon #3 In Left Corner Of Maze",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 6R - Secret Melon #4 In Right Corner Of Maze",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 6R - Golden Melon Above Hole",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Castle 6R - Level Complete",
+            "category": ["Castle (Reverse)", "Reverse Levels"],
+            "region": "Castle (Reverse)"
+        },
+        {
+            "name": "Winter 1R - Secret Melon #1 In Top-Left Corner Of High Platform",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 1R - Secret Melon #2 In Top-Right Corner Of High Platform",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 1R - Secret Melon #3 In Bottom-Left Corner Of High Platform",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 1R - Secret Melon #4 In Bottom-Right Corner Of High Platform",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 1R - Golden Melon On High Platform",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 1R - Level Complete",
+            "category": ["Winter (Reverse)", "Reverse Levels"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 2R - Secret Melon On Ice Block",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 2R - Golden Melon On Ramp",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 2R - Level Complete",
+            "category": ["Winter (Reverse)", "Reverse Levels"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 3R - Golden Melon #1 On Iceberg",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 3R - Golden Melon #2 On Iceberg",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 3R - Golden Melon #3 By Trees",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 3R - Golden Melon #4 By Trees",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 3R - Level Complete",
+            "category": ["Winter (Reverse)", "Reverse Levels"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 4R - Secret Melon #1 Behind Spawn",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 4R - Secret Melon #2 Behind Spawn",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 4R - Secret Melon #3 Behind Spawn",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 4R - Secret Melon #4 Behind Spawn",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 4R - Level Complete",
+            "category": ["Winter (Reverse)", "Reverse Levels"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 5R - Golden Melon In Middle Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 5R - Level Complete",
+            "category": ["Winter (Reverse)", "Reverse Levels"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #1 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #2 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #3 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #4 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #5 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #6 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #7 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #8 On Top Of Half-Pipe",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Secret Melon #9 On High Platform",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Golden Melon #1 On High Platform",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Winter 6R - Level Complete",
+            "category": ["Winter (Reverse)", "Reverse Levels"],
+            "region": "Winter (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Secret Melon #1 Left Of Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Secret Melon #2 Left Of Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Secret Melon #3 Left Of Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Secret Melon #4 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Secret Melon #5 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Secret Melon #6 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Golden Melon #1 On Lily Pad",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Golden Melon #2 On Ledge",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 1R - Level Complete",
+            "category": ["Swamp (Reverse)", "Reverse Levels"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Secret Melon #1 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Secret Melon #2 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Secret Melon #3 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Secret Melon #4 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Secret Melon #5 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Secret Melon #6 Behind Spawn",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Golden Melon #1 Below Bridge",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Golden Melon #2 Above Tree",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 2R - Level Complete",
+            "category": ["Swamp (Reverse)", "Reverse Levels"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 3R - Golden Melon After Bounce Pad",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 3R - Level Complete",
+            "category": ["Swamp (Reverse)", "Reverse Levels"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #1 In First Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #2 In First Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #3 In First Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #4 In First Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #5 In Second Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #6 In Second Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #7 In Third Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #8 In Third Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #9 In Third Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #10 In Fourth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #11 In Fourth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #12 In Fourth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #13 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #14 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #15 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #16 In Fifth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #17 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #18 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #19 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #20 In Sixth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #21 In Seventh Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #22 In Seventh Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #23 In Seventh Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #24 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #25 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #26 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #27 In Eighth Row Of Left Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #28 In First Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #29 In First Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #30 In First Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #31 In Second Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #32 In Second Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #33 In Second Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #34 In Third Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #35 In Third Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #36 In Third Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #37 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #38 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #39 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Secret Melon #40 In Fourth Row Of Right Runway Plantations",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Golden Melon #1 Behind Floats",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Golden Melon #2 Behind Bush",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Golden Melon #3 On Bounce Pad",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Golden Melon #4 On High Platform",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 4R - Level Complete",
+            "category": ["Swamp (Reverse)", "Reverse Levels"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 5R - Secret Melon #1 On Wooden Platform",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 5R - Golden Melon #1 On High Ledge",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 5R - Golden Melon #2 On Middle Ledge",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 5R - Golden Melon #3 On Roundabout Path",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 5R - Wooden Stools Shortcut",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Shortcuts"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 5R - Level Complete",
+            "category": ["Swamp (Reverse)", "Reverse Levels"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Swamp 6R - Level Complete",
+            "category": ["Swamp (Reverse)", "Reverse Levels"],
+            "region": "Swamp (Reverse)"
+        },
+        {
+            "name": "Spring King (Reverse) - Pack Complete",
+            "category": ["Completions"],
+            "region": "Castle (Reverse)",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "PC 1R - Golden Melon #1 To Left Of First Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 1R - Golden Melon #2 To Right Of First Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 1R - Level Complete",
+            "category": ["PC (Reverse)", "Reverse Levels"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 2R - Golden Melon #1 In Front Of Ship",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 2R - Golden Melon #2 Next To RAM Stick",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 2R - Golden Melon #3 On Penultimate Platform",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 2R - Golden Melon #4 On Cables",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 2R - Level Complete",
+            "category": ["PC (Reverse)", "Reverse Levels"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 3R - Golden Melon #1 On First Roundabout",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 3R - Golden Melon #2 On First Roundabout",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 3R - Golden Melon #3 On First Roundabout",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 3R - Golden Melon #4 On Second Roundabout",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 3R - Golden Melon #5 On Second Roundabout",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 3R - Golden Melon #6 On Second Roundabout",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 3R - Level Complete",
+            "category": ["PC (Reverse)", "Reverse Levels"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 4R - Golden Melon #1 Next To Processor Chip",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 4R - Golden Melon #2 Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 4R - Level Complete",
+            "category": ["PC (Reverse)", "Reverse Levels"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #1 On Processor Chip After First Set Of Wires",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #2 On Processor Chip After First Set Of Wires",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #3 On Processor Chip After First Set Of Wires",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #4 On Processor Chip After Second Set Of Wires",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #5 On Processor Chip After Second Set Of Wires",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #6 On Processor Chip After Second Set Of Wires",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #7 In Between Two RAM Sticks",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #8 In Between Two RAM Sticks",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Secret Melon #9 In Between Two RAM Sticks",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Golden Melon #1 On Green Wire",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Golden Melon #2 On Final Set Of Wires",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 5R - Level Complete",
+            "category": ["PC (Reverse)", "Reverse Levels"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #1 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #2 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #3 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #4 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #5 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #6 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #7 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #8 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #9 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #10 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #11 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #12 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #13 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #14 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #15 Behind RAM Stick After Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Secret Melon #16 In Corner Next To Processor Chip",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Golden Melon #1 In First Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Golden Melon #2 In Second Fan",
+            "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "PC 6R - Level Complete",
+            "category": ["PC (Reverse)", "Reverse Levels"],
+            "region": "PC (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #1 In Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #2 In Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #3 In Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #4 In Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #5 In Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Golden Melon #1 Below Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Golden Melon #2 After Ramp",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Golden Melon #3 Next To Last Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 1R - Level Complete",
+            "category": ["Retro (Reverse)", "Reverse Levels"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 2R - Secret Melon #1 On Yellow Side Platform",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 2R - Secret Melon #2 On Top Of Blue Tower",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 2R - Secret Melon #3 On Top Of Orange Tower",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 2R - Golden Melon #1 On Top Of Red Tower",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 2R - Golden Melon #2 On Orange Platform",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 2R - Level Complete",
+            "category": ["Retro (Reverse)", "Reverse Levels"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 3R - Secret Melon #1 Left Of Spawn Block",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 3R - Secret Melon #2 Left Of Spawn Block",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 3R - Golden Melon #1 On Magenta Platform",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 3R - Golden Melon #2 On Magenta Platform",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 3R - Golden Melon #3 After Ramp",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 3R - Golden Melon #4 On Blue Platform",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 3R - Level Complete",
+            "category": ["Retro (Reverse)", "Reverse Levels"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 4R - Golden Melon In Front Of Goal Post",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 4R - Level Complete",
+            "category": ["Retro (Reverse)", "Reverse Levels"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #1 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #2 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #3 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #4 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #5 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #6 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #7 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #8 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #9 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Secret Melon #10 In Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Golden Melon #1 In Corner At Start",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Golden Melon #2 In Corner Before Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Golden Melon #3 In Corner After Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Golden Melon #4 In Corner On Top Platform",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Float Shortcut",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Shortcuts"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 5R - Level Complete",
+            "category": ["Retro (Reverse)", "Reverse Levels"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #1 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #2 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #3 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #4 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #5 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #6 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #7 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #8 On South Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #9 On West Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #10 On West Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #11 On West Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #12 On West Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #13 On West Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #14 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #15 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #16 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #17 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #18 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #19 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #20 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Secret Melon #21 On North/East Outstretched Platforms",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Golden Melon #1 In Intersection",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Golden Melon #2 Near Goal",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Retro 6R - Level Complete",
+            "category": ["Retro (Reverse)", "Reverse Levels"],
+            "region": "Retro (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #1 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #2 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #3 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #4 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #5 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #6 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #7 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Secret Melon #8 On Left Of Path Split",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Golden Melon #1 Behind Rock",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Golden Melon #2 Behind Rock",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 1R - Level Complete",
+            "category": ["Glitch (Reverse)", "Reverse Levels"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #1 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #2 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #3 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #4 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #5 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #6 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #7 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #8 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #9 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Secret Melon #10 Surrounded By Cards",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Golden Melon #1 On Left Side Top Platform",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Golden Melon #2 On Left Side Top Platform",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 2R - Level Complete",
+            "category": ["Glitch (Reverse)", "Reverse Levels"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #1 On Wall Next To Golden Melon",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #2 On Wall Next To Golden Melon",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #3 On Wall Next To Golden Melon",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #4 On High Ledge",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #5 On High Ledge",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #6 On High Ledge",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #7 On High Ledge",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #8 On High Ledge",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Secret Melon #9 On High Ledge",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Golden Melon #1 On Platform Next To Ramp",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Golden Melon #2 Near Goal",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Golden Melon #3 Near Goal",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 3R - Level Complete",
+            "category": ["Glitch (Reverse)", "Reverse Levels"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #1 Above First Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #2 Above First Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #3 Above First Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #4 Above First Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #5 Above First Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #6 Above First Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #7 Above Second Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #8 Above Second Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #9 Above Second Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #10 Above Second Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #11 Above Second Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Golden Melon #12 Above Second Bounce Pad",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 4R - Level Complete",
+            "category": ["Glitch (Reverse)", "Reverse Levels"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #1 Near Ship",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #2 To Left Of Asteroid",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #3 Behind Parasol Asteroid",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #4 Out In The Open",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #5 Behind Left Asteroid",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #6 Behind Middle Asteroid",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #7 Next To Right Asteroid",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Golden Melon #8 Near Computer Window",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 5R - Level Complete",
+            "category": ["Glitch (Reverse)", "Reverse Levels"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Secret Melon #1 Behind Keyboard",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Secret Melon #2 Behind Keyboard",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Secret Melon #3 Behind Keyboard",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Secret Melon #4 Behind Keyboard",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Secret Melon #5 Behind Keyboard",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Golden Melon #1 Behind Right Wire",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Golden Melon #2 Behind Right Wire",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Golden Melon #3 Behind Right Wire",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Golden Melon #4 Behind Right Wire",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Golden Melon #5 Behind Left Wire",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Golden Melon #6 Behind Left Wire",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Golden Melon #7 Behind Left Wire",
+            "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Glitch 6R - Level Complete",
+            "category": ["Glitch (Reverse)", "Reverse Levels"],
+            "region": "Glitch (Reverse)"
+        },
+        {
+            "name": "Digital Dilemma (Reverse) - Pack Complete",
+            "category": ["Completions"],
+            "region": "PC (Reverse)",
             "place_item": [
                 "Level Pack Completion"
             ]

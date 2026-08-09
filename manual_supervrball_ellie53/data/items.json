@@ -41,11 +41,46 @@
             "progression": true
         },
         {
+            "name": "Progressive Kula Cruise (Reverse)",
+            "category": [
+                "Level Packs",
+                "Reverse Levels"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Progressive Twilight Tour (Reverse)",
+            "category": [
+                "Level Packs",
+                "Reverse Levels"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Progressive Spring King (Reverse)",
+            "category": [
+                "Level Packs",
+                "Reverse Levels"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
+            "name": "Progressive Digital Dilemma (Reverse)",
+            "category": [
+                "Level Packs",
+                "Reverse Levels"
+            ],
+            "count": 3,
+            "progression": true
+        },
+        {
             "name": "Level Pack Completion",
             "category": [
                 "Victory Condition"
             ],
-            "count": 4,
             "progression": true
         },
         {

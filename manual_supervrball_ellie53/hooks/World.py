@@ -70,6 +70,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    item_config["Level Pack Completion"] = 8 if world.options.include_reverse_levels else 4
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -89,7 +90,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         remove_specific_item(item_pool, item)
-
     return item_pool
 
     # Some other useful hook options:
