@@ -2514,12 +2514,12 @@
             "region": "Glitch"
         },
         {
-            "name": "Glitch 2 - Golden Melon #1 On Left Side Top Platform",
+            "name": "Glitch 2 - Golden Melon #1 On Left Side Of Top Platform",
             "category": ["Glitch", "Golden Melons"],
             "region": "Glitch"
         },
         {
-            "name": "Glitch 2 - Golden Melon #2 On Left Side Top Platform",
+            "name": "Glitch 2 - Golden Melon #2 On Right Side Of Top Platform",
             "category": ["Glitch", "Golden Melons"],
             "region": "Glitch"
         },
@@ -5121,12 +5121,12 @@
             "region": "Glitch (Reverse)"
         },
         {
-            "name": "Glitch 2R - Golden Melon #1 On Left Side Top Platform",
+            "name": "Glitch 2R - Golden Melon #1 On Left Side Of Top Platform",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)"
         },
         {
-            "name": "Glitch 2R - Golden Melon #2 On Left Side Top Platform",
+            "name": "Glitch 2R - Golden Melon #2 On Right Side Of Top Platform",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)"
         },
