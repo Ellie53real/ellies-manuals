@@ -152,6 +152,14 @@
                 "Ball Skins"
             ],
             "filler": true
+        },
+        {
+            "name": "Banana Bread",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 40
         }
     ]
 }
