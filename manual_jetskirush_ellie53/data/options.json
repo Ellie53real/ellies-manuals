@@ -1,0 +1,62 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "code_jetski_skins":{
+            "description": [
+                "Whether or not to include jetski skins unlocked via codes found in other VRChat worlds to the pool as filler items.",
+                "This option assumes you have already found and used the codes to unlock all 6 of these skins."
+            ],
+            "type": "Toggle",
+            "display_name": "Code Jetski Skins",
+            "default": false,
+            "group": "Game Options"
+        },
+        "hard_time_trials":{
+            "description": [
+                "Whether or not to include locations for harder time trial times on each track.",
+                "These will logically expect you to have received both Progressive Speed Upgrades before you can achieve them."
+            ],
+            "type": "Toggle",
+            "display_name": "Hard Time Trials",
+            "default": false,
+            "group": "Game Options"
+        },
+        "track_requirement":{
+            "type": "Range",
+            "description": [
+                "How many tracks must be completed in order to complete the game."
+            ],
+            "range_start": 0,
+            "range_end": 12,
+            "default": 8,
+            "display_name": "Track Requirement",
+            "group": "Game Options"
+        }
+    }
+
+}

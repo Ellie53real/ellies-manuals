@@ -1,0 +1,237 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Progressive Speed Upgrade",
+            "category": [
+                "Speed Upgrades"
+            ],
+            "count": 2,
+            "progression": true
+        },
+        {
+            "name": "Seaside Factory",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Arctic Iceway",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kabuki Peaks",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Fungal Forest",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Crossbone Cove",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Aquatic Arena",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Temple Ravine",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Candy Canyon",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Hollow Castle",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Retro Rush",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cosmic Circuit",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Pyro Peak",
+            "category": [
+                "Tracks"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Track Completion",
+            "category": [
+                "Completions"
+            ],
+            "progression": true,
+            "count": 12
+        },
+        {
+            "name": "Jetski Skin - Afterburner",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Airborne",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Eclipse",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Gale",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Glacier",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Lightning",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Midnight",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Mystery",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Passion",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Pulse",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Submerged",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Tsunami",
+            "category": [
+                "Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Comet",
+            "category": [
+                "Jetski Skins",
+                "Code Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Ducky",
+            "category": [
+                "Jetski Skins",
+                "Code Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Neowave",
+            "category": [
+                "Jetski Skins",
+                "Code Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - WSWater",
+            "category": [
+                "Jetski Skins",
+                "Code Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - Goudanuff",
+            "category": [
+                "Jetski Skins",
+                "Code Jetski Skins"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Jetski Skin - VKetski",
+            "category": [
+                "Jetski Skins",
+                "Code Jetski Skins"
+            ],
+            "filler": true
+        }
+    ]
+}

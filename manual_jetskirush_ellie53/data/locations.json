@@ -1,0 +1,1183 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Seaside Factory - Finish",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Seaside Factory - Time Trial in 2:00",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Seaside Factory - Time Trial in 1:30",
+            "category": ["Seaside Factory", "Hard Time Trials"],
+            "region": "Seaside Factory",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #1 After Starting Tunnel",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #2 Around First Corner",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #3 Before Outdoor Section",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #4 Past Boost Rings",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #5 Inside Pipe",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #6 On Ramp",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #7 Inbetween Towers",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #8 Before Boost Ring",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #9 Before Final Section",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #10 Around Penultimate Corner",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Item Box Group #11 Before End",
+            "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Arctic Iceway - Finish",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Arctic Iceway - Time Trial in 3:30",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Arctic Iceway - Time Trial in 3:00",
+            "category": ["Arctic Iceway", "Hard Time Trials"],
+            "region": "Arctic Iceway",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #1 At Start",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #2 Over Boost Ramp",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #3 Past Arrow Sign",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #4 On Right Turn",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #5 On Left Turn Past Boost Ring",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #6 At End Of Split Path Left Side",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #7 At End Of Split Path Right Side",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #8 Inbetween Icicles",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #9 Before Outdoor Section",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #10 Next To First Platform",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #11 On First Platform",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #12 On Second Platform",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #13 After Large Ramp",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #14 Next To Boost Rings",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #15 On Left Path Before End",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Item Box Group #16 On Right Path Before End",
+            "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Kabuki Peaks - Finish",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Kabuki Peaks - Time Trial in 3:00",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Kabuki Peaks - Time Trial in 2:30",
+            "category": ["Kabuki Peaks", "Hard Time Trials"],
+            "region": "Kabuki Peaks",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #1 Before First Bridge",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #2 After Second Bridge",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #3 Around Sharp Turn",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #4 After Boost Rings",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #5 Before Split Path",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #6 On Split Path Left Side Ramp",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #7 On Split Path Left Side Below Ramp",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #8 On Split Path Right Side Ramp",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #9 On Split Path Right Side Below Ramp",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #10 After Split Path",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #11 Below Pipe",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #12 Left Of Tall Rock",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #13 Right Of Tall Rock",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Item Box Group #14 On Final Turn",
+            "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Fungal Forest - Finish",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Fungal Forest - Time Trial in 4:00",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Fungal Forest - Time Trial in 3:30",
+            "category": ["Fungal Forest", "Hard Time Trials"],
+            "region": "Fungal Forest",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #1 Before First Turn",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #2 On Sideline After Ramp",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #3 Inside Log",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #4 After Exiting Log",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #5 Around Corner",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #6 After Boost Ring",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #7 Past First Split Path Left Boost Ring",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #8 Past First Split Path Right Boost Ring",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #9 After First Split Path",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #10 Before Second Split Path",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #11 After Second Split Path",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #12 After Giant Mushroom",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #13 On Final Turn",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Item Box Group #14 After Final Turn",
+            "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Crossbone Cove - Finish",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Crossbone Cove - Time Trial in 3:45",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Crossbone Cove - Time Trial in 3:15",
+            "category": ["Crossbone Cove", "Hard Time Trials"],
+            "region": "Crossbone Cove",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #1 Past Skull",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #2 Over First Bridge",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #3 Next To Second Bridge",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #4 Inside Cave",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #5 Before Exiting Cave",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #6 Near Pirate Ship",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #7 Between Stalagmites",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #8 Past Boost Rings",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #9 Around Large Turn",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #10 After Large Turn",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Item Box Group #11 Before End",
+            "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Aquatic Arena - Finish",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Aquatic Arena - Time Trial in 3:00",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Aquatic Arena - Time Trial in 2:30",
+            "category": ["Aquatic Arena", "Hard Time Trials"],
+            "region": "Aquatic Arena",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Aquatic Arena - Item Box Group #1 Before First Turn",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Aquatic Arena - Item Box Group #2 On Front Ramp",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Aquatic Arena - Item Box Group #3 After First Turn",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Aquatic Arena - Item Box Group #4 Past Moving Boost Ring",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Aquatic Arena - Item Box Group #5 Before Second Turn",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Aquatic Arena - Item Box Group #6 On Back Ramp",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Aquatic Arena - Item Box Group #7 After Second Turn",
+            "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Temple Ravine - Finish",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Temple Ravine - Time Trial in 3:45",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Temple Ravine - Time Trial in 3:15",
+            "category": ["Temple Ravine", "Hard Time Trials"],
+            "region": "Temple Ravine",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #1 Before Roundabout",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #2 On Left Side Of Roundabout",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #3 On Right Side Of Roundabout",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #4 After Roundabout",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #5 In First Tunnel First Split Left Path",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #6 In First Tunnel First Split Right Path",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #7 In First Tunnel Second Split Left Path",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #8 In First Tunnel Second Split Right Path",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #9 After First Tunnel",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #10 After Boost Ring",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #11 Out In The Open",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #12 Left Of Ramp",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #13 Right Of Ramp",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #14 Before Indoor Section",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #15 Before Final Path Split",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #16 On Final Path Split After First Left Boost Ring",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #17 On Final Path Split After Second Left Boost Ring",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #18 On Final Path Split After Right Boost Ring",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #19 After Final Path Split",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #20 After Enclosed Boost Rings",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #21 Before Final Tunnel",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #22 In Final Tunnel Second Turn",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #23 In Final Tunnel Third Turn",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #24 After Final Tunnel",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Item Box Group #25 Before End",
+            "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Candy Canyon - Finish",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Candy Canyon - Time Trial in 3:30",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Candy Canyon - Time Trial in 3:00",
+            "category": ["Candy Canyon", "Hard Time Trials"],
+            "region": "Candy Canyon",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #1 At Start",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #2 After Left Boost Ring",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #3 After Right Boost Ring",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #4 On First Turn",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #5 On Second Turn",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #6 On Third Turn",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #7 On Split Path Left Side",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #8 On Split Path Right Side",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #9 On Penultimate Turn After Split Path",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #10 Before End",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Hollow Castle - Finish",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Hollow Castle - Time Trial in 3:45",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Hollow Castle - Time Trial in 3:00",
+            "category": ["Hollow Castle", "Hard Time Trials"],
+            "region": "Hollow Castle",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #1 Before First Turn",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #2 On Left Side Of First Rock",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #3 On Right Side Of First Rock",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #4 After Second Turn",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #5 Below Bridge",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #6 After Second Rock",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #7 On U-Turn Before First Big Ramp",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #8 On First Big Ramp",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #9 On Second Big Ramp",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #10 Left Of Wood Bearing",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #11 Right Of Wood Bearing",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #12 Inside First Portal",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #13 Before Exiting First Portal",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #14 After Exiting First Portal",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #15 On Split Path Left Side",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #16 On Split Path Right Side",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #17 Over Split Path Middle Ramp",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #18 After Split Path",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #19 Over Arrow Sign Ramp",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #20 Past Arrow Sign",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #21 After Entering Second Portal",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #22 On Final Turn",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #23 After Final Turn",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Item Box Group #24 Before Exiting Second Portal",
+            "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Retro Rush - Finish",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Retro Rush - Time Trial in 3:15",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Retro Rush - Time Trial in 2:30",
+            "category": ["Retro Rush", "Hard Time Trials"],
+            "region": "Retro Rush",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #1 On Roundabout Left Side",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #2 On Roundabout Right Side",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #3 On Ramp",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #4 Below Bridge",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #5 In Cave",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #6 On First Split Path Left Side",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #7 On First Split Path Right Side",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #8 After First Split Path",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #9 After Second Split Path",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #10 After U-Turn",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #11 Behind First Waterfall",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #12 Past Big Boost Rings",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #13 Before Second Waterfall",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Item Box Group #14 Before Final Turn",
+            "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Cosmic Circuit - Finish",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Cosmic Circuit - Time Trial in 3:00",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Cosmic Circuit - Time Trial in 2:15",
+            "category": ["Cosmic Circuit", "Hard Time Trials"],
+            "region": "Cosmic Circuit",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #1 Before First Turn",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #2 On First Split Path Left Side",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #3 On First Split Path Right Side",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #4 On Second Split Path Left Side",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #5 On Second Split Path Right Side",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #6 Underneath UFO",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #7 On Third Split Path Left Side Entrance",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #8 On Third Split Path Right Side Entrance",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #9 On Third Split Path Left Side Exit",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #10 On Third Split Path Right Side Exit",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #11 After Third Split Path",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #12 On C-Turn",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #13 Over Ramp",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Item Box Group #14 Before End",
+            "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Pyro Peak - Finish",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak",
+            "place_item": [
+                "Track Completion"
+            ]
+        },
+        {
+            "name": "Pyro Peak - Time Trial in 3:45",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak",
+            "requires": "|Progressive Speed Upgrade|"
+        },
+        {
+            "name": "Pyro Peak - Time Trial in 3:00",
+            "category": ["Pyro Peak", "Hard Time Trials"],
+            "region": "Pyro Peak",
+            "requires": "|Progressive Speed Upgrade:2|"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #1 On First U-Turn",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #2 After First U-Turn",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #3 After Boost Ring",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #4 Next To Bridge",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #5 After Second U-Turn",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #6 Before Third U-Turn",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #7 On Third U-Turn",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #8 After Pair Of Boost Rings",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #9 On First Split Path Left Side",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #10 On First Split Path Right Side",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #11 Left Of First Stalagmite",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #12 Right Of Second Stalagmite",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #13 On Fourth U-Turn",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #14 On Fifth U-Turn",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #15 Over First Big Ramp",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #16 After First Big Ramp",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #17 After Second Big Ramp",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #18 In First Lava Pool",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #19 In Second Lava Pool",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #20 In Third Lava Pool",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #21 In Fourth Lava Pool",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #22 In Fifth Lava Pool",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #23 On Second Split Path Left Side",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #24 On Second Split Path Right Side",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #25 At End Of Second Split Path Left Side",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Item Box Group #26 After Second Split Path",
+            "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Game Completed",
+            "category": ["Victory"],
+            "region": "Track Selection",
+            "victory": true,
+            "requires": "{OptionCount(|Track Completion|, track_requirement)}"
+        }
+    ]
+}
+

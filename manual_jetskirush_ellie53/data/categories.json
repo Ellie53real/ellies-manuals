@@ -1,0 +1,15 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Code Jetski Skins": {
+        "yaml_option": ["code_jetski_skins"],
+        "hidden": true
+    },
+    "Box Groups": {
+        "yaml_option": ["box_groups"],
+        "hidden": true
+    },
+    "Hard Time Trials": {
+        "yaml_option": ["hard_time_trials"],
+        "hidden": true
+    }
+}

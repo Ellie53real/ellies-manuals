@@ -1,0 +1,43 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Track Selection":{
+        "connects_to": ["Seaside Factory", "Arctic Iceway", "Kabuki Peaks", "Fungal Forest", "Crossbone Cove", "Aquatic Arena", "Temple Ravine", "Candy Canyon", "Hollow Castle", "Retro Rush", "Cosmic Circuit", "Pyro Peak"],
+        "starting": true
+    },
+    "Seaside Factory": {
+        "requires": "|Seaside Factory|"
+    },
+    "Arctic Iceway": {
+        "requires": "|Arctic Iceway|"
+    },
+    "Kabuki Peaks": {
+        "requires": "|Kabuki Peaks|"
+    },
+    "Fungal Forest": {
+        "requires": "|Fungal Forest|"
+    },
+    "Crossbone Cove": {
+        "requires": "|Crossbone Cove|"
+    },
+    "Aquatic Arena": {
+        "requires": "|Aquatic Arena|"
+    },
+    "Temple Ravine": {
+        "requires": "|Temple Ravine|"
+    },
+    "Candy Canyon": {
+        "requires": "|Candy Canyon|"
+    },
+    "Hollow Castle": {
+        "requires": "|Hollow Castle|"
+    },
+    "Retro Rush": {
+        "requires": "|Retro Rush|"
+    },
+    "Cosmic Circuit": {
+        "requires": "|Cosmic Circuit|"
+    },
+    "Pyro Peak": {
+        "requires": "|Pyro Peak|"
+    }
+}

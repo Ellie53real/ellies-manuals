@@ -1,0 +1,22 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "JetskiRush",
+  "creator": "Ellie53",
+  "filler_item_name": "VRChat Credits",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Tracks"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Jetski Skins"
+      ],
+      "random": 1
+    }
+  ],
+  "death_link": false,
+  "starting_index": 1
+}
