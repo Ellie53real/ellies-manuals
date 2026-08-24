@@ -2913,7 +2913,7 @@
         },
         {
             "name": "Kula Cruise (Reverse) - Pack Complete",
-            "category": ["Completions"],
+            "category": ["Completions", "Reverse Levels"],
             "region": "Island (Reverse)",
             "place_item": [
                 "Level Pack Completion"
@@ -3716,7 +3716,7 @@
         },
         {
             "name": "Twilight Tour (Reverse) - Pack Complete",
-            "category": ["Completions"],
+            "category": ["Completions", "Reverse Levels"],
             "region": "Night (Reverse)",
             "place_item": [
                 "Level Pack Completion"
@@ -4444,7 +4444,7 @@
         },
         {
             "name": "Spring King (Reverse) - Pack Complete",
-            "category": ["Completions"],
+            "category": ["Completions", "Reverse Levels"],
             "region": "Castle (Reverse)",
             "place_item": [
                 "Level Pack Completion"
@@ -5377,7 +5377,7 @@
         },
         {
             "name": "Digital Dilemma (Reverse) - Pack Complete",
-            "category": ["Completions"],
+            "category": ["Completions", "Reverse Levels"],
             "region": "PC (Reverse)",
             "place_item": [
                 "Level Pack Completion"
