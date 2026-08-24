@@ -30,4 +30,5 @@ There are also, however, various traps, which involve using the Extended Variant
 Currently, this Manual only includes the Beginner lobby, but I might try to add other lobbies in at some point (if I do, they will be toggleable in the YAML options)! Truthfully, I wanted to make my own Manual for this because I had some gripes with the way any existing ones I could find were laid out...
 
 **Important note #1: This Manual assumes that you have already unlocked the Heartside in the Beginner Lobby by completing every other map in the lobby. If you haven't, I would strongly advise doing so before bringing this into a multiworld.**
+
 **Important note #2: Despite this Manual being here along with my other ones, I do not intend to formally release it. If you wish to bring this to a multiworld, you will have to compile the .apworld file yourself. You can do this by downloading the source code of this repository, extracting the "manual_celestestrawberryjam_ellie53" folder from the file, zipping the folder (NOT the individual contents, the folder _itself_), and then changing the .zip file's extension to .apworld.**
