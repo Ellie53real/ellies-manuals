@@ -3,5 +3,12 @@
   "game": "LonelyWolfTreatTheCompleteSeries",
   "creator": "Ellie53",
   "filler_item_name": "Excess Snow",
-  "starting_items": []
+  "starting_items": [
+    {
+      "item_categories": [
+        "Chapter Unlocks"
+      ],
+      "random": 1
+    }
+  ]
 }

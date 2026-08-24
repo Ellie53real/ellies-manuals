@@ -7,7 +7,7 @@
       "category": [
         "Chapter 1: Lonely Wolf Treat"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Foxy Den Shop Item #1",
@@ -15,7 +15,7 @@
       "category": [
         "Chapter 1: Lonely Wolf Treat"
       ],
-      "requires": "|Cup Noodles|"
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|"
     },
     {
       "name": "Alternate Ending: Lonely Wolf Treat",
@@ -24,7 +24,7 @@
         "Chapter 1: Lonely Wolf Treat",
         "Alternate Endings"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "region": "Chapter 1: Lonely Wolf Treat",
@@ -32,7 +32,7 @@
       "category": [
         "Chapter 1: Lonely Wolf Treat"
       ],
-      "requires": "|Cup Noodles| AND |Chicken|",
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles| AND |Chicken|",
       "place_item": [
         "Chapter Completion"
         ]
@@ -907,7 +907,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Remote Control|) OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix|) OR |Chapter Unlock - Dreaming Treat| OR |Chapter Unlock - Mochi in Frosting| OR |Chapter Unlock - Lucky Number Moxie|"
     },
     {
       "name": "Charactersanity: Manjuu",
@@ -915,7 +915,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds|) OR |Chapter Unlock - Mochi in Frosting|)"
     },
     {
       "name": "Charactersanity: Annie",
@@ -923,7 +923,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Remote Control| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Mochi in Frosting|"
     },
     {
       "name": "Charactersanity: May",
@@ -931,7 +931,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Remote Control| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Mochi in Frosting|"
     },
     {
       "name": "Charactersanity: Cinnamom",
@@ -939,7 +939,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Dango",
@@ -947,7 +947,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds|) OR |Chapter Unlock - Mochi in Frosting|"
     },
     {
       "name": "Charactersanity: Mochi",
@@ -955,7 +955,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Dreaming Treat| OR |Chapter Unlock - Mochi in Frosting| OR |Chapter Unlock - Lucky Number Moxie|"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Dreaming Treat| OR |Chapter Unlock - Mochi in Frosting| OR |Chapter Unlock - Lucky Number Moxie|"
     },
     {
       "name": "Charactersanity: Moxie",
@@ -963,7 +963,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds|) OR |Chapter Unlock - Lucky Number Moxie|"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds|) OR |Chapter Unlock - Lucky Number Moxie|"
     },
     {
       "name": "Charactersanity: Nutmeg",
@@ -971,7 +971,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Remote Control| AND |Anywhere Pass (Moxie)|) OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Remote Control| AND |Anywhere Pass (Moxie)|) OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets|)"
     },
     {
       "name": "Charactersanity: Cinnason",
@@ -979,7 +979,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles|"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|)"
     },
     {
       "name": "Charactersanity: Pitaya",
@@ -987,7 +987,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Trick Comes Home| AND |Mysterious Key| AND |Abandoned Manuscript|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Trick Comes Home| AND |Mysterious Key| AND |Abandoned Manuscript|)"
     },
     {
       "name": "Charactersanity: Lemonne",
@@ -995,7 +995,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|)"
     },
     {
       "name": "Charactersanity: Boreas",
@@ -1003,7 +1003,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix|)"
     },
     {
       "name": "Charactersanity: Eleni",
@@ -1011,7 +1011,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Remote Control| AND |Anywhere Pass (Moxie)|) OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Remote Control| AND |Anywhere Pass (Moxie)|) OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|)"
     },
     {
       "name": "Charactersanity: Salt",
@@ -1019,7 +1019,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|)"
     },
     {
       "name": "Charactersanity: Pepper",
@@ -1027,7 +1027,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Friendly Bunny Mochi| OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Friendly Bunny Mochi| OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR (|Chapter Unlock - Dreaming Treat| AND |Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|)"
     },
     {
       "name": "Charactersanity: Chai",
@@ -1035,7 +1035,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Cup Noodles| OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR (|Chapter Unlock - Dreaming Treat| AND |Chapter Unlock - Mochi in Frosting| AND |Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|)"
+      "requires": "(|Chapter Unlock - Lonely Wolf Treat| AND |Cup Noodles|) OR |Chapter Unlock - Clever Fox Moxie| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR (|Chapter Unlock - Dreaming Treat| AND |Chapter Unlock - Mochi in Frosting| AND |Ticket to Atelier Sweets| AND |Seeds| AND |Tea| AND |Ticket to Beach|)"
     },
     {
       "name": "Charactersanity: Timber",
@@ -1044,7 +1044,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR (|Chapter Unlock - Mochi in Frosting| AND |Office Key|)"
     },
     {
       "name": "Charactersanity: Tundra",
@@ -1053,7 +1053,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #1",
@@ -1062,7 +1062,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #2",
@@ -1071,7 +1071,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #3",
@@ -1080,7 +1080,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #4",
@@ -1089,7 +1089,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #5",
@@ -1098,7 +1098,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #6",
@@ -1107,7 +1107,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #7",
@@ -1116,7 +1116,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #8",
@@ -1125,7 +1125,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Glaze Wolf #9",
@@ -1134,7 +1134,7 @@
         "Charactersanity - Introduced in Chapter 1",
         "Alternate Endings"      
       ],
-      "requires": ""
+      "requires": "|Chapter Unlock - Lonely Wolf Treat|"
     },
     {
       "name": "Charactersanity: Orchid",
@@ -1142,7 +1142,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "{YamlEnabled(enable_alternate_endings)} OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|)"
+      "requires": "({YamlEnabled(enable_alternate_endings)} AND |Chapter Unlock - Lonely Wolf Treat|) OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|)"
     },
     {
       "name": "Charactersanity: Lilium",
@@ -1150,7 +1150,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "{YamlEnabled(enable_alternate_endings)} OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|)"
+      "requires": "({YamlEnabled(enable_alternate_endings)} AND |Chapter Unlock - Lonely Wolf Treat|) OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku| AND |Anywhere Pass (Trick)|)"
     },
     {
       "name": "Charactersanity: Kamilla",
