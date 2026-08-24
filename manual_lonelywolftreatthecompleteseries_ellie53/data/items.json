@@ -2,6 +2,13 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
     {
+      "name": "Chapter Unlock - Lonely Wolf Treat",
+      "category": [
+        "Chapter Unlocks"
+      ],
+      "progression": true
+    },
+    {
       "name": "Chapter Unlock - Friendly Bunny Mochi",
       "category": [
         "Chapter Unlocks"
