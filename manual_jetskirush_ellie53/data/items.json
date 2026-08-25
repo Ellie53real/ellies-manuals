@@ -102,6 +102,13 @@
             "count": 12
         },
         {
+            "name": "No Waves Mode",
+            "category": [
+                "Modifiers"
+            ],
+            "useful": true
+        },
+        {
             "name": "Jetski Skin - Afterburner",
             "category": [
                 "Jetski Skins"
