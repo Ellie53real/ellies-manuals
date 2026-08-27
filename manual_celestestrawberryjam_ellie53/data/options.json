@@ -58,6 +58,16 @@
             "default": false,
             "group": "Game Options"
         },
+        "mechanic_shuffle":{
+            "description": [
+                "Whether or not to shuffle various level mechanics into the item pool.",
+                "Any level mechanics originating from vanilla Celeste will be included in this, along with any added mechanics that are reused across multiple levels in SJ."
+            ],
+            "display_name": "Mechanic Shuffle",
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
         "victory_condition":{
             "type": "Choice",
             "description": [
