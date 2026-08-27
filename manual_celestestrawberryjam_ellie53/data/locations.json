@@ -7,22 +7,42 @@
             "category": ["Prologue"]
         },
         {
-            "name": "Beginner Gym - Dream Jump",
+            "name": "Beginner Gym - Dream Jump Binoculars",
+            "region": "Beginner Gym",
+            "category": ["Beginner Gym", "Binoculars"]
+        },
+        {
+            "name": "Beginner Gym - Dream Jump Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"]
         },
         {
-            "name": "Beginner Gym - Dream Grab",
+            "name": "Beginner Gym - Dream Grab Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"]
         },
         {
-            "name": "Beginner Gym - Cloud Jump",
+            "name": "Beginner Gym - Cloud Jump Binoculars",
+            "region": "Beginner Gym",
+            "category": ["Beginner Gym", "Binoculars"]
+        },
+        {
+            "name": "Beginner Gym - Cloud Jump Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"]
         },
         {
-            "name": "Beginner Gym - Theo Basics",
+            "name": "Beginner Gym - Theo Basics Binoculars #1",
+            "region": "Beginner Gym",
+            "category": ["Beginner Gym", "Binoculars"]
+        },
+        {
+            "name": "Beginner Gym - Theo Basics Binoculars #2",
+            "region": "Beginner Gym",
+            "category": ["Beginner Gym", "Binoculars"]
+        },
+        {
+            "name": "Beginner Gym - Theo Basics Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"]
         },
