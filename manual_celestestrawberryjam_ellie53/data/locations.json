@@ -1204,12 +1204,12 @@
         {
             "name": "Beginner Lobby - Rainbow Berry",
             "category": ["Beginner Lobby", "Special Berries"],
-            "requires": "{YamlEnabled(include_puzzle_levels)} AND {OptionCount(|Mini Heart|, mini_heart_requirement)} AND |Forest Path| AND |Azure Caverns| AND |Loopy Lagoon| AND |Collapsing Skyline| AND |Seeing is Believing| AND |If my 'driveway' almost did you in...| AND |Cassette Cliffs| AND |Over the City| AND |Troposphere| AND |Potential for Anything| AND |Midnight Spire| AND |paint| AND |Rose Garden| AND |Treehive| AND |The Squeeze| AND |Soap| AND |Switchtube Vista| AND |A Gift From the Stars| AND |Strawberry Orchard| AND |Dropzle| AND |Coresaken City|"
+            "requires": "{YamlEnabled(include_puzzle_levels)} AND {OptionCountPercent(|Blue Mini Heart|, mini_heart_requirement)} AND |Forest Path| AND |Azure Caverns| AND |Loopy Lagoon| AND |Collapsing Skyline| AND |Seeing is Believing| AND |If my 'driveway' almost did you in...| AND |Cassette Cliffs| AND |Over the City| AND |Troposphere| AND |Potential for Anything| AND |Midnight Spire| AND |paint| AND |Rose Garden| AND |Treehive| AND |The Squeeze| AND |Soap| AND |Switchtube Vista| AND |A Gift From the Stars| AND |Strawberry Orchard| AND |Dropzle| AND |Coresaken City|"
         },
         {
             "name": "Goal Condition Achieved",
             "category": ["Victory"],
-            "requires": "({YamlCompare(victory_condition = heartside)} AND {OptionCount(|Mini Heart|, mini_heart_requirement)}) OR ({YamlCompare(victory_condition = strawberries)} AND {OptionCountPercent(|Strawberry|, strawberry_requirement)})",
+            "requires": "({YamlCompare(lobby = beginner)} AND {YamlCompare(victory_condition = heartside)} AND {OptionCountPercent(|Blue Mini Heart|, mini_heart_requirement)}) OR {YamlCompare(lobby = intermediate)} AND {YamlCompare(victory_condition = heartside)} AND {OptionCountPercent(|Red Mini Heart|, mini_heart_requirement)}) OR ({YamlCompare(victory_condition = strawberries)} AND {OptionCountPercent(|Strawberry|, strawberry_requirement)})",
             "victory": true
         }
     ]

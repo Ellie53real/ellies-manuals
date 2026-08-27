@@ -24,6 +24,20 @@
         }
     },
     "user": {
+        "lobby":{
+            "type": "Choice",
+            "description": [
+                "Which of Strawberry Jam's 5 lobbies you intend to run."
+            ],
+            "values": {
+                "beginner":0,
+                "intermediate":1
+             },
+            "display_name": "Lobby",
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Goal Options"
+        },
         "include_puzzle_levels":{
             "description": [
                 "Controls whether or not the slot will include checks and items relating to the two Beginner puzzle levels (A Gift From the Stars and Dropzle).",
@@ -34,11 +48,21 @@
             "default": false,
             "group": "Game Options"
         },
+        "lock_benches":{
+            "description": [
+                "Whether or not to shuffle the various benches across each lobby into the item pool.",
+                "If enabled, these are marked as useful items, and as such, will not affect logic."
+            ],
+            "display_name": "Lock Benches",
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
         "victory_condition":{
             "type": "Choice",
             "description": [
                 "What you are required to do to complete your game.",
-                "Heartside: Collect enough Mini Hearts to unlock and beat Blueberry Bay, the Beginner Heartside.",
+                "Heartside: Collect enough Mini Hearts to unlock and beat the Heartside level for your chosen lobby.",
                 "Strawberries: Collect a set number of Strawberries from the item pool."
             ],
             "values": {
@@ -52,14 +76,14 @@
         },
         "mini_heart_requirement":{
             "description": [
-                "How many Mini Hearts you must receive to unlock Blueberry Bay.",
+                "What percentage of Mini Hearts from your chosen lobby you must receive to unlock its corresponding Heartside level.",
                 "This option will affect your goal requirements if your goal is set to Heartside."
             ],
             "display_name": "Mini Heart Requirement",
             "type": "Range",
             "range_start": 1,
-            "range_end": 21,
-            "default": 15,
+            "range_end": 100,
+            "default": 70,
             "group": "Goal Options"
         },
         "strawberry_pool_count":{
@@ -87,8 +111,7 @@
         },
         "include_special_berries":{
             "description": [
-                "Whether or not to include checks for collecting the Silver Berries, the Heartside's Golden Strawberry, and the lobby's Rainbow Berry.",
-                "Adds 21 checks + an additional 2 if the Puzzle Levels are included."
+                "Whether or not to include checks for collecting the Silver Berries, the Heartside's Golden Strawberry, and the lobby's Rainbow Berry."
             ],
             "display_name": "Include Special Berries",
             "type": "Toggle",
@@ -97,8 +120,7 @@
         },
         "carsanity":{
             "description": [
-                "Whether or not jumping on Intro Cars gives checks.",
-                "Adds 1 check."
+                "Whether or not jumping on Intro Cars gives checks."
             ],
             "display_name": "Carsanity",
             "type": "Toggle",
@@ -107,8 +129,7 @@
         },
         "binosanity":{
             "description": [
-                "Whether or not looking into each pair of Binoculars gives checks.",
-                "Adds 112 checks + an additional 15 if the Puzzle Levels are included."
+                "Whether or not looking into each pair of Binoculars gives checks."
             ],
             "display_name": "Binosanity",
             "type": "Toggle",

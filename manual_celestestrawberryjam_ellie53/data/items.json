@@ -2,11 +2,21 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
-            "name": "Mini Heart",
+            "name": "Blue Mini Heart",
             "category": [
-                "Collectibles"
+                "Collectibles",
+                "Beginner Lobby"
             ],
             "count": 21,
+            "progression": true
+        },
+        {
+            "name": "Red Mini Heart",
+            "category": [
+                "Collectibles",
+                "Intermediate Lobby"
+            ],
+            "count": 18,
             "progression": true
         },
         {
@@ -19,119 +29,136 @@
         {
             "name": "Forest Path",
             "category": [
-                "Green-Beginner Maps"
+                "Green-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Azure Caverns",
             "category": [
-                "Green-Beginner Maps"
+                "Green-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Loopy Lagoon",
             "category": [
-                "Green-Beginner Maps"
+                "Green-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Collapsing Skyline",
             "category": [
-                "Green-Beginner Maps"
+                "Green-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Seeing is Believing",
             "category": [
-                "Green-Beginner Maps"
+                "Green-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "If my 'driveway' almost did you in...",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Cassette Cliffs",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Over the City",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Troposphere",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Potential for Anything",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Midnight Spire",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "paint",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Rose Garden",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Treehive",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "The Squeeze",
             "category": [
-                "Yellow-Beginner Maps"
+                "Yellow-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Soap",
             "category": [
-                "Red-Beginner Maps"
+                "Red-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Switchtube Vista",
             "category": [
-                "Red-Beginner Maps"
+                "Red-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
@@ -139,14 +166,16 @@
             "name": "A Gift From the Stars",
             "category": [
                 "Red-Beginner Maps",
-                "Puzzle Levels"
+                "Puzzle Levels",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Strawberry Orchard",
             "category": [
-                "Red-Beginner Maps"
+                "Red-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
         },
@@ -154,23 +183,129 @@
             "name": "Dropzle",
             "category": [
                 "Red-Beginner Maps",
-                "Puzzle Levels"
+                "Puzzle Levels",
+                "Beginner Lobby"
             ],
             "progression": true
         },
         {
             "name": "Coresaken City",
             "category": [
-                "Red-Beginner Maps"
+                "Red-Beginner Maps",
+                "Beginner Lobby"
             ],
             "progression": true
+        },
+        {
+            "name": "Beginner Lobby - Oceanfront Bench",
+            "category": [
+                "Benches",
+                "Beginner Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Beginner Lobby - Bamboo Forest Bench",
+            "category": [
+                "Benches",
+                "Beginner Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Beginner Lobby - Pinwheel Bay Bench",
+            "category": [
+                "Benches",
+                "Beginner Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Beginner Lobby - Shrine Entrance Bench",
+            "category": [
+                "Benches",
+                "Beginner Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Beginner Lobby - Tidepools Bench",
+            "category": [
+                "Benches",
+                "Beginner Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Beginner Lobby - Eroded Passage Bench",
+            "category": [
+                "Benches",
+                "Beginner Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Intermediate Lobby - Heart of the Woods Bench",
+            "category": [
+                "Benches",
+                "Intermediate Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Intermediate Lobby - Firefly's Domain Bench",
+            "category": [
+                "Benches",
+                "Intermediate Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Intermediate Lobby - Moisty Caves Bench",
+            "category": [
+                "Benches",
+                "Intermediate Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Intermediate Lobby - Subterranean Forest Bench",
+            "category": [
+                "Benches",
+                "Intermediate Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Intermediate Lobby - Heart of the Woods Bench",
+            "category": [
+                "Benches",
+                "Intermediate Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Intermediate Lobby - Abandoned Quarry Bench",
+            "category": [
+                "Benches",
+                "Intermediate Lobby"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Intermediate Lobby - Crystal's Origin Bench",
+            "category": [
+                "Benches",
+                "Intermediate Lobby"
+            ],
+            "useful": true
         },
         {
             "name": "Slow Trap",
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         },
         {
@@ -178,7 +313,7 @@
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         },
         {
@@ -186,7 +321,7 @@
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         },
         {
@@ -194,7 +329,7 @@
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         },
         {
@@ -202,7 +337,7 @@
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         },
         {
@@ -210,7 +345,7 @@
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         },
         {
@@ -218,7 +353,7 @@
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         },
         {
@@ -226,7 +361,7 @@
             "category": [
                 "Traps"
             ],
-            "count": 5,
+            "count": 20,
             "trap": true
         }
     ]

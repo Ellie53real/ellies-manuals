@@ -23,5 +23,9 @@
     "Cars": {
         "hidden": true,
         "yaml_option": ["carsanity"]
+    },
+    "Benches": {
+        "hidden": false,
+        "yaml_option": ["lock_benches"]
     }
 }
