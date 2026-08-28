@@ -1087,6 +1087,11 @@
             "category": ["Dropzle"]
         },
         {
+            "name": "Coresaken City - Room a-01 Car",
+            "region": "Coresaken City",
+            "category": ["Coresaken City", "Cars"]
+        },
+        {
             "name": "Coresaken City - Room b-01 Strawberry",
             "region": "Coresaken City",
             "category": ["Coresaken City"]
