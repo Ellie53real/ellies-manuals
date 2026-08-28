@@ -61,12 +61,30 @@
         "mechanic_shuffle":{
             "description": [
                 "Whether or not to shuffle various level mechanics into the item pool.",
-                "Any level mechanics originating from vanilla Celeste will be included in this, along with any added mechanics that are reused across multiple levels in SJ."
+                "Any level mechanics originating from vanilla Celeste will be included in this, along with any added mechanics that are reused across multiple levels in SJ.",
+                "NOTE: Logic with this option enabled assumes that you have completed every level in vanilla Celeste (up to and including both Farewell and the C-Sides) and learned any tech that is taught in the gyms going up to your chosen lobby.",
+                "The higher lobby you choose, the more difficult the logic will become."
             ],
             "display_name": "Mechanic Shuffle",
             "type": "Toggle",
             "default": false,
-            "group": "Game Options"
+            "group": "Logic Options"
+        },
+        "seeing_is_believing_requirements":{
+            "type": "Choice",
+            "description": [
+                "How logical requirements for Seeing is Believing should be handled if Mechanic Shuffle is enabled.",
+                "dev_intended: Any mechanics used in the level will be required as soon as they are introduced.",
+                "silly: Assumes you will be treating this level like any other ordinary level, ignoring the blindfold aspect entirely."
+            ],
+            "values": {
+                "dev_intended":0,
+                "silly":1
+             },
+            "display_name": "Seeing is Believing Logic Requirements",
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Logic Options"
         },
         "victory_condition":{
             "type": "Choice",
