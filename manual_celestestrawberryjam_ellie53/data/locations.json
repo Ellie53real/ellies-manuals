@@ -532,6 +532,11 @@
             "category": ["paint"]
         },
         {
+            "name": "paint - Room b-04 Binoculars",
+            "region": "paint",
+            "category": ["paint", "Binoculars"]
+        },
+        {
             "name": "paint - Room b-berry1 Strawberry",
             "region": "paint",
             "category": ["paint"]
@@ -545,6 +550,11 @@
             "name": "paint - Room b-berry3 Strawberry",
             "region": "paint",
             "category": ["paint"]
+        },
+        {
+            "name": "paint - Room c-06 Binoculars",
+            "region": "paint",
+            "category": ["paint", "Binoculars"]
         },
         {
             "name": "paint - Silver Strawberry",
