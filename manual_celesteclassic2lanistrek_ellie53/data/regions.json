@@ -1,0 +1,22 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Prologue":{
+        "connects_to": ["Level 1: Trailhead"],
+        "starting": true
+    },
+    "Level 1: Trailhead": {
+        "requires": "|Grappling Hook|",
+        "connects_to": ["Level 2: Glacial Caves"]
+    },
+    "Level 2: Glacial Caves": {
+        "requires": "|Grappling Hook| AND |Springs| AND |Snowballs|",
+        "connects_to": ["Level 3: Golden Valley"]
+    },
+    "Level 3: Golden Valley": {
+        "requires": "|Grappling Hook| AND |Springs| AND |Snowballs| AND |Grapple Points|",
+        "connects_to": ["Destination"]
+    },
+    "Destination": {
+        "requires": "|Grappling Hook| AND |Springs| AND |Snowballs| AND |Grapple Points|"
+    }
+}

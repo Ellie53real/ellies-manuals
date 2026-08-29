@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "CelesteClassic2LanisTrek",
+  "creator": "Ellie53",
+  "filler_item_name": "Raspberry",
+  "starting_items": [
+  ],
+  "death_link": false,
+  "starting_index": 1,
+  "unused_goals_are_locations": false
+}

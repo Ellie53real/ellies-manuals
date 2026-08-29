@@ -1,0 +1,247 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Prologue - Grappling Hook",
+            "region": "Prologue",
+            "category": ["Prologue"]
+        },
+        {
+            "name": "Prologue - Strawberry",
+            "region": "Prologue",
+            "category": ["Prologue"],
+            "requires": "|Grappling Hook|"
+        },
+        {
+            "name": "Prologue - Level Complete",
+            "region": "Prologue",
+            "category": ["Prologue"],
+            "requires": "|Grappling Hook|"
+        },
+        {
+            "name": "Trailhead - Strawberry #1",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Checkpoint #1",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Strawberry #2",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Checkpoint #2",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Strawberry #3",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Checkpoint #3",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Checkpoint #4",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Strawberry #4",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"]
+        },
+        {
+            "name": "Trailhead - Strawberry #5",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"],
+            "requires": "|Springs|"
+        },
+        {
+            "name": "Trailhead - Level Complete",
+            "region": "Level 1: Trailhead",
+            "category": ["Level 1: Trailhead"],
+            "requires": "|Springs|"
+        },
+        {
+            "name": "Glacial Caves - Strawberry #1",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #1",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Strawberry #2",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #2",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Strawberry #3",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #3",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Strawberry #4",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #4",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"]
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #5",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #6",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Strawberry #5",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #7",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #8",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Strawberry #6",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #9",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #10",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Checkpoint #11",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Glacial Caves - Level Complete",
+            "region": "Level 2: Glacial Caves",
+            "category": ["Level 2: Glacial Caves"],
+            "requires": "|Grapple Points|"
+        },
+        {
+            "name": "Golden Valley - Strawberry #1",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #1",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #2",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #3",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Strawberry #2",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #4",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #5",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Strawberry #3",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #6",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #7",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Strawberry #4",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Checkpoint #8",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Golden Valley - Level Complete",
+            "region": "Level 3: Golden Valley",
+            "category": ["Level 3: Golden Valley"]
+        },
+        {
+            "name": "Destination - Game Complete",
+            "region": "Destination",
+            "victory": true,
+            "category": ["Destination"],
+            "requires": "{OptionCount(|Strawberry|, strawberry_requirement)}"
+        }
+    ]
+}
+

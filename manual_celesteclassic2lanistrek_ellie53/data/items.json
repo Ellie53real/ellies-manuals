@@ -1,0 +1,42 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Strawberry",
+            "category": [
+                "Strawberries"
+            ],
+            "progression": true,
+            "count": 16
+        },
+        {
+            "name": "Grappling Hook",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Springs",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Grapple Points",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Snowballs",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        }
+        
+    ]
+}
