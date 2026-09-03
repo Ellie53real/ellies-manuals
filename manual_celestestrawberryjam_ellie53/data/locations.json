@@ -5,241 +5,241 @@
             "name": "Prologue - Lobby Clear",
             "region": "Prologue",
             "category": ["Prologue"],
-            "requires": "{YamlCompare(level_locking = locked)} OR |Move Blocks|"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Move Blocks|)"
         },
         {
             "name": "Beginner Gym - Dream Jump Binoculars",
             "region": "Beginner Gym",
             "category": ["Beginner Gym", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR |Dream Blocks|"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks|)"
         },
         {
             "name": "Beginner Gym - Dream Jump Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"],
-            "requires": "{YamlCompare(level_locking = locked)} OR (|Dream Blocks| AND |Dash Refills|)"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Beginner Gym - Dream Grab Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"],
-            "requires": "{YamlCompare(level_locking = locked)} OR |Dream Blocks|"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks|)"
         },
         {
             "name": "Beginner Gym - Cloud Jump Binoculars",
             "region": "Beginner Gym",
             "category": ["Beginner Gym", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR (|Dream Blocks| AND |Springs|)"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Springs|)"
         },
         {
             "name": "Beginner Gym - Cloud Jump Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"],
-            "requires": "{YamlCompare(level_locking = locked)} OR (|Dream Blocks| AND |Springs| AND |Blue Clouds| AND |Double Dash Refills|)"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Springs| AND |Blue Clouds| AND |Double Dash Refills|)"
         },
         {
             "name": "Beginner Gym - Theo Basics Binoculars #1",
             "region": "Beginner Gym",
             "category": ["Beginner Gym", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR (|Dream Blocks| AND |Theo Crystal| AND |Coins|)"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Theo Crystal| AND |Coins|)"
         },
         {
             "name": "Beginner Gym - Theo Basics Binoculars #2",
             "region": "Beginner Gym",
             "category": ["Beginner Gym", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR (|Dream Blocks| AND |Theo Crystal| AND |Coins|)"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Theo Crystal| AND |Coins|)"
         },
         {
             "name": "Beginner Gym - Theo Basics Complete",
             "region": "Beginner Gym",
             "category": ["Beginner Gym"],
-            "requires": "{YamlCompare(level_locking = locked)} OR (|Dream Blocks| AND |Theo Crystal| AND |Coins|)"
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Theo Crystal| AND |Coins|)"
         },
         {
             "name": "Forest Path - Room a-03 Strawberry",
             "region": "Forest Path",
             "category": ["Forest Path"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR |Double Dash Refills|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Double Dash Refills|)"
         },
         {
             "name": "Forest Path - Room a-11 Strawberry",
             "region": "Forest Path",
             "category": ["Forest Path"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Forest Path - Room a-14 Binoculars",
             "region": "Forest Path",
             "category": ["Forest Path", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Forest Path - Room a-17 Binoculars",
             "region": "Forest Path",
             "category": ["Forest Path", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Forest Path - Room a-17 Strawberry",
             "region": "Forest Path",
             "category": ["Forest Path"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Forest Path - Room a-19 Binoculars",
             "region": "Forest Path",
             "category": ["Forest Path", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Forest Path - Room a-19 Strawberry",
             "region": "Forest Path",
             "category": ["Forest Path"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Forest Path  - Silver Strawberry",
             "region": "Forest Path",
             "category": ["Forest Path", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Forest Path - Map Complete",
             "region": "Forest Path",
             "category": ["Forest Path"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR (|Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Forest Path|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Dash Refills| AND |Double Dash Refills| AND |Dream Refills|)"
         },
         {
             "name": "Azure Caverns - Room 02b Strawberry",
             "region": "Azure Caverns",
             "category": ["Azure Caverns"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR |Dash Zip Movers|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Zip Movers|)"
         },
         {
             "name": "Azure Caverns - Room 04b Strawberry",
             "region": "Azure Caverns",
             "category": ["Azure Caverns"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR |Dash Zip Movers|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Zip Movers|)"
         },
         {
             "name": "Azure Caverns - Room 08 Car",
             "region": "Azure Caverns",
             "category": ["Azure Caverns", "Cars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR |Dash Zip Movers|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Zip Movers|)"
         },
         {
             "name": "Azure Caverns  - Silver Strawberry",
             "region": "Azure Caverns",
             "category": ["Azure Caverns", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR |Dash Zip Movers|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Zip Movers|)"
         },
         {
             "name": "Azure Caverns - Map Complete",
             "region": "Azure Caverns",
             "category": ["Azure Caverns"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR |Dash Zip Movers|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Azure Caverns|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Zip Movers|)"
         },
         {
             "name": "Loopy Lagoon - Room c-08 Binoculars",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon - Room c-08b Binoculars",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon - Room c-08b Strawberry",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon - Room c-11 Strawberry",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters| AND |Strawberry Seeds|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters| AND |Strawberry Seeds|)"
         },
         {
             "name": "Loopy Lagoon - Room c-13 Binoculars",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon - Room c-13b Binoculars",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon - Room c-13b Strawberry",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon - Room c-16 Binoculars",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon  - Silver Strawberry",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Loopy Lagoon - Map Complete",
             "region": "Loopy Lagoon",
             "category": ["Loopy Lagoon"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR (|Cereal Blocks| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Loopy Lagoon|) OR ({YamlCompare(level_locking = open_world)} AND |Cereal Blocks| AND |Green Boosters|)"
         },
         {
             "name": "Collapsing Skyline - Room a-02-b Strawberry",
             "region": "Collapsing Skyline",
             "category": ["Collapsing Skyline"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR |Swap Blocks|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR ({YamlCompare(level_locking = open_world)} AND |Swap Blocks|)"
         },
         {
             "name": "Collapsing Skyline - Room a-05 Binoculars",
             "region": "Collapsing Skyline",
             "category": ["Collapsing Skyline", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR |Swap Blocks|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR ({YamlCompare(level_locking = open_world)} AND |Swap Blocks|)"
         },
         {
             "name": "Collapsing Skyline - Room a-06 Binoculars",
             "region": "Collapsing Skyline",
             "category": ["Collapsing Skyline", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR (|Swap Blocks| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR ({YamlCompare(level_locking = open_world)} AND |Swap Blocks| AND |Coins|)"
         },
         {
             "name": "Collapsing Skyline - Room a-07 Strawberry",
             "region": "Collapsing Skyline",
             "category": ["Collapsing Skyline"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR (|Swap Blocks| AND |Coins| AND |Mini-Strawberries|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR ({YamlCompare(level_locking = open_world)} AND |Swap Blocks| AND |Coins| AND |Mini-Strawberries|)"
         },
         {
             "name": "Collapsing Skyline - Room a-08 Strawberry",
             "region": "Collapsing Skyline",
             "category": ["Collapsing Skyline"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR (|Swap Blocks| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR ({YamlCompare(level_locking = open_world)} AND |Swap Blocks| AND |Coins|)"
         },
         {
             "name": "Collapsing Skyline  - Silver Strawberry",
             "region": "Collapsing Skyline",
             "category": ["Collapsing Skyline", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR (|Swap Blocks| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR ({YamlCompare(level_locking = open_world)} AND |Swap Blocks| AND |Coins|)"
         },
         {
             "name": "Collapsing Skyline - Map Complete",
             "region": "Collapsing Skyline",
             "category": ["Collapsing Skyline"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR (|Swap Blocks| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Collapsing Skyline|) OR ({YamlCompare(level_locking = open_world)} AND |Swap Blocks| AND |Coins|)"
         },
         {
             "name": "Seeing is Believing - Room a_02 Binoculars",
@@ -269,1225 +269,1225 @@
             "name": "Seeing is Believing - Room a_06 Binoculars",
             "region": "Seeing is Believing",
             "category": ["Seeing is Believing", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR (|Springs| AND |Moving Platforms| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Moving Platforms| AND |Dash Refills|)"
         },
         {
             "name": "Seeing is Believing - Room a_07 Binoculars",
             "region": "Seeing is Believing",
             "category": ["Seeing is Believing", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR (|Springs| AND |Moving Platforms| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Moving Platforms| AND |Dash Refills|)"
         },
         {
             "name": "Seeing is Believing - Room a_08 Binoculars #1",
             "region": "Seeing is Believing",
             "category": ["Seeing is Believing", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR (|Springs| AND |Moving Platforms| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Moving Platforms| AND |Dash Refills|)"
         },
         {
             "name": "Seeing is Believing - Room a_08 Binoculars #2",
             "region": "Seeing is Believing",
             "category": ["Seeing is Believing", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR (|Springs| AND |Moving Platforms| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Moving Platforms| AND |Dash Refills|)"
         },
         {
             "name": "Seeing is Believing - Room a_11 Strawberry",
             "region": "Seeing is Believing",
             "category": ["Seeing is Believing"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR (|Springs| AND |Moving Platforms| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Moving Platforms| AND |Dash Refills|)"
         },
         {
             "name": "Seeing is Believing  - Silver Strawberry",
             "region": "Seeing is Believing",
             "category": ["Seeing is Believing", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR (|Springs| AND |Moving Platforms| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Moving Platforms| AND |Dash Refills|)"
         },
         {
             "name": "Seeing is Believing - Map Complete",
             "region": "Seeing is Believing",
             "category": ["Seeing is Believing"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR (|Springs| AND |Moving Platforms| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Seeing is Believing|) OR ({YamlCompare(level_locking = open_world)} AND |Springs| AND |Moving Platforms| AND |Dash Refills|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 01- Crusher Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR {YamlCompare(level_locking = open_world)}"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 02- Bait N' Switch Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR |Intro Crushers|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 02B- a stwawbewwy?? Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR |Intro Crushers|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 02B- a stwawbewwy?? Strawberry",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in..."],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 03- Uberjump Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Traffic Blocks|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Traffic Blocks|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 04- Head Trauma Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 04- Head Trauma Strawberry",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in..."],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 05- Boing Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 06- Bubbles Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 07- Falling Cannon Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 07B- OwO whats this?? Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 07B- OwO whats this?? Strawberry",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in..."],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Room 08- U Turn Binoculars",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
         },
         {
             "name": "If my 'driveway' almost did you in...  - Silver Strawberry",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in...", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
         },
         {
             "name": "If my 'driveway' almost did you in... - Map Complete",
             "region": "If my 'driveway' almost did you in...",
             "category": ["If my 'driveway' almost did you in..."],
-            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR (|Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |If my 'driveway' almost did you in...|) OR ({YamlCompare(level_locking = open_world)} AND |Intro Crushers| AND |Double Dash Refills| AND |Traffic Blocks| AND |Springs| AND |Green Boosters|)"
         },
         {
             "name": "Cassette Cliffs - Room 2 Binoculars",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) AND |Pink Cassette Blocks|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks|)"
         },
         {
             "name": "Cassette Cliffs - Room ber4 Strawberry",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills|)"
         },
         {
             "name": "Cassette Cliffs - Room 5 Binoculars",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills|)"
         },
         {
             "name": "Cassette Cliffs - Room 6 Binoculars",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills|)"
         },
         {
             "name": "Cassette Cliffs - Room 7 Binoculars",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills|)"
         },
         {
             "name": "Cassette Cliffs - Room 9 Binoculars",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
         },
         {
             "name": "Cassette Cliffs - Room 10 Binoculars",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
         },  
         {
             "name": "Cassette Cliffs - Room 10 Strawberry",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
         },
         {
             "name": "Cassette Cliffs - Room 11-c Binoculars",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills| AND |Coins|)"
         },
         {
             "name": "Cassette Cliffs - Silver Strawberry",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills| AND |Coins| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills| AND |Coins| AND |Dash Refills|)"
         },
         {
             "name": "Cassette Cliffs - Map Complete",
             "region": "Cassette Cliffs",
             "category": ["Cassette Cliffs"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR (|Blue Cassette Blocks| AND |Pink Cassette Blocks| AND |Yellow Cassette Blocks| AND |Double Dash Refills| AND |Coins| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Cassette Cliffs|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Blocks| AND |Traffic Cassette Blocks| AND |Double Dash Refills| AND |Coins| AND |Dash Refills|)"
         },
         {
             "name": "Over the City - Room Berry1 Strawberry",
             "region": "Over the City",
             "category": ["Over the City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR |Jump Refills|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR ({YamlCompare(level_locking = open_world)} AND |Jump Refills|)"
         },
         {
             "name": "Over the City - Room Berry2 Strawberry",
             "region": "Over the City",
             "category": ["Over the City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR (|Jump Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR ({YamlCompare(level_locking = open_world)} AND |Jump Refills| AND |Coins|)"
         },
         {
             "name": "Over the City - Room RouteB-1 Strawberry",
             "region": "Over the City",
             "category": ["Over the City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR (|Jump Refills| AND |Coins| AND |Triple Jump Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR ({YamlCompare(level_locking = open_world)} AND |Jump Refills| AND |Coins| AND |Triple Jump Refills|)"
         },
         {
             "name": "Over the City - Silver Strawberry",
             "region": "Over the City",
             "category": ["Over the City", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR (|Jump Refills| AND |Coins| AND |Triple Jump Refills| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR ({YamlCompare(level_locking = open_world)} AND |Jump Refills| AND |Coins| AND |Triple Jump Refills| AND |Dash Refills|)"
         },
         {
             "name": "Over the City - Map Complete",
             "region": "Over the City",
             "category": ["Over the City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR (|Jump Refills| AND |Coins| AND |Triple Jump Refills| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Over the City|) OR ({YamlCompare(level_locking = open_world)} AND |Jump Refills| AND |Coins| AND |Triple Jump Refills| AND |Dash Refills|)"
         },
         {
             "name": "Troposphere - Room a_01 Binoculars",
             "region": "Troposphere",
             "category": ["Troposphere", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR |Dream Blocks|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks|)"
         },
         {
             "name": "Troposphere - Room a_02 Binoculars",
             "region": "Troposphere",
             "category": ["Troposphere", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters|)"
         },
         {
             "name": "Troposphere - Room a_03 Binoculars",
             "region": "Troposphere",
             "category": ["Troposphere", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers|)"
         },
         {
             "name": "Troposphere - Room b_02 Binoculars",
             "region": "Troposphere",
             "category": ["Troposphere", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
         },
         {
             "name": "Troposphere - Room b_04 Binoculars",
             "region": "Troposphere",
             "category": ["Troposphere", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
         },
         {
             "name": "Troposphere - Room c_02 Binoculars",
             "region": "Troposphere",
             "category": ["Troposphere", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
         },
         {
             "name": "Troposphere - Room c_02 Strawberry",
             "region": "Troposphere",
             "category": ["Troposphere"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
         },
         {
             "name": "Troposphere - Silver Strawberry",
             "region": "Troposphere",
             "category": ["Troposphere", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
         },
         {
             "name": "Troposphere - Map Complete",
             "region": "Troposphere",
             "category": ["Troposphere"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR (|Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Troposphere|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Blue Clouds| AND |Double Dash Refills| AND |Pink Clouds| AND |Badeline Boosters| AND |Feathers| AND |Dash Refills|)"
         },
         {
             "name": "Potential for Anything - Room SS2-2 Binoculars",
             "region": "Potential for Anything",
             "category": ["Potential for Anything", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR |Dash Refills|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills|)"
         },
         {
             "name": "Potential for Anything - Room SS2-6 Binoculars",
             "region": "Potential for Anything",
             "category": ["Potential for Anything", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR (|Dash Refills| AND |Moving Platforms| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Moving Platforms| AND |Coins|)"
         },
         {
             "name": "Potential for Anything - Room SS2-6 Strawberry",
             "region": "Potential for Anything",
             "category": ["Potential for Anything"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR (|Dash Refills| AND |Moving Platforms| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Moving Platforms| AND |Coins|)"
         },
         {
             "name": "Potential for Anything - Room WZ-4 Strawberry",
             "region": "Potential for Anything",
             "category": ["Potential for Anything"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR (|Dash Refills| AND |Moving Platforms| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Moving Platforms| AND |Coins|)"
         },
         {
             "name": "Potential for Anything - Room Lab-5berry Strawberry",
             "region": "Potential for Anything",
             "category": ["Potential for Anything"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR (|Dash Refills| AND |Moving Platforms| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Moving Platforms| AND |Coins|)"
         },
         {
             "name": "Potential for Anything - Room FinalChallenge Binoculars",
             "region": "Potential for Anything",
             "category": ["Potential for Anything", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR (|Dash Refills| AND |Moving Platforms| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Moving Platforms| AND |Coins|)"
         },
         {
             "name": "Potential for Anything - Silver Strawberry",
             "region": "Potential for Anything",
             "category": ["Potential for Anything", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR (|Dash Refills| AND |Moving Platforms| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Moving Platforms| AND |Coins|)"
         },
         {
             "name": "Potential for Anything - Map Complete",
             "region": "Potential for Anything",
             "category": ["Potential for Anything"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR (|Dash Refills| AND |Moving Platforms| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Potential for Anything|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Moving Platforms| AND |Coins|)"
         },
         {
             "name": "Midnight Spire - Room a_01 Strawberry",
             "region": "Midnight Spire",
             "category": ["Midnight Spire"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR (|Green Boosters| AND |Blue Clouds| AND |Pink Clouds|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR ({YamlCompare(level_locking = open_world)} AND |Green Boosters| AND |Blue Clouds| AND |Pink Clouds|)"
         },
         {
             "name": "Midnight Spire - Room a_03 Strawberry",
             "region": "Midnight Spire",
             "category": ["Midnight Spire"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR (|Green Boosters| AND |Blue Clouds| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR ({YamlCompare(level_locking = open_world)} AND |Green Boosters| AND |Blue Clouds| AND |Springs|)"
         },
         {
             "name": "Midnight Spire - Room a_04 Strawberry",
             "region": "Midnight Spire",
             "category": ["Midnight Spire"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR (|Green Boosters| AND |Blue Clouds| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR ({YamlCompare(level_locking = open_world)} AND |Green Boosters| AND |Blue Clouds| AND |Springs|)"
         },
         {
             "name": "Midnight Spire - Room a_07 Strawberry",
             "region": "Midnight Spire",
             "category": ["Midnight Spire"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR (|Green Boosters| AND |Blue Clouds| AND |Pink Clouds| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR ({YamlCompare(level_locking = open_world)} AND |Green Boosters| AND |Blue Clouds| AND |Pink Clouds| AND |Springs|)"
         },
         {
             "name": "Midnight Spire - Silver Strawberry",
             "region": "Midnight Spire",
             "category": ["Midnight Spire", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR (|Green Boosters| AND |Blue Clouds| AND |Pink Clouds| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR ({YamlCompare(level_locking = open_world)} AND |Green Boosters| AND |Blue Clouds| AND |Pink Clouds| AND |Springs|)"
         },
         {
             "name": "Midnight Spire - Map Complete",
             "region": "Midnight Spire",
             "category": ["Midnight Spire"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR (|Green Boosters| AND |Blue Clouds| AND |Pink Clouds| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Midnight Spire|) OR ({YamlCompare(level_locking = open_world)} AND |Green Boosters| AND |Blue Clouds| AND |Pink Clouds| AND |Springs|)"
         },
         {
             "name": "paint - Room b-berry00 Strawberry",
             "region": "paint",
             "category": ["paint"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
         },
         {
             "name": "paint - Room b-04 Binoculars",
             "region": "paint",
             "category": ["paint", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
         },
         {
             "name": "paint - Room b-berry1 Strawberry",
             "region": "paint",
             "category": ["paint"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
         },
         {
             "name": "paint - Room b-berry2 Strawberry",
             "region": "paint",
             "category": ["paint"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
         },
         {
             "name": "paint - Room b-berry3 Strawberry",
             "region": "paint",
             "category": ["paint"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs|)"
         },
         {
             "name": "paint - Room c-06 Binoculars",
             "region": "paint",
             "category": ["paint", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs| AND |Badeline Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs| AND |Badeline Boosters|)"
         },
         {
             "name": "paint - Silver Strawberry",
             "region": "paint",
             "category": ["paint", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs| AND |Badeline Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs| AND |Badeline Boosters|)"
         },
         {
             "name": "paint - Map Complete",
             "region": "paint",
             "category": ["paint"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR (|Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs| AND |Badeline Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |paint|) OR ({YamlCompare(level_locking = open_world)} AND |Cassette Tape Blocks| AND |Lightbulb Switches| AND |Springs| AND |Badeline Boosters|)"
         },
         {
             "name": "Rose Garden - Room q04 Binoculars",
             "region": "Rose Garden",
             "category": ["Rose Garden", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR (|Roses| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR ({YamlCompare(level_locking = open_world)} AND |Roses| AND |Springs|)"
         },
         {
             "name": "Rose Garden - Room q05 Binoculars",
             "region": "Rose Garden",
             "category": ["Rose Garden", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR (|Roses| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR ({YamlCompare(level_locking = open_world)} AND |Roses| AND |Springs|)"
         },
         {
             "name": "Rose Garden - Room q03 Binoculars",
             "region": "Rose Garden",
             "category": ["Rose Garden", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR (|Roses| AND |Springs|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR ({YamlCompare(level_locking = open_world)} AND |Roses| AND |Springs|)"
         },
         {
             "name": "Rose Garden - Room q07 Binoculars",
             "region": "Rose Garden",
             "category": ["Rose Garden", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR (|Roses| AND |Springs| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR ({YamlCompare(level_locking = open_world)} AND |Roses| AND |Springs| AND |Coins|)"
         },
         {
             "name": "Rose Garden - Room q08 Binoculars",
             "region": "Rose Garden",
             "category": ["Rose Garden", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR (|Roses| AND |Springs| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR ({YamlCompare(level_locking = open_world)} AND |Roses| AND |Springs| AND |Coins|)"
         },
         {
             "name": "Rose Garden - Silver Strawberry",
             "region": "Rose Garden",
             "category": ["Rose Garden", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR (|Roses| AND |Springs| AND |Coins| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR ({YamlCompare(level_locking = open_world)} AND |Roses| AND |Springs| AND |Coins| AND |Dash Refills|)"
         },
         {
             "name": "Rose Garden - Map Complete",
             "region": "Rose Garden",
             "category": ["Rose Garden"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR (|Roses| AND |Springs| AND |Coins| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Rose Garden|) OR ({YamlCompare(level_locking = open_world)} AND |Roses| AND |Springs| AND |Coins| AND |Dash Refills|)"
         },
         {
             "name": "Treehive - Room skeleton_02_berry Strawberry",
             "region": "Treehive",
             "category": ["Treehive"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR (|Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
         },
         {
             "name": "Treehive - Room skeleton_04 Strawberry",
             "region": "Treehive",
             "category": ["Treehive"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR (|Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
         },
         {
             "name": "Treehive - Silver Strawberry",
             "region": "Treehive",
             "category": ["Treehive", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR (|Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
         },
         {
             "name": "Treehive - Map Complete",
             "region": "Treehive",
             "category": ["Treehive"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR (|Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Treehive|) OR ({YamlCompare(level_locking = open_world)} AND |Dream Blocks| AND |Coins| AND |Dash Zip Movers| AND |Dash Refills|)"
         },
         {
             "name": "The Squeeze - Room 2 Binoculars",
             "region": "The Squeeze",
             "category": ["The Squeeze", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR |Traffic Blocks|"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks|)"
         },
         {
             "name": "The Squeeze - Room 3 Binoculars #1",
             "region": "The Squeeze",
             "category": ["The Squeeze", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills|)"
         },
         {
             "name": "The Squeeze - Room 3 Binoculars #2",
             "region": "The Squeeze",
             "category": ["The Squeeze", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills|)"
         },
         {
             "name": "The Squeeze - Room 3 Strawberry",
             "region": "The Squeeze",
             "category": ["The Squeeze"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills| AND |Coins|)"
         },
         {
             "name": "The Squeeze - Room 4 Binoculars",
             "region": "The Squeeze",
             "category": ["The Squeeze", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills|)"
         },
         {
             "name": "The Squeeze - Room 4 Strawberry",
             "region": "The Squeeze",
             "category": ["The Squeeze"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills| AND |Coins|)"
         },
         {
             "name": "The Squeeze - Room 5 Binoculars",
             "region": "The Squeeze",
             "category": ["The Squeeze", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills| AND |Coins|)"
         },
         {
             "name": "The Squeeze - Silver Strawberry",
             "region": "The Squeeze",
             "category": ["The Squeeze", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills| AND |Coins|)"
         },
         {
             "name": "The Squeeze - Map Complete",
             "region": "The Squeeze",
             "category": ["The Squeeze"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR (|Traffic Blocks| AND |Dash Refills| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |The Squeeze|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Dash Refills| AND |Coins|)"
         },
         {
             "name": "Soap - Room 02 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters|)"
         },
         {
             "name": "Soap - Room 03 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills|)"
         },
         {
             "name": "Soap - Room 04 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins|)"
         },
         {
             "name": "Soap - Room 04b Strawberry",
             "region": "Soap",
             "category": ["Soap"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 05 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 05b Strawberry",
             "region": "Soap",
             "category": ["Soap"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 06 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 07 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 07b Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 07b Strawberry",
             "region": "Soap",
             "category": ["Soap"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 08 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 09 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 10 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 10b Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 10b Strawberry",
             "region": "Soap",
             "category": ["Soap"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 11 Binoculars",
             "region": "Soap",
             "category": ["Soap", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Room 11b Strawberry",
             "region": "Soap",
             "category": ["Soap"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Silver Strawberry",
             "region": "Soap",
             "category": ["Soap", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Soap - Map Complete",
             "region": "Soap",
             "category": ["Soap"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR (|Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
+            "requires": "({YamlCompare(level_locking = locked)} AND |Soap|) OR ({YamlCompare(level_locking = open_world)} AND |Blue Springs| AND |Blue Boosters| AND |Dash Refills| AND |Move Blocks| AND |Coins| AND |Double Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a02_b Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks|)"
         },
         {
             "name": "Switchtube Vista - Room a03_s Strawberry",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a04 Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a05 Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a06 Binoculars #1",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a06 Binoculars #2",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a06_s Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a06_s Strawberry",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a07 Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a08 Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a09_s Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a09_s Strawberry",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a09_b Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a09_b_s Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a09_b_s Strawberry",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a10 Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a11 Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a12 Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a12_s Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a12_s Strawberry",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Room a13_b Binoculars",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Silver Strawberry",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Switchtube Vista - Map Complete",
             "region": "Switchtube Vista",
             "category": ["Switchtube Vista"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Switchtube Vista|) OR ({YamlCompare(level_locking = open_world)} AND |Clear Pipes| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "A Gift From the Stars - Room Intro B Strawberry",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs|)"
         },
         {
             "name": "A Gift From the Stars - Room Double Vision Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs|)"
         },
         {
             "name": "A Gift From the Stars - Room Waiting Room Strawberry",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals|)"
         },
         {
             "name": "A Gift From the Stars - Room Shuffle Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals|)"
         },
         {
             "name": "A Gift From the Stars - Room Shuffle Strawberry",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals|)"
         },
         {
             "name": "A Gift From the Stars - Room Feedback Loop Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals|)"
         },
         {
             "name": "A Gift From the Stars - Room Feedback Loop Strawberry",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins|)"
         },
         {
             "name": "A Gift From the Stars - Room Timestop Intro Again Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals|)"
         },
         {
             "name": "A Gift From the Stars - Room Stepping Stone Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins| AND |Move Blocks|)"
         },
         {
             "name": "A Gift From the Stars - Room Fork Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins| AND |Move Blocks|)"
         },
         {
             "name": "A Gift From the Stars - Room Seeded Berry Strawberry",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins| AND |Move Blocks| AND |Strawberry Seeds|)"
         },
         {
             "name": "A Gift From the Stars - Room Easter Egg Puzzle Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins| AND |Move Blocks|)"
         },
         {
             "name": "A Gift From the Stars - Room Staircase Binoculars",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins| AND |Move Blocks|)"
         },
         {
             "name": "A Gift From the Stars - Silver Strawberry",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins| AND |Move Blocks|)"
         },
         {
             "name": "A Gift From the Stars - Map Complete",
             "region": "A Gift From the Stars",
             "category": ["A Gift From the Stars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |A Gift From the Stars|) OR ({YamlCompare(level_locking = open_world)} AND |Dash Refills| AND |Springs| AND |Refill Shards| AND |Time Crystals| AND |Coins| AND |Move Blocks|)"
         },
         {
             "name": "Strawberry Orchard - Room a-02y Strawberry",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-05z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-06z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-06z Strawberry",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs| AND |Dash Switches|)"
         },
         {
             "name": "Strawberry Orchard - Room a-07z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-07z Strawberry",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs| AND |Dash Switches|)"
         },
         {
             "name": "Strawberry Orchard - Room a-08z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-09z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-10z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-10z Strawberry",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs| AND |Dash Switches|)"
         },
         {
             "name": "Strawberry Orchard - Room a-11z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-12z Binoculars",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Room a-12z Strawberry",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs| AND |Dash Switches|)"
         },
         {
             "name": "Strawberry Orchard - Silver Strawberry",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Strawberry Orchard - Map Complete",
             "region": "Strawberry Orchard",
             "category": ["Strawberry Orchard"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Strawberry Orchard|) OR ({YamlCompare(level_locking = open_world)} AND |Jam Jar| AND |Clear Pipe| AND |Springs|)"
         },
         {
             "name": "Dropzle - Room 03a - Portcullis Strawberry",
             "region": "Dropzle",
             "category": ["Dropzle"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 04a - Correlation Strawberry",
             "region": "Dropzle",
             "category": ["Dropzle"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 04b - Alcove Strawberry",
             "region": "Dropzle",
             "category": ["Dropzle"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 05 - Symmetry Binoculars #1",
             "region": "Dropzle",
             "category": ["Dropzle", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 05 - Symmetry Binoculars #2",
             "region": "Dropzle",
             "category": ["Dropzle", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 06a - Shackle Binoculars",
             "region": "Dropzle",
             "category": ["Dropzle", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 06a - Shackle Strawberry",
             "region": "Dropzle",
             "category": ["Dropzle"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 07 - Ferry Binoculars",
             "region": "Dropzle",
             "category": ["Dropzle", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 08a - Reunion Strawberry",
             "region": "Dropzle",
             "category": ["Dropzle"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 09 - Perpendicular Binoculars #1",
             "region": "Dropzle",
             "category": ["Dropzle", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 09 - Perpendicular Binoculars #2",
             "region": "Dropzle",
             "category": ["Dropzle", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Room 09 - Perpendicular Binoculars #3",
             "region": "Dropzle",
             "category": ["Dropzle", "Binoculars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Silver Strawberry",
             "region": "Dropzle",
             "category": ["Dropzle", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Dropzle - Map Complete",
             "region": "Dropzle",
             "category": ["Dropzle"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Dropzle|) OR ({YamlCompare(level_locking = open_world)} AND |Kevins| AND |Coins|)"
         },
         {
             "name": "Coresaken City - Room a-01 Car",
             "region": "Coresaken City",
             "category": ["Coresaken City", "Cars"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR {YamlCompare(level_locking = open_world)}"
         },
         {
             "name": "Coresaken City - Room b-01 Strawberry",
             "region": "Coresaken City",
             "category": ["Coresaken City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Core Blocks| AND |Coins| AND |Core Toggles| AND |Double Dash Refills|)"
         },
         {
             "name": "Coresaken City - Room b-02 Strawberry",
             "region": "Coresaken City",
             "category": ["Coresaken City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Core Blocks| AND |Coins| AND |Core Toggles| AND |Double Dash Refills| AND |Strawberry Seeds|)"
         },
         {
             "name": "Coresaken City - Room b-04 Strawberry",
             "region": "Coresaken City",
             "category": ["Coresaken City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Core Blocks| AND |Coins| AND |Core Toggles| AND |Double Dash Refills|)"
         },
         {
             "name": "Coresaken City - Silver Strawberry",
             "region": "Coresaken City",
             "category": ["Coresaken City", "Special Berries"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Core Blocks| AND |Coins| AND |Core Toggles| AND |Double Dash Refills|)"
         },
         {
             "name": "Coresaken City - Map Complete",
             "region": "Coresaken City",
             "category": ["Coresaken City"],
-            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR "
+            "requires": "({YamlCompare(level_locking = locked)} AND |Coresaken City|) OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Core Blocks| AND |Coins| AND |Core Toggles| AND |Double Dash Refills|)"
         },
         {
             "name": "Blueberry Bay - Room cp1_21_heartside_Bing_Over_Google Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR {YamlCompare(level_locking = open_world)}"
         },
         {
             "name": "Blueberry Bay - Room cp1_20_heartside_hyperlife Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Intro Crushers| AND |Springs| AND |Green Boosters| AND |Double Dash Refills|)"
         },
         {
             "name": "Blueberry Bay - Room cp1_19_heartside_cellularAutomaton Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Intro Crushers| AND |Springs| AND |Green Boosters| AND |Double Dash Refills| AND |Swap Blocks| AND |Coins|)"
         },
         {
             "name": "Blueberry Bay - Room cp1_18_heartside_Eclipse Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Intro Crushers| AND |Springs| AND |Green Boosters| AND |Double Dash Refills| AND |Swap Blocks| AND |Coins| AND |Dash Refills| AND |Dash Zip Movers|)"
         },
         {
             "name": "Blueberry Bay - Room cp2-17-heartside_NotYourBadeline Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|)"
         },
         {
             "name": "Blueberry Bay - Room cp2-16-heartside_snas Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin| AND |Dash Refills| AND |Swap Blocks|)"
         },
         {
             "name": "Blueberry Bay - Room cp3_14_heartside_asterisk Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|)"
         },
         {
             "name": "Blueberry Bay - Room cp3_13_heartside_skeleton Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility| AND |Dash Refills| AND |Dream Refills| AND |Springs|)"
         },
         {
             "name": "Blueberry Bay - Room cp3_12_heartside_coffe Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility| AND |Dash Refills| AND |Dream Refills| AND |Springs| AND |Dream Blocks| AND |Dash Zip Movers| AND |Coins|)"
         },
         {
             "name": "Blueberry Bay - Room cp3_11_heartside_joltik Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility| AND |Dash Refills| AND |Dream Refills| AND |Springs| AND |Dream Blocks| AND |Dash Zip Movers| AND |Coins| AND |Green Boosters|)"
         },
         {
             "name": "Blueberry Bay - Room cp4_10_heartside_Hanky Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|)"
         },
         {
             "name": "Blueberry Bay - Room cp4_09_heartside_jadeturtle Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade| AND |Coins| AND |Refill Shards| AND |Time Crystals| AND |Move Blocks|)"
         },
         {
             "name": "Blueberry Bay - Room cp4_08_heartside_quinnigan Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade| AND |Coins| AND |Refill Shards| AND |Time Crystals| AND |Move Blocks| AND |Jam Jar| AND |Springs| AND |Clear Pipes|)"
         },
         {
             "name": "Blueberry Bay - Room cp5_07_heartside_voliver9 Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth|)"
         },
         {
             "name": "Blueberry Bay - Room cp5_06_heartside_CoupCritik3 Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth| AND |Core Blocks| AND |Core Toggles| AND |Traffic Blocks| AND |Coins|)"
         },
         {
             "name": "Blueberry Bay - Room cp5_05_Flagpole1up_Heartside Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth| AND |Core Blocks| AND |Core Toggles| AND |Traffic Blocks| AND |Coins| AND |Jump Refills| AND |Triple Jump Refills|)"
         },
         {
             "name": "Blueberry Bay - Room cp5_04_heartside_circumplex Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth| AND |Core Blocks| AND |Core Toggles| AND |Traffic Blocks| AND |Coins| AND |Jump Refills| AND |Triple Jump Refills| AND |Switch Blocks| AND |Dash Refills|)"
         },
         {
             "name": "Blueberry Bay - Room cp6_03_heartside_awheyaway Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Harbor|)"
         },
         {
             "name": "Blueberry Bay - Room cp6_02_heartside_Ceph Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Harbor| AND |Kevins|)"
         },
         {
             "name": "Blueberry Bay - Room cp6_03_heartside_Moss_1 Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Harbor| AND |Kevins| AND |Traffic Cassette Blocks| AND |Double Dash Refills|)"
         },
         {
             "name": "Blueberry Bay - Room cp6_03_heartside_Moss_2 Binoculars",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Binoculars"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Basin|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Tranquility|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Jade|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Overgrowth|) OR ({YamlCompare(level_locking = open_world)} AND |Blueberry Bay - Harbor| AND |Kevins| AND |Traffic Cassette Blocks| AND |Double Dash Refills| AND |Lightbulb Switches| AND |Cassette Tape Blocks| AND |Springs| AND |Badeline Boosters|)"
         },
         {
             "name": "Blueberry Bay - Golden Strawberry",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay", "Special Berries"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Intro Crushers| AND |Springs| AND |Green Boosters| AND |Double Dash Refills| AND |Swap Blocks| AND |Coins| AND |Dash Refills| AND |Dash Zip Movers| AND |Dream Blocks| AND |Badeline Boosters| AND |Feathers| AND |Dream Refills| AND |Pink Clouds| AND |Refill Shards| AND |Time Crystals| AND |Move Blocks| AND |Jam Jar| AND |Clear Pipes| AND |Roses| AND |Core Blocks| AND |Core Toggles| AND |Jump Refills| AND |Triple Jump Refills| AND |Switch Blocks| AND |Blue Boosters| AND |Blue Springs| AND |Kevins| AND |Traffic Cassette Blocks| AND |Lightbulb Switches| AND |Cassette Tape Blocks|)"
         },
         {
             "name": "Blueberry Bay - Map Complete",
             "region": "Blueberry Bay",
             "category": ["Blueberry Bay"],
-            "requires": "{YamlCompare(level_locking = locked)} OR "
+            "requires": "{YamlCompare(level_locking = locked)} OR ({YamlCompare(level_locking = open_world)} AND |Traffic Blocks| AND |Intro Crushers| AND |Springs| AND |Green Boosters| AND |Double Dash Refills| AND |Swap Blocks| AND |Coins| AND |Dash Refills| AND |Dash Zip Movers| AND |Dream Blocks| AND |Badeline Boosters| AND |Feathers| AND |Dream Refills| AND |Pink Clouds| AND |Refill Shards| AND |Time Crystals| AND |Move Blocks| AND |Jam Jar| AND |Clear Pipes| AND |Roses| AND |Core Blocks| AND |Core Toggles| AND |Jump Refills| AND |Triple Jump Refills| AND |Switch Blocks| AND |Blue Boosters| AND |Blue Springs| AND |Kevins| AND |Traffic Cassette Blocks| AND |Lightbulb Switches| AND |Cassette Tape Blocks|)"
         },
         {
             "name": "Beginner Lobby - Rainbow Berry",
