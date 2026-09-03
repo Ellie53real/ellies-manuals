@@ -1,0 +1,1481 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Goomba Boards with Fire Flower Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 1 Key| OR |World 6 Key|)"
+        },
+        {
+            "name": "3 Piranha Plants Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 1 Key| OR |World 6 Key|)"
+        },
+        {
+            "name": "3 Goombas Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 1 Key| OR ({YamlEnable(special_worlds)} AND |Special 1 Key|)"
+        },
+        {
+            "name": "Biddybud with Fire Flower Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 1 Key| OR ({YamlEnable(special_worlds)} AND |Special 3 Key|)"
+        },
+        {
+            "name": "Goomba Tower & Fire Piranha Plant Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 2 Key| OR ({YamlEnable(special_worlds)} AND |Special 3 Key|)"
+        },
+        {
+            "name": "Tail Goombas & Piranha Plant Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 4 Key| OR ({YamlEnable(special_worlds)} AND |Special 5 Key|)"
+        },
+        {
+            "name": "Goomba & Piranha Plant Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 4 Key| OR ({YamlEnable(special_worlds)} AND |Special 5 Key|)"
+        },
+        {
+            "name": "3 Biddybuds Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 6 Key| OR ({YamlEnable(special_worlds)} AND |Special 7 Key|)"
+        },
+        {
+            "name": "2 Fire Piranha Plants with Fire Flower Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 2 Key| OR ({YamlEnable(special_worlds)} AND |Special 3 Key|)"
+        },
+        {
+            "name": "Tail Goombas with Super Leaf Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 2 Key| OR ({YamlEnable(special_worlds)} AND |Special 5 Key|)"
+        },
+        {
+            "name": "Rainbow Biddybuds Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 2 Key| OR ({YamlEnable(special_worlds)} AND |Special 3 Key|)"
+        },
+        {
+            "name": "Goomba Towers Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 6 Key| OR ({YamlEnable(special_worlds)} AND |Special 7 Key|)"
+        },
+        {
+            "name": "Hammer Bro with Boomerang Flower Mystery Box",
+            "category": ["Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND |Special 1 Key|"
+        },
+        {
+            "name": "Goomba with Super Leaf Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 1 Key| OR ({YamlEnable(special_worlds)} AND |Special 1 Key|)"
+        },
+        {
+            "name": "Boomerang Bro with Boomerang Flower Mystery Box",
+            "category": ["Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND |Special 3 Key|"
+        },
+        {
+            "name": "Hammer Bro & Boomerang Bro Mystery Box",
+            "category": ["Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND |Special 5 Key|"
+        },
+        {
+            "name": "Hammer Bro & Boomerang Bro with Boomerang Flower Mystery Box",
+            "category": ["Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND |Special 7 Key|"
+        },
+        {
+            "name": "3 Fire Piranha Plants Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 6 Key| OR ({YamlEnable(special_worlds)} AND |Special 7 Key|)"
+        },
+        {
+            "name": "Boom Boom Mystery Box",
+            "category": ["Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND |Special 7 Key|"
+        },
+        {
+            "name": "Goomba Towers with Fire Flower Mystery Box",
+            "category": ["Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock| AND (|World 4 Key| OR ({YamlEnable(special_worlds)} AND (|Special 5 Key| OR |Special 7 Key|))"
+        },
+        {
+            "name": "Super Leaves Golden Mystery Box",
+            "category": ["Golden Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |World 1 Key|"
+        },
+        {
+            "name": "Rainbow Toads Golden Mystery Box",
+            "category": ["Golden Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |World 1 Key|"
+        },
+        {
+            "name": "Goomba Boards Golden Mystery Box",
+            "category": ["Golden Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |World 2 Key|"
+        },
+        {
+            "name": "1-Up Crates Golden Mystery Box",
+            "category": ["Golden Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |World 4 Key|"
+        },
+        {
+            "name": "12 Cacti Golden Mystery Box",
+            "category": ["Golden Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |World 6 Key|"
+        },
+        {
+            "name": "Dandelions Golden Mystery Box",
+            "category": ["Golden Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |World 6 Key|"
+        },
+        {
+            "name": "P-Switches Golden Mystery Box",
+            "category": ["Golden Mystery Boxes"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |World 6 Key|"
+        },
+        {
+            "name": "1-Up Mushroom Boards Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 1 Key|"
+        },
+        {
+            "name": "Poison Mushrooms Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 5 Key|"
+        },
+        {
+            "name": "? Blocks Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 5 Key|"
+        },
+        {
+            "name": "1-Up Mushroom ? Blocks Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 7 Key|"
+        },
+        {
+            "name": "Torches Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 7 Key|"
+        },
+        {
+            "name": "1-Up Mushrooms Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 1 Key|"
+        },
+        {
+            "name": "Flowers Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 3 Key|"
+        },
+        {
+            "name": "Plants Golden Mystery Box",
+            "category": ["Golden Mystery Boxes", "Special Worlds"],
+            "region": "World Map",
+            "requires": "|Progressive Mystery Box Unlock:2| AND |Special 7 Key|"
+        },
+        {
+            "name": "World 1-1 - Star Medal #1",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-1 - Star Medal #2",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-1 - Star Medal #3",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-1 - Golden Flagpole",
+            "category": ["World 1", "Golden Flagpole"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-1 - Level Complete",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-2 - Star Medal #1",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-2 - Star Medal #2",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-2 - Star Medal #3",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-2 - Golden Flagpole",
+            "category": ["World 1", "Golden Flagpole"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-2 - Level Complete",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-3 - Star Medal #1",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-3 - Star Medal #2",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-3 - Star Medal #3",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-3 - Golden Flagpole",
+            "category": ["World 1", "Golden Flagpole"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-3 - Level Complete",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-4 - Star Medal #1",
+            "category": ["World 1"],
+            "region": "World 1",
+            "requires": "{YamlDisabled(star_medal_level_locks) OR |Star Medal:3|"
+        },
+        {
+            "name": "World 1-4 - Star Medal #2",
+            "category": ["World 1"],
+            "region": "World 1",
+            "requires": "{YamlDisabled(star_medal_level_locks) OR |Star Medal:3|"
+        },
+        {
+            "name": "World 1-4 - Star Medal #3",
+            "category": ["World 1"],
+            "region": "World 1",
+            "requires": "{YamlDisabled(star_medal_level_locks) OR |Star Medal:3|"
+        },
+        {
+            "name": "World 1-4 - Golden Flagpole",
+            "category": ["World 1", "Golden Flagpole"],
+            "region": "World 1",
+            "requires": "{YamlDisabled(star_medal_level_locks) OR |Star Medal:3|"
+        },
+        {
+            "name": "World 1-4 - Level Complete",
+            "category": ["World 1"],
+            "region": "World 1",
+            "requires": "{YamlDisabled(star_medal_level_locks) OR |Star Medal:3|"
+        },
+        {
+            "name": "World 1-Castle - Star Medal #1",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-Castle - Star Medal #2",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-Castle - Star Medal #3",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-Castle - Golden Flagpole",
+            "category": ["World 1", "Golden Flagpole"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 1-Castle - Level Complete",
+            "category": ["World 1"],
+            "region": "World 1"
+        },
+        {
+            "name": "World 2-1 - Star Medal #1",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-1 - Star Medal #2",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-1 - Star Medal #3",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-1 - Golden Flagpole",
+            "category": ["World 2", "Golden Flagpole"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-1 - Level Complete",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-2 - Star Medal #1",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-2 - Star Medal #2",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-2 - Star Medal #3",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-2 - Golden Flagpole",
+            "category": ["World 2", "Golden Flagpole"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-2 - Level Complete",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-3 - Star Medal #1",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-3 - Star Medal #2",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-3 - Star Medal #3",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-3 - Golden Flagpole",
+            "category": ["World 2", "Golden Flagpole"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-3 - Level Complete",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-4 - Star Medal #1",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-4 - Star Medal #2",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-4 - Star Medal #3",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-4 - Golden Flagpole",
+            "category": ["World 2", "Golden Flagpole"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-4 - Level Complete",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-Airship - Star Medal #1",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-Airship - Star Medal #2",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-Airship - Star Medal #3",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-Airship - Golden Flagpole",
+            "category": ["World 2", "Golden Flagpole"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 2-Airship - Level Complete",
+            "category": ["World 2"],
+            "region": "World 2"
+        },
+        {
+            "name": "World 3-1 - Star Medal #1",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-1 - Star Medal #2",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-1 - Star Medal #3",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-1 - Golden Flagpole",
+            "category": ["World 3", "Golden Flagpole"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-1 - Level Complete",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-2 - Star Medal #1",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-2 - Star Medal #2",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-2 - Star Medal #3",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-2 - Golden Flagpole",
+            "category": ["World 3", "Golden Flagpole"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-2 - Level Complete",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-3 - Star Medal #1",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-3 - Star Medal #2",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-3 - Star Medal #3",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-3 - Golden Flagpole",
+            "category": ["World 3", "Golden Flagpole"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-3 - Level Complete",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-4 - Star Medal #1",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-4 - Star Medal #2",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-4 - Star Medal #3",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-4 - Golden Flagpole",
+            "category": ["World 3", "Golden Flagpole"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-4 - Level Complete",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-5 - Star Medal #1",
+            "category": ["World 3"],
+            "region": "World 3",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:15|"
+        },
+        {
+            "name": "World 3-5 - Star Medal #2",
+            "category": ["World 3"],
+            "region": "World 3",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:15|"
+        },
+        {
+            "name": "World 3-5 - Star Medal #3",
+            "category": ["World 3"],
+            "region": "World 3",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:15|"
+        },
+        {
+            "name": "World 3-5 - Golden Flagpole",
+            "category": ["World 3", "Golden Flagpole"],
+            "region": "World 3",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:15|"
+        },
+        {
+            "name": "World 3-5 - Level Complete",
+            "category": ["World 3"],
+            "region": "World 3",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:15|"
+        },
+        {
+            "name": "World 3-Airship - Star Medal #1",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-Airship - Star Medal #2",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-Airship - Star Medal #3",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-Airship - Golden Flagpole",
+            "category": ["World 3", "Golden Flagpole"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 3-Airship - Level Complete",
+            "category": ["World 3"],
+            "region": "World 3"
+        },
+        {
+            "name": "World 4-1 - Star Medal #1",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-1 - Star Medal #2",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-1 - Star Medal #3",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-1 - Golden Flagpole",
+            "category": ["World 4", "Golden Flagpole"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-1 - Level Complete",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-2 - Star Medal #1",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-2 - Star Medal #2",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-2 - Star Medal #3",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-2 - Golden Flagpole",
+            "category": ["World 4", "Golden Flagpole"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-2 - Level Complete",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-3 - Star Medal #1",
+            "category": ["World 4"],
+            "region": "World 4",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:30|"
+        },
+        {
+            "name": "World 4-3 - Star Medal #2",
+            "category": ["World 4"],
+            "region": "World 4",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:30|"
+        },
+        {
+            "name": "World 4-3 - Star Medal #3",
+            "category": ["World 4"],
+            "region": "World 4",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:30|"
+        },
+        {
+            "name": "World 4-3 - Golden Flagpole",
+            "category": ["World 4", "Golden Flagpole"],
+            "region": "World 4",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:30|"
+        },
+        {
+            "name": "World 4-3 - Level Complete",
+            "category": ["World 4"],
+            "region": "World 4",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:30|"
+        },
+        {
+            "name": "World 4-4 - Star Medal #1",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-4 - Star Medal #2",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-4 - Star Medal #3",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-4 - Golden Flagpole",
+            "category": ["World 4", "Golden Flagpole"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-4 - Level Complete",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-5 - Star Medal #1",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-5 - Star Medal #2",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-5 - Star Medal #3",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-5 - Golden Flagpole",
+            "category": ["World 4", "Golden Flagpole"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-5 - Level Complete",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-Airship - Star Medal #1",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-Airship - Star Medal #2",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-Airship - Star Medal #3",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-Airship - Golden Flagpole",
+            "category": ["World 4", "Golden Flagpole"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 4-Airship - Level Complete",
+            "category": ["World 4"],
+            "region": "World 4"
+        },
+        {
+            "name": "World 5-1 - Star Medal #1",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-1 - Star Medal #2",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-1 - Star Medal #3",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-1 - Golden Flagpole",
+            "category": ["World 5", "Golden Flagpole"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-1 - Level Complete",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-2 - Star Medal #1",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-2 - Star Medal #2",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-2 - Star Medal #3",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-2 - Golden Flagpole",
+            "category": ["World 5", "Golden Flagpole"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-2 - Level Complete",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-3 - Star Medal #1",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:40|"
+        },
+        {
+            "name": "World 5-3 - Star Medal #2",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:40|"
+        },
+        {
+            "name": "World 5-3 - Star Medal #3",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:40|"
+        },
+        {
+            "name": "World 5-3 - Golden Flagpole",
+            "category": ["World 5", "Golden Flagpole"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:40|"
+        },
+        {
+            "name": "World 5-3 - Level Complete",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:40|"
+        },
+        {
+            "name": "World 5-4 - Star Medal #1",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-4 - Star Medal #2",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-4 - Star Medal #3",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-4 - Golden Flagpole",
+            "category": ["World 5", "Golden Flagpole"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-4 - Level Complete",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-5 - Star Medal #1",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-5 - Star Medal #2",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-5 - Star Medal #3",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-5 - Golden Flagpole",
+            "category": ["World 5", "Golden Flagpole"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-5 - Level Complete",
+            "category": ["World 5"],
+            "region": "World 5"
+        },
+        {
+            "name": "World 5-Castle - Star Medal #1",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:50|"
+        },
+        {
+            "name": "World 5-Castle - Star Medal #2",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:50|"
+        },
+        {
+            "name": "World 5-Castle - Star Medal #3",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:50|"
+        },
+        {
+            "name": "World 5-Castle - Golden Flagpole",
+            "category": ["World 5", "Golden Flagpole"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:50|"
+        },
+        {
+            "name": "World 5-Castle - Level Complete",
+            "category": ["World 5"],
+            "region": "World 5",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:50|"
+        },
+        {
+            "name": "World 6-1 - Star Medal #1",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-1 - Star Medal #2",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-1 - Star Medal #3",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-1 - Golden Flagpole",
+            "category": ["World 6", "Golden Flagpole"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-1 - Level Complete",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-2 - Star Medal #1",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-2 - Star Medal #2",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-2 - Star Medal #3",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-2 - Golden Flagpole",
+            "category": ["World 6", "Golden Flagpole"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-2 - Level Complete",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-3 - Star Medal #1",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-3 - Star Medal #2",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-3 - Star Medal #3",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-3 - Golden Flagpole",
+            "category": ["World 6", "Golden Flagpole"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-3 - Level Complete",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-4 - Star Medal #1",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-4 - Star Medal #2",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-4 - Star Medal #3",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-4 - Golden Flagpole",
+            "category": ["World 6", "Golden Flagpole"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-4 - Level Complete",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-5 - Star Medal #1",
+            "category": ["World 6"],
+            "region": "World 6",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:60|"
+        },
+        {
+            "name": "World 6-5 - Star Medal #2",
+            "category": ["World 6"],
+            "region": "World 6",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:60|"
+        },
+        {
+            "name": "World 6-5 - Star Medal #3",
+            "category": ["World 6"],
+            "region": "World 6",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:60|"
+        },
+        {
+            "name": "World 6-5 - Golden Flagpole",
+            "category": ["World 6", "Golden Flagpole"],
+            "region": "World 6",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:60|"
+        },
+        {
+            "name": "World 6-5 - Level Complete",
+            "category": ["World 6"],
+            "region": "World 6",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:60|"
+        },
+        {
+            "name": "World 6-Airship - Star Medal #1",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-Airship - Star Medal #2",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-Airship - Star Medal #3",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-Airship - Golden Flagpole",
+            "category": ["World 6", "Golden Flagpole"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 6-Airship - Level Complete",
+            "category": ["World 6"],
+            "region": "World 6"
+        },
+        {
+            "name": "World 7-1 - Star Medal #1",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-1 - Star Medal #2",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-1 - Star Medal #3",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-1 - Golden Flagpole",
+            "category": ["World 7", "Golden Flagpole"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-1 - Level Complete",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-2 - Star Medal #1",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-2 - Star Medal #2",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-2 - Star Medal #3",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-2 - Golden Flagpole",
+            "category": ["World 7", "Golden Flagpole"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-2 - Level Complete",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-3 - Star Medal #1",
+            "category": ["World 7"],
+            "region": "World 3",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 7-3 - Star Medal #2",
+            "category": ["World 7"],
+            "region": "World 7",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 7-3 - Star Medal #3",
+            "category": ["World 7"],
+            "region": "World 7",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 7-3 - Golden Flagpole",
+            "category": ["World 7", "Golden Flagpole"],
+            "region": "World 7",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 7-3 - Level Complete",
+            "category": ["World 7"],
+            "region": "World 7",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 7-4 - Star Medal #1",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-4 - Star Medal #2",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-4 - Star Medal #3",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-4 - Golden Flagpole",
+            "category": ["World 7", "Golden Flagpole"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-4 - Level Complete",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-5 - Star Medal #1",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-5 - Star Medal #2",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-5 - Star Medal #3",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-5 - Golden Flagpole",
+            "category": ["World 7", "Golden Flagpole"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-5 - Level Complete",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-Airship - Star Medal #1",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-Airship - Star Medal #2",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-Airship - Star Medal #3",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-Airship - Golden Flagpole",
+            "category": ["World 7", "Golden Flagpole"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 7-Airship - Level Complete",
+            "category": ["World 7"],
+            "region": "World 7"
+        },
+        {
+            "name": "World 8-1 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-1 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-1 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-1 - Golden Flagpole",
+            "category": ["World 8", "Golden Flagpole"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-1 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-2 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-2 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-2 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-2 - Golden Flagpole",
+            "category": ["World 8", "Golden Flagpole"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-2 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-3 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:80|"
+        },
+        {
+            "name": "World 8-3 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 8-3 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 8-3 - Golden Flagpole",
+            "category": ["World 8", "Golden Flagpole"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 8-3 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:70|"
+        },
+        {
+            "name": "World 8-4 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-4 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-4 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-4 - Golden Flagpole",
+            "category": ["World 8", "Golden Flagpole"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-4 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-5 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-5 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-5 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-5 - Golden Flagpole",
+            "category": ["World 8", "Golden Flagpole"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-5 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-Bowser: Part 1 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:90|"
+        },
+        {
+            "name": "World 8-Bowser: Part 1 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:90|"
+        },
+        {
+            "name": "World 8-Bowser: Part 1 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:90|"
+        },
+        {
+            "name": "World 8-Bowser: Part 1 - Golden Flagpole",
+            "category": ["World 8", "Golden Flagpole"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:90|"
+        },
+        {
+            "name": "World 8-Bowser: Part 1 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "{YamlDisabled(star_medal_level_locks)} OR |Star Medal:90|"
+        },
+        {
+            "name": "World 8-6 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-6 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-6 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-6 - Golden Flagpole",
+            "category": ["World 8", "Golden Flagpole"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-6 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8"
+        },
+        {
+            "name": "World 8-Bowser: Part 2 - Star Medal #1",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "({YamlCompare(goal = 0} AND {OptionCountPercent(Star Medal, star_medal_requirement)}) OR ({YamlCompare(goal = !0} AND |World 8 Key| AND ({YamlDisabled(star_medal_level_locks)} OR |Star Medal:100|))"
+        },
+        {
+            "name": "World 8-Bowser: Part 2 - Star Medal #2",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "({YamlCompare(goal = 0} AND {OptionCountPercent(Star Medal, star_medal_requirement)}) OR ({YamlCompare(goal = !0} AND |World 8 Key| AND ({YamlDisabled(star_medal_level_locks)} OR |Star Medal:100|))"
+        },
+        {
+            "name": "World 8-Bowser: Part 2 - Star Medal #3",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "({YamlCompare(goal = 0} AND {OptionCountPercent(Star Medal, star_medal_requirement)}) OR ({YamlCompare(goal = !0} AND |World 8 Key| AND ({YamlDisabled(star_medal_level_locks)} OR |Star Medal:100|))"
+        },
+        {
+            "name": "World 8-Bowser: Part 2 - Golden Flagpole",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "({YamlCompare(goal = 0} AND {OptionCountPercent(Star Medal, star_medal_requirement)}) OR ({YamlCompare(goal = !0} AND |World 8 Key| AND ({YamlDisabled(star_medal_level_locks)} OR |Star Medal:100|))"
+        },
+        {
+            "name": "World 8-Bowser: Part 2 - Level Complete",
+            "category": ["World 8"],
+            "region": "World 8",
+            "requires": "({YamlCompare(goal = 0} AND {OptionCountPercent(Star Medal, star_medal_requirement)}) OR ({YamlCompare(goal = !0} AND |World 8 Key| AND ({YamlDisabled(star_medal_level_locks)} OR |Star Medal:100|))",
+            "victory": true
+        },
+        {
+            "name": "Special 8-Bowser - Level Complete",
+            "category": ["Special 8"],
+            "region": "Special 8",
+            "requires": "({YamlCompare(goal = 1} AND {OptionCountPercent(Star Medal, star_medal_requirement)}) OR ({YamlCompare(goal = !1} AND {YamlEnabled(special_worlds) AND |Special 8 Key| AND ({YamlDisabled(star_medal_level_locks)} OR |Star Medal:290|))",
+            "victory": true
+        },
+        {
+            "name": "Special 8-Crown - Level Complete",
+            "category": ["Special 8"],
+            "region": "Special 8",
+            "requires": "({YamlCompare(goal = 2} AND {OptionCountPercent(Star Medal, star_medal_requirement)}) OR ({YamlCompare(goal = !2} AND {YamlEnabled(special_worlds) AND |Special 8 Key|)",
+            "victory": true
+        }
+    ]
+}
+

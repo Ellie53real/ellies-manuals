@@ -1,0 +1,222 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Progressive Mystery Box Unlock",
+            "category":[
+                "Mystery Boxes"
+            ],
+            "count": 2,
+            "progression": true
+        },
+        {
+            "name": "World 1 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 2 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 3 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 4 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 5 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 6 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 7 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 8 Key",
+            "category":[
+                "World Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 1 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 2 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 3 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 4 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 5 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 6 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 7 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Special 8 Key",
+            "category":[
+                "World Keys",
+                "Special Worlds"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Star Medal",
+            "category":[
+                "Star Medals"
+            ],
+            "progression": true
+        },
+        {
+            "name": "World 1 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks"
+            ],
+            "useful": true
+        },
+        {
+            "name": "World 2 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks"
+            ],
+            "useful": true
+        },
+        {
+            "name": "World 3 Album Toad House Unlock",
+            "category":[
+                "Toad House Unlocks"
+            ],
+            "useful": true
+        },
+        {
+            "name": "World 5 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks"
+            ],
+            "useful": true
+        },
+        {
+            "name": "World 7 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Special 1 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks",
+                "Special Worlds"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Special 2 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks",
+                "Special Worlds"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Special 4 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks",
+                "Special Worlds"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Special 6 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks",
+                "Special Worlds"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Special 8 Toad House Unlock",
+            "category":[
+                "Toad House Unlocks",
+                "Special Worlds"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Playable Luigi",
+            "category":[
+                "Miscellaneous"
+            ],
+            "filler": true
+        }
+    ]
+}

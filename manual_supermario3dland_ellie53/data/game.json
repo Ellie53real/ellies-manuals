@@ -1,0 +1,17 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SuperMario3DLand",
+  "creator": "Ellie53",
+  "filler_item_name": "Coins",
+  "starting_items": [
+    {
+      "item_categories": [
+        "World Keys"
+      ],
+      "random": 1
+    }
+  ],
+  "death_link": false,
+  "starting_index": 1,
+  "unused_goals_are_locations": true
+}

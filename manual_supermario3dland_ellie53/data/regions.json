@@ -1,0 +1,55 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "World Map":{
+        "connects_to": ["World 1", "World 2", "World 3", "World 4", "World 5", "World 6", "World 7", "World 8", "Special 1", "Special 2", "Special 3", "Special 4", "Special 5", "Special 6", "Special 7", "Special 8"],
+        "starting": true
+    },
+    "World 1": {
+        "requires": "|World 1 Key|"
+    },
+    "World 2": {
+        "requires": "|World 2 Key|"
+    },
+    "World 3": {
+        "requires": "|World 3 Key|"
+    },
+    "World 4": {
+        "requires": "|World 4 Key|"
+    },
+    "World 5": {
+        "requires": "|World 5 Key|"
+    },
+    "World 6": {
+        "requires": "|World 6 Key|"
+    },
+    "World 7": {
+        "requires": "|World 7 Key|"
+    },
+    "World 8": {
+        "requires": "|World 8 Key|"
+    },
+    "Special 1": {
+        "requires": "|Special 1 Key|"
+    },
+    "Special 2": {
+        "requires": "|Special 2 Key|"
+    },
+    "Special 3": {
+        "requires": "|Special 3 Key|"
+    },
+    "Special 4": {
+        "requires": "|Special 4 Key|"
+    },
+    "Special 5": {
+        "requires": "|Special 5 Key|"
+    },
+    "Special 6": {
+        "requires": "|Special 6 Key|"
+    },
+    "Special 7": {
+        "requires": "|Special 7 Key|"
+    },
+    "Special 8": {
+        "requires": "|Special 8 Key|"
+    }
+}

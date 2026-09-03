@@ -1,0 +1,77 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "Goal Level",
+            "description": [
+                "What level should be the goal for the slot.",
+                "This level will be unlocked upon recieving the required amount of Star Medals."
+            ],
+            "aliases": {"world_8_bowser": 0,"special_8_bowser":1,"special_8_crown":2},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "star_medal_requirement":{
+            "display_name": "Star Medal Requirement",
+            "type": "Range",
+            "description": [
+                "Controls the percentage of Star Medals in the item pool that will be required to goal."
+            ],
+            "range_start": 0,
+            "range_end": 100,
+            "default": 70,
+            "group": "Game Options"
+        },
+        "special_worlds":{
+            "display_name": "Enable Special Worlds",
+            "description": [
+                "Enables locations and items related to Special Worlds."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "golden_flagpoles":{
+            "display_name": "Golden Flagpoles",
+            "description": "Adds locations for reaching the top of the flagpole at the end of each level.",
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "mystery_boxes":{
+            "display_name": "Mystery Boxes",
+            "description": [
+                "Adds locations for completing the 35 random Mystery Boxes that can be found on the world map.",
+                "These will require an unlock through a 'Progressive Mystery Boxes' item in the multiworld, as well as access to any of the worlds where the respective rooms can show up."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "star_medal_level_locks":{
+            "display_name": "Star Medal Level Locks",
+            "description": [
+                "Enables locking certain levels based on Star Medal count, as is done in the vanilla game (e.g. World 1-4 being locked behind 3 Star Medals).",
+                "NOTE: This will not affect your chosen goal level."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Options"
+        }
+    }
+
+}

@@ -1,0 +1,19 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Special Worlds": {
+        "hidden": true,
+        "yaml_option": ["special_worlds"]
+    },
+    "Golden Flagpoles": {
+        "hidden": true,
+        "yaml_option": ["golden_flagpoles"]
+    },
+    "Mystery Boxes": {
+        "hidden": false,
+        "yaml_option": ["mystery_boxes"]
+    },
+    "Golden Mystery Boxes": {
+        "hidden": false,
+        "yaml_option": ["mystery_boxes"]
+    }
+}
