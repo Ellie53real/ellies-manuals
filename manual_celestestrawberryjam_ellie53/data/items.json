@@ -197,6 +197,279 @@
             "progression": true
         },
         {
+            "name": "Dream Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Dash Refills",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Springs",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Blue Clouds",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Theo Crystal",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Springs",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Double Dash Refills",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Dream Refills",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Dash Zip Movers",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Strawberry Seeds",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Swap Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Coins",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Moving Platforms",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Intro Crushers",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Traffic Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Green Boosters",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Blue Cassette Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Pink Cassette Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Yellow Cassette Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Green Cassette Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Jump Refills",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Triple Jump Refills",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Pink Clouds",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Badeline Boosters",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Feathers",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Red Boosters",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cassette Tape Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Lightbulb Switches",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Roses",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Clear Pipes",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Switch Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Refill Shards",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Time Crystals",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Move Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Jam Jar",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Dash Switches",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Kevins",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Core Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Core Toggles",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
             "name": "Beginner Lobby - Oceanfront Bench",
             "category": [
                 "Benches",
@@ -299,6 +572,46 @@
                 "Intermediate Lobby"
             ],
             "useful": true
+        },
+        {
+            "name": "Blueberry Bay - Basin",
+            "category": [
+                "Blueberry Bay - Checkpoints",
+                "Beginner Lobby"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Blueberry Bay - Jade",
+            "category": [
+                "Blueberry Bay - Checkpoints",
+                "Beginner Lobby"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Blueberry Bay - Tranquility",
+            "category": [
+                "Blueberry Bay - Checkpoints",
+                "Beginner Lobby"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Blueberry Bay - Overgrowth",
+            "category": [
+                "Blueberry Bay - Checkpoints",
+                "Beginner Lobby"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Blueberry Bay - Harbor",
+            "category": [
+                "Blueberry Bay - Checkpoints",
+                "Beginner Lobby"
+            ],
+            "progression": true
         },
         {
             "name": "Slow Trap",

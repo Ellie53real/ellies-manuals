@@ -33,6 +33,10 @@
                 "beginner":0,
                 "intermediate":1
              },
+            "aliases": {
+                "Beginner":0,
+                "Intermediate":1
+             },
             "display_name": "Lobby",
             "default": 0,
             "allow_custom_value": false,
@@ -40,8 +44,7 @@
         },
         "include_puzzle_levels":{
             "description": [
-                "Controls whether or not the slot will include checks and items relating to the two Beginner puzzle levels (A Gift From the Stars and Dropzle).",
-                "Adds 12 checks + an additional 17 if Special Berries and Binosanity are enabled."
+                "Whether or not to include items and locations exclusively related to puzzle levels, such as Dropzle and A Gift From the Stars."
             ],
             "display_name": "Include Puzzle Levels",
             "type": "Toggle",
@@ -58,28 +61,41 @@
             "default": false,
             "group": "Game Options"
         },
-        "mechanic_shuffle":{
+        "level_locking":{
+            "type": "Choice",
             "description": [
-                "Whether or not to shuffle various level mechanics into the item pool.",
-                "Any level mechanics originating from vanilla Celeste will be included in this, along with any added mechanics that are reused across multiple levels in SJ.",
-                "NOTE: Logic with this option enabled assumes that you have completed every level in vanilla Celeste (up to and including both Farewell and the C-Sides) and learned any tech that is taught in the gyms going up to your chosen lobby.",
-                "The higher lobby you choose, the more difficult the logic will become."
+                "How to handle access to different levels.",
+                "Locked: Each level must be unlocked individually, and can be completed in full once received as an item.",
+                "Open World: Grants access to all levels from the get-go, instead putting different mechanics into the item pool.",
+                "NOTE: Open World logic assumes knowledge of all tech taught in vanilla Celeste, as well as all Strawberry Jam gyms going up to your chosen lobby."
             ],
-            "display_name": "Mechanic Shuffle",
-            "type": "Toggle",
-            "default": false,
+            "values": {
+                "locked":0,
+                "open_world":1
+             },
+            "aliases": {
+                "Locked":0,
+                "Open World":1
+             },
+            "display_name": "Level Locking",
+            "default": 0,
+            "allow_custom_value": false,
             "group": "Logic Options"
         },
         "seeing_is_believing_requirements":{
             "type": "Choice",
             "description": [
-                "How logical requirements for Seeing is Believing should be handled if Mechanic Shuffle is enabled.",
-                "dev_intended: Any mechanics used in the level will be required as soon as they are introduced.",
-                "silly: Assumes you will be treating this level like any other ordinary level, ignoring the blindfold aspect entirely."
+                "How logical requirements for Seeing is Believing should be handled if Level Locking is set to open world.",
+                "Developer Intended: Any mechanics used in the level will be required as soon as they are introduced.",
+                "Silly: Assumes you will be treating this level like any other ordinary level, ignoring the blindfold aspect entirely."
             ],
             "values": {
-                "dev_intended":0,
+                "developer_intended":0,
                 "silly":1
+             },
+            "aliases": {
+                "Developer Intended":0,
+                "Silly":1
              },
             "display_name": "Seeing is Believing Logic Requirements",
             "default": 0,
@@ -96,6 +112,10 @@
             "values": {
                 "heartside":0,
                 "strawberries":1
+             },
+            "aliases": {
+                "Heartside":0,
+                "Strawberries":1
              },
             "display_name": "Victory Condition",
             "default": 0,

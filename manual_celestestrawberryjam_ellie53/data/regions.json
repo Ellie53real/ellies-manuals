@@ -12,67 +12,67 @@
         "starting": true
     },
     "Forest Path": {
-        "requires": "|Forest Path|"
+        "requires": "|Forest Path| OR {YamlCompare(level_locking = open_world)}"
     },
     "Azure Caverns": {
-        "requires": "|Azure Caverns|"
+        "requires": "|Azure Caverns| OR {YamlCompare(level_locking = open_world)}"
     },
     "Loopy Lagoon": {
-        "requires": "|Loopy Lagoon|"
+        "requires": "|Loopy Lagoon| OR {YamlCompare(level_locking = open_world)}"
     },
     "Collapsing Skyline": {
-        "requires": "|Collapsing Skyline|"
+        "requires": "|Collapsing Skyline| OR {YamlCompare(level_locking = open_world)}"
     },
     "Seeing is Believing": {
-        "requires": "|Seeing is Believing|"
+        "requires": "|Seeing is Believing| OR {YamlCompare(level_locking = open_world)}"
     },
     "If my 'driveway' almost did you in...": {
-        "requires": "|If my 'driveway' almost did you in...|"
+        "requires": "|If my 'driveway' almost did you in...| OR {YamlCompare(level_locking = open_world)}"
     },
     "Cassette Cliffs": {
-        "requires": "|Cassette Cliffs|"
+        "requires": "|Cassette Cliffs| OR {YamlCompare(level_locking = open_world)}"
     },
     "Over the City": {
-        "requires": "|Over the City|"
+        "requires": "|Over the City| OR {YamlCompare(level_locking = open_world)}"
     },
     "Troposphere": {
-        "requires": "|Troposphere|"
+        "requires": "|Troposphere| OR {YamlCompare(level_locking = open_world)}"
     },
     "Potential for Anything": {
-        "requires": "|Potential for Anything|"
+        "requires": "|Potential for Anything| OR {YamlCompare(level_locking = open_world)}"
     },
     "Midnight Spire": {
-        "requires": "|Midnight Spire|"
+        "requires": "|Midnight Spire| OR {YamlCompare(level_locking = open_world)}"
     },
     "paint": {
-        "requires": "|paint|"
+        "requires": "|paint| OR {YamlCompare(level_locking = open_world)}"
     },
     "Rose Garden": {
-        "requires": "|Rose Garden|"
+        "requires": "|Rose Garden| OR {YamlCompare(level_locking = open_world)}"
     },
     "Treehive": {
-        "requires": "|Treehive|"
+        "requires": "|Treehive| OR {YamlCompare(level_locking = open_world)}"
     },
     "The Squeeze": {
-        "requires": "|The Squeeze|"
+        "requires": "|The Squeeze| OR {YamlCompare(level_locking = open_world)}"
     },
     "Soap": {
-        "requires": "|Soap|"
+        "requires": "|Soap| OR {YamlCompare(level_locking = open_world)}"
     },
     "Switchtube Vista": {
-        "requires": "|Switchtube Vista|"
+        "requires": "|Switchtube Vista| OR {YamlCompare(level_locking = open_world)}"
     },
     "A Gift From the Stars": {
-        "requires": "|A Gift From the Stars|"
+        "requires": "|A Gift From the Stars| OR {YamlCompare(level_locking = open_world)}"
     },
     "Strawberry Orchard": {
-        "requires": "|Strawberry Orchard|"
+        "requires": "|Strawberry Orchard| OR {YamlCompare(level_locking = open_world)}"
     },
     "Dropzle": {
-        "requires": "|Dropzle|"
+        "requires": "|Dropzle| OR {YamlCompare(level_locking = open_world)}"
     },
     "Coresaken City": {
-        "requires": "|Coresaken City|"
+        "requires": "|Coresaken City| OR {YamlCompare(level_locking = open_world)}"
     },
     "Blueberry Bay": {
         "requires": "{OptionCount(|Blue Mini Heart|, mini_heart_requirement)}"
