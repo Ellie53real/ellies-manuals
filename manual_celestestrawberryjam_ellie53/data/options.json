@@ -102,6 +102,33 @@
             "allow_custom_value": false,
             "group": "Logic Options"
         },
+        "include_special_berries":{
+            "description": [
+                "Whether or not to include checks for collecting the Silver Berries, the Heartside's Golden Strawberry, and the lobby's Rainbow Berry."
+            ],
+            "display_name": "Include Special Berries",
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "carsanity":{
+            "description": [
+                "Whether or not jumping on Intro Cars gives checks."
+            ],
+            "display_name": "Carsanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "binosanity":{
+            "description": [
+                "Whether or not looking into each pair of Binoculars gives checks."
+            ],
+            "display_name": "Binosanity",
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
         "victory_condition":{
             "type": "Choice",
             "description": [
@@ -147,8 +174,7 @@
         },
         "strawberry_requirement":{
             "description": [
-                "What percentage of Strawberries in the item pool you must receive to goal.",
-                "This option will not do anything if your goal is set to Heartside."
+                "What percentage of Strawberries in the item pool you must receive to goal, if your goal is set to Strawberries."
             ],
             "display_name": "Strawberry Requirement",
             "type": "Range",
@@ -156,33 +182,6 @@
             "range_end": 100,
             "default": 80,
             "group": "Goal Options"
-        },
-        "include_special_berries":{
-            "description": [
-                "Whether or not to include checks for collecting the Silver Berries, the Heartside's Golden Strawberry, and the lobby's Rainbow Berry."
-            ],
-            "display_name": "Include Special Berries",
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options"
-        },
-        "carsanity":{
-            "description": [
-                "Whether or not jumping on Intro Cars gives checks."
-            ],
-            "display_name": "Carsanity",
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options"
-        },
-        "binosanity":{
-            "description": [
-                "Whether or not looking into each pair of Binoculars gives checks."
-            ],
-            "display_name": "Binosanity",
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options"
         }
     }
 
