@@ -302,6 +302,13 @@
             "progression": true
         },
         {
+            "name": "Cereal Blocks",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
             "name": "Green Boosters",
             "category": [
                 "Mechanics"

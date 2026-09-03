@@ -85,7 +85,7 @@
         "seeing_is_believing_requirements":{
             "type": "Choice",
             "description": [
-                "How logical requirements for Seeing is Believing should be handled if Level Locking is set to open world.",
+                "How logical requirements for Seeing is Believing should be handled if Level Locking is set to Open World.",
                 "Developer Intended: Any mechanics used in the level will be required as soon as they are introduced.",
                 "Silly: Assumes you will be treating this level like any other ordinary level, ignoring the blindfold aspect entirely."
             ],
