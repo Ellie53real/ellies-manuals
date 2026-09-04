@@ -160,6 +160,14 @@
             ],
             "filler": true,
             "count": 40
+        },
+        {
+            "name": "VRChat Credits",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 40
         }
     ]
 }
