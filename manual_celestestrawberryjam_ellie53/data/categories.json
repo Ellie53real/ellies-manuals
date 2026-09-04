@@ -27,5 +27,11 @@
     "Benches": {
         "hidden": false,
         "yaml_option": ["lock_benches"]
+    },
+    "Beginner Lobby": {
+        "hidden": true
+    },
+    "Intermediate Lobby": {
+        "hidden": true
     }
 }

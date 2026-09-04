@@ -232,13 +232,6 @@
             "progression": true
         },
         {
-            "name": "Springs",
-            "category": [
-                "Mechanics"
-            ],
-            "progression": true
-        },
-        {
             "name": "Double Dash Refills",
             "category": [
                 "Mechanics"
@@ -400,6 +393,20 @@
             "progression": true
         },
         {
+            "name": "Blue Springs",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Blue Boosters",
+            "category": [
+                "Mechanics"
+            ],
+            "progression": true
+        },
+        {
             "name": "Clear Pipes",
             "category": [
                 "Mechanics"
@@ -543,14 +550,6 @@
         },
         {
             "name": "Intermediate Lobby - Subterranean Forest Bench",
-            "category": [
-                "Benches",
-                "Intermediate Lobby"
-            ],
-            "useful": true
-        },
-        {
-            "name": "Intermediate Lobby - Heart of the Woods Bench",
             "category": [
                 "Benches",
                 "Intermediate Lobby"
