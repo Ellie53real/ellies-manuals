@@ -54,6 +54,6 @@
     "Coresaken City": {
     },
     "Blueberry Bay": {
-        "requires": "{OptionCount(|Blue Mini Heart|, mini_heart_requirement)}"
+        "requires": "{OptionCountPercent(|Blue Mini Heart|, mini_heart_requirement)}"
     }
 }
