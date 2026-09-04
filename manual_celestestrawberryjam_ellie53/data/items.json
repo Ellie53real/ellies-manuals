@@ -316,32 +316,25 @@
             "progression": true
         },
         {
-            "name": "Blue Cassette Blocks",
+            "name": "Mini-Strawberries",
             "category": [
                 "Mechanics"
             ],
             "progression": true
         },
         {
-            "name": "Pink Cassette Blocks",
+            "name": "Cassette Blocks",
             "category": [
                 "Mechanics"
             ],
             "progression": true
         },
         {
-            "name": "Yellow Cassette Blocks",
+            "name": "Traffic Cassette Blocks",
             "category": [
                 "Mechanics"
             ],
             "progression": true
-        },
-        {
-            "name": "Green Cassette Blocks",
-            "category": [
-                "Mechanics"
-            ],
-            "useful": true
         },
         {
             "name": "Jump Refills",
@@ -383,7 +376,7 @@
             "category": [
                 "Mechanics"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Cassette Tape Blocks",
