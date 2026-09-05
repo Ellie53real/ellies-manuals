@@ -159,15 +159,119 @@
                 "Junk Items"
             ],
             "filler": true,
-            "count": 40
+            "count": 100
         },
         {
-            "name": "VRChat Credits",
+            "name": "Melon Slice",
             "category": [
                 "Junk Items"
             ],
             "filler": true,
-            "count": 40
+            "count": 100
+        },
+        {
+            "name": "Secret Melon Slice",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 100
+        },
+        {
+            "name": "Golden Melon",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 100
+        },
+        {
+            "name": "Flower",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Crystal",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Asteroid Fragment",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Toxic Waste",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Pile of Sand",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Wooden Planks",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Snowball",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Lily Pad",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "RAM Stick",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Tetromino",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
+        },
+        {
+            "name": "Corruption",
+            "category": [
+                "Junk Items"
+            ],
+            "filler": true,
+            "count": 50
         }
     ]
 }
