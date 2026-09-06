@@ -36,7 +36,7 @@
         {
             "name": "Forest Path",
             "category": [
-                "Green-Beginner Maps",
+                "Beginner Lobby - Green Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -44,7 +44,7 @@
         {
             "name": "Azure Caverns",
             "category": [
-                "Green-Beginner Maps",
+                "Beginner Lobby - Green Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -52,7 +52,7 @@
         {
             "name": "Loopy Lagoon",
             "category": [
-                "Green-Beginner Maps",
+                "Beginner Lobby - Green Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -60,7 +60,7 @@
         {
             "name": "Collapsing Skyline",
             "category": [
-                "Green-Beginner Maps",
+                "Beginner Lobby - Green Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -68,7 +68,7 @@
         {
             "name": "Seeing is Believing",
             "category": [
-                "Green-Beginner Maps",
+                "Beginner Lobby - Green Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -76,7 +76,7 @@
         {
             "name": "If my 'driveway' almost did you in...",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -84,7 +84,7 @@
         {
             "name": "Cassette Cliffs",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -92,7 +92,7 @@
         {
             "name": "Over the City",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -100,7 +100,7 @@
         {
             "name": "Troposphere",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -108,7 +108,7 @@
         {
             "name": "Potential for Anything",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -116,7 +116,7 @@
         {
             "name": "Midnight Spire",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -124,7 +124,7 @@
         {
             "name": "paint",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -132,7 +132,7 @@
         {
             "name": "Rose Garden",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -140,7 +140,7 @@
         {
             "name": "Treehive",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -148,7 +148,7 @@
         {
             "name": "The Squeeze",
             "category": [
-                "Yellow-Beginner Maps",
+                "Beginner Lobby - Yellow Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -156,7 +156,7 @@
         {
             "name": "Soap",
             "category": [
-                "Red-Beginner Maps",
+                "Beginner Lobby - Red Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -164,7 +164,7 @@
         {
             "name": "Switchtube Vista",
             "category": [
-                "Red-Beginner Maps",
+                "Beginner Lobby - Red Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -172,7 +172,7 @@
         {
             "name": "A Gift From the Stars",
             "category": [
-                "Red-Beginner Maps",
+                "Beginner Lobby - Red Maps",
                 "Puzzle Levels",
                 "Beginner Lobby"
             ],
@@ -181,7 +181,7 @@
         {
             "name": "Strawberry Orchard",
             "category": [
-                "Red-Beginner Maps",
+                "Beginner Lobby - Red Maps",
                 "Beginner Lobby"
             ],
             "progression": true
@@ -189,7 +189,7 @@
         {
             "name": "Dropzle",
             "category": [
-                "Red-Beginner Maps",
+                "Beginner Lobby - Red Maps",
                 "Puzzle Levels",
                 "Beginner Lobby"
             ],
@@ -198,7 +198,7 @@
         {
             "name": "Coresaken City",
             "category": [
-                "Red-Beginner Maps",
+                "Beginner Lobby - Red Maps",
                 "Beginner Lobby"
             ],
             "progression": true
