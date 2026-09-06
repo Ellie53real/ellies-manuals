@@ -20,6 +20,13 @@
             "progression": true
         },
         {
+            "name": "Heartside Complete",
+            "category": [
+                "Collectibles"
+            ],
+            "progression": true
+        },
+        {
             "name": "Strawberry",
             "category": [
                 "Collectibles"
