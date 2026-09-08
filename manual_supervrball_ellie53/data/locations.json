@@ -3830,37 +3830,44 @@
         {
             "name": "Castle 4R - Secret Melon #1 Behind Barrels",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Castle (Reverse)"
+            "region": "Castle (Reverse)",
+            "requires": "|Jump|"
         },
         {
             "name": "Castle 4R - Secret Melon #2 Behind Barrels",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Castle (Reverse)"
+            "region": "Castle (Reverse)",
+            "requires": "|Jump|"
         },
         {
             "name": "Castle 4R - Secret Melon #3 Behind Barrels",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Castle (Reverse)"
+            "region": "Castle (Reverse)",
+            "requires": "|Jump|"
         },
         {
             "name": "Castle 4R - Secret Melon #4 Behind Barrels",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Castle (Reverse)"
+            "region": "Castle (Reverse)",
+            "requires": "|Jump|"
         },
         {
             "name": "Castle 4R - Secret Melon #5 Behind Barrels",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Castle (Reverse)"
+            "region": "Castle (Reverse)",
+            "requires": "|Jump|"
         },
         {
             "name": "Castle 4R - Secret Melon #6 Behind Barrels",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Castle (Reverse)"
+            "region": "Castle (Reverse)",
+            "requires": "|Jump|"
         },
         {
             "name": "Castle 4R - Secret Melon #7 Behind Barrels",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Castle (Reverse)"
+            "region": "Castle (Reverse)",
+            "requires": "|Jump|"
         },
         {
             "name": "Castle 4R - Golden Melon On Ramp",
