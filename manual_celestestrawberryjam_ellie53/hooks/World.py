@@ -71,6 +71,69 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     item_config["Strawberry"] = +world.options.strawberry_pool_count
+    item_config["Blue Mini Heart"] = 21 if world.options.lobby == 0 else 0
+    item_config["Red Mini Heart"] = 18 if world.options.lobby == 1 else 0
+    item_config["Forest Path"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Azure Caverns"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Loopy Lagoon"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Collapsing Skyline"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Seeing is Believing"] = 1 if world.options.level_locking == 0 else 0
+    item_config["If my 'driveway' almost did you in..."] = 1 if world.options.level_locking == 0 else 0
+    item_config["Cassette Cliffs"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Over the City"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Troposphere"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Potential for Anything"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Midnight Spire"] = 1 if world.options.level_locking == 0 else 0
+    item_config["paint"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Rose Garden"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Treehive"] = 1 if world.options.level_locking == 0 else 0
+    item_config["The Squeeze"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Soap"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Switchtube Vista"] = 1 if world.options.level_locking == 0 else 0
+    item_config["A Gift From the Stars"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Strawberry Orchard"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Dropzle"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Coresaken City"] = 1 if world.options.level_locking == 0 else 0
+    item_config["Dream Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Dash Refills"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Springs"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Double Dash Refills"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Dream Refills"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Dash Zip Movers"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Strawberry Seeds"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Swap Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Coins"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Moving Platforms"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Intro Crushers"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Traffic Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Cereal Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Green Boosters"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Mini-Strawberries"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Cassette Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Traffic Cassette Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Jump Refills"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Triple Jump Refills"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Pink Clouds"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Badeline Boosters"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Feathers"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Red Boosters"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Cassette Tape Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Lightbulb Switches"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Roses"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Blue Springs"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Blue Boosters"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Clear Pipes"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Switch Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Refill Shards"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Time Crystals"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Jam Jar"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Dash Switches"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Kevins"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Core Blocks"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Core Toggles"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Blue Clouds"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Theo Crystal"] = 1 if world.options.level_locking == 1 else 0
+    item_config["Move Blocks"] = 1 if world.options.level_locking == 1 else 0
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -83,119 +146,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     itemNamesToRemove: list[str] = [] # List of item names
 
     # Add your code here to calculate which items to remove.
-    if world.options.level_locking == 0: itemNamesToRemove.append("Dream Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Dash Refills")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Springs")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Blue Clouds")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Theo Crystal")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Springs")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Double Dash Refills")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Dream Refills")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Dash Zip Movers")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Strawberry Seeds")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Swap Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Coins")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Moving Platforms")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Intro Crushers")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Traffic Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Cereal Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Green Boosters")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Mini-Strawberries")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Cassette Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Traffic Cassette Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Jump Refills")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Triple Jump Refills")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Pink Clouds")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Badeline Boosters")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Feathers")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Red Boosters")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Cassette Tape Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Lightbulb Switches")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Roses")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Blue Springs")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Blue Boosters")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Clear Pipes")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Switch Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Refill Shards")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Time Crystals")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Move Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Jam Jar")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Dash Switches")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Kevins")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Core Blocks")
-    if world.options.level_locking == 0: itemNamesToRemove.append("Core Toggles")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Forest Path")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Azure Caverns")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Loopy Lagoon")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Collapsing Skyline")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Seeing is Believing")
-    if world.options.level_locking == 1: itemNamesToRemove.append("If my 'driveway' almost did you in...")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Cassette Cliffs")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Over the City")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Troposphere")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Potential for Anything")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Midnight Spire")
-    if world.options.level_locking == 1: itemNamesToRemove.append("paint")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Rose Garden")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Treehive")
-    if world.options.level_locking == 1: itemNamesToRemove.append("The Squeeze")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Soap")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Switchtube Vista")
-    if world.options.level_locking == 1: itemNamesToRemove.append("A Gift From the Stars")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Strawberry Orchard")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Dropzle")
-    if world.options.level_locking == 1: itemNamesToRemove.append("Coresaken City")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Blue Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 1: itemNamesToRemove.append("Red Mini Heart")
-    if world.options.lobby != 0: itemNamesToRemove.append("Beginner Lobby - Oceanfront Bench")
-    if world.options.lobby != 0: itemNamesToRemove.append("Beginner Lobby - Bamboo Forest Bench")
-    if world.options.lobby != 0: itemNamesToRemove.append("Beginner Lobby - Pinwheel Bay Bench")
-    if world.options.lobby != 0: itemNamesToRemove.append("Beginner Lobby - Shrine Entrance Bench")
-    if world.options.lobby != 0: itemNamesToRemove.append("Beginner Lobby - Tidepools Bench")
-    if world.options.lobby != 0: itemNamesToRemove.append("Beginner Lobby - Eroded Passage Bench")
-    if world.options.lobby != 1: itemNamesToRemove.append("Intermediate Lobby - Heart of the Woods Bench")
-    if world.options.lobby != 1: itemNamesToRemove.append("Intermediate Lobby - Firefly's Domain Bench")
-    if world.options.lobby != 1: itemNamesToRemove.append("Intermediate Lobby - Moisty Caves Bench")
-    if world.options.lobby != 1: itemNamesToRemove.append("Intermediate Lobby - Subterranean Forest Bench")
-    if world.options.lobby != 1: itemNamesToRemove.append("Intermediate Lobby - Abandoned Quarry Bench")
-    if world.options.lobby != 1: itemNamesToRemove.append("Intermediate Lobby - Crystal's Origin Bench")
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
 
