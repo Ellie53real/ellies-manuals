@@ -53,50 +53,38 @@
         "requires": "|Progressive Digital Dilemma:3|"
     },
     "Glitch (Reverse)":{
-        "connects_to": ["Retro (Reverse)"],
-        "requires": "|Progressive Digital Dilemma (Reverse)|"
+        "connects_to": ["Retro (Reverse)"]
     },
     "Retro (Reverse)":{
-        "connects_to": ["PC (Reverse)"],
-        "requires": "|Progressive Digital Dilemma (Reverse):2|"
+        "connects_to": ["PC (Reverse)"]
     },
     "PC (Reverse)":{
-        "connects_to": ["Swamp (Reverse)"],
-        "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        "connects_to": ["Swamp (Reverse)"]
     },
     "Swamp (Reverse)":{
-        "connects_to": ["Winter (Reverse)"],
-        "requires": "|Progressive Spring King (Reverse)|"
+        "connects_to": ["Winter (Reverse)"]
     },
     "Winter (Reverse)":{
-        "connects_to": ["Castle (Reverse)"],
-        "requires": "|Progressive Spring King (Reverse):2|"
+        "connects_to": ["Castle (Reverse)"]
     },
     "Castle (Reverse)":{
-        "connects_to": ["Desert (Reverse)"],
-        "requires": "|Progressive Spring King (Reverse):3|"
+        "connects_to": ["Desert (Reverse)"]
     },
     "Desert (Reverse)":{
-        "connects_to": ["Toxic (Reverse)"],
-        "requires": "|Progressive Twilight Tour (Reverse)|"
+        "connects_to": ["Toxic (Reverse)"]
     },
     "Toxic (Reverse)":{
-        "connects_to": ["Night (Reverse)"],
-        "requires": "|Progressive Twilight Tour (Reverse):2|"
+        "connects_to": ["Night (Reverse)"]
     },
     "Night (Reverse)":{
-        "connects_to": ["Space (Reverse)"],
-        "requires": "|Progressive Twilight Tour (Reverse):3|"
+        "connects_to": ["Space (Reverse)"]
     },
     "Space (Reverse)":{
-        "connects_to": ["Volcano (Reverse)"],
-        "requires": "|Progressive Kula Cruise (Reverse)|"
+        "connects_to": ["Volcano (Reverse)"]
     },
     "Volcano (Reverse)":{
-        "connects_to": ["Island (Reverse)"],
-        "requires": "|Progressive Kula Cruise (Reverse):2|"
+        "connects_to": ["Island (Reverse)"]
     },
     "Island (Reverse)":{
-        "requires": "|Progressive Kula Cruise (Reverse):3|"
     }
 }
