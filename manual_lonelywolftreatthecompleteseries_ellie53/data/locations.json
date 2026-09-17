@@ -923,7 +923,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Remote Control| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Mochi in Frosting|"
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Remote Control|) OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Mochi in Frosting|"
     },
     {
       "name": "Charactersanity: May",
@@ -931,7 +931,7 @@
       "category": [
         "Charactersanity - Introduced in Chapter 1"
       ],
-      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Remote Control| OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Mochi in Frosting|"
+      "requires": "|Chapter Unlock - Lonely Wolf Treat| OR |Chapter Unlock - Friendly Bunny Mochi| OR (|Chapter Unlock - Clever Fox Moxie| AND |Prop Knife| AND |Spooky Mask| AND |Catsup| AND |Remote Control|) OR (|Chapter Unlock - Wandering Wolf Trick| AND |Lantern| AND |Trail Mix| AND |Apple| AND |Ticket to Daifuku|) OR |Chapter Unlock - Mochi in Frosting|"
     },
     {
       "name": "Charactersanity: Cinnamom",
