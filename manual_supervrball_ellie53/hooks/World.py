@@ -42,6 +42,9 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
+    if world.options.include_reverse_levels == False:
+        if world.options.pack_requirement >= 4:
+            world.options.pack_requirement.value = 4
     pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
