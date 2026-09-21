@@ -61,7 +61,6 @@
         "include_mega_melons":{
             "description": [
                 "Whether or not to include checks for collecting the 4 Mega Melons in Swamp 6.",
-                "Adds 4 checks.",
                 "NOTE: Not recommended unless you are familiar with the requirements for spawning these."
             ],
             "type": "Toggle",
