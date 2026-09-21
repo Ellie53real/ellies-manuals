@@ -74,6 +74,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     item_config["Level Pack Completion"] = 8 if world.options.include_reverse_levels else 4
+    item_config["Auto Brake"] = 0 if world.options.game_version == community_levels else 1
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
