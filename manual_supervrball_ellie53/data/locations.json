@@ -5897,7 +5897,7 @@
             "name": "Digital Dilemma (Reverse) - Pack Complete",
             "category": ["Completions", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|",
             "place_item": [
                 "Level Pack Completion"
             ]
