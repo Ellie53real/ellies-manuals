@@ -19,5 +19,9 @@
     "Reverse Levels": {
         "hidden": true,
         "yaml_option": ["include_reverse_levels"]
+    },
+    "Mega Melons": {
+        "hidden": true,
+        "yaml_option": ["include_mega_melons"]
     }
 }

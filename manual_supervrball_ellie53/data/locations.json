@@ -1771,6 +1771,26 @@
             "region": "Swamp"
         },
         {
+            "name": "Swamp 6 - Mega Melon #1 Before First Bounce Pad",
+            "category": ["Swamp", "Mega Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Mega Melon #2 On First Stump After Third Bounce Pad",
+            "category": ["Swamp", "Mega Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Mega Melon #3 On Second Stump Before Final Bounce Pad",
+            "category": ["Swamp", "Mega Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Mega Melon #4 Below Golden Melon",
+            "category": ["Swamp", "Mega Melons"],
+            "region": "Swamp"
+        },
+        {
             "name": "Swamp 6 - Golden Melon On Bridge",
             "category": ["Swamp", "Golden Melons"],
             "region": "Swamp"
