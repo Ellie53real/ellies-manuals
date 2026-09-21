@@ -34,12 +34,14 @@
         {
             "name": "Island 5 - Cliff Shortcut",
             "category": ["Island", "Shortcuts"],
-            "region": "Island"
+            "region": "Island",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Island 5 - Golden Melon On Top of Cliff",
             "category": ["Island", "Golden Melons"],
-            "region": "Island"
+            "region": "Island",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Island 5 - Level Complete",
@@ -79,7 +81,8 @@
         {
             "name": "Volcano 4 - Floats Shortcut",
             "category": ["Volcano", "Shortcuts"],
-            "region": "Volcano"
+            "region": "Volcano",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Volcano 4 - Level Complete",
@@ -119,37 +122,44 @@
         {
             "name": "Space 5 - Golden Melon #1 On High Asteroid Rings",
             "category": ["Space", "Golden Melons"],
-            "region": "Space"
+            "region": "Space",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Space 5 - Golden Melon #2 On Middle Asteroid Rings",
             "category": ["Space", "Golden Melons"],
-            "region": "Space"
+            "region": "Space",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Space 5 - Golden Melon #3 On Low Asteroid",
             "category": ["Space", "Golden Melons"],
-            "region": "Space"
+            "region": "Space",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Space 5 - Golden Melon #4 On Low Asteroid Rings",
             "category": ["Space", "Golden Melons"],
-            "region": "Space"
+            "region": "Space",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Space 5 - Golden Melon #5 On Low Asteroid Rings",
             "category": ["Space", "Golden Melons"],
-            "region": "Space"
+            "region": "Space",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Space 5 - Secret Melon #1 Below Middle Asteroid Rings",
             "category": ["Space", "Secret Melons"],
-            "region": "Space"
+            "region": "Space",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
-            "name": "Space 5 - Secret Melon #2 On Final Asteroid Before Goak",
+            "name": "Space 5 - Secret Melon #2 On Final Asteroid Before Goal Post",
             "category": ["Space", "Secret Melons"],
-            "region": "Space"
+            "region": "Space",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Space 5 - Level Complete",
@@ -737,12 +747,14 @@
         {
             "name": "Toxic 4 - Golden Melon #1 On Side Rail",
             "category": ["Toxic", "Golden Melons"],
-            "region": "Toxic"
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Toxic 4 - Golden Melon #2 On Side Rail",
             "category": ["Toxic", "Golden Melons"],
-            "region": "Toxic"
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Toxic 4 - Level Complete",
@@ -752,12 +764,242 @@
         {
             "name": "Toxic 5 - Golden Melon #1 On Pipe Behind Ship",
             "category": ["Toxic", "Golden Melons"],
-            "region": "Toxic"
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
         },
         {
             "name": "Toxic 5 - Golden Melon #2 Near Rocks After 3rd Tunnel",
             "category": ["Toxic", "Golden Melons"],
-            "region": "Toxic"
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+        },
+        {
+            "name": "Toxic 5 - Golden Melon On Middle Pipe",
+            "category": ["Toxic", "Golden Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #1 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #2 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #3 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #4 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #5 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #6 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #7 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #8 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #9 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #10 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #11 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #12 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #13 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #14 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #15 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #16 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #17 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #18 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #19 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #20 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #21 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #22 On Inner Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #23 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #24 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #25 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #26 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #27 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #28 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #29 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #30 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #31 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #32 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #33 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #34 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #35 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #36 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Toxic 5 - Secret Melon #37 On Outer Edge Of Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic",
+            "requires": "({YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Level Complete",
@@ -1187,7 +1429,140 @@
         {
             "name": "Desert 5 - Float Around The Back Shortcut",
             "category": ["Desert", "Shortcuts"],
-            "region": "Desert"
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+        },
+        {
+            "name": "Desert 5 - Golden Melon #1 On Left Corner Float",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Golden Melon #2 On Right Corner Float",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Golden Melon #3 Above Pyramid Entrance",
+            "category": ["Desert", "Golden Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #1 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #2 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #3 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #4 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #5 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #6 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #7 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #8 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #9 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #10 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #11 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #12 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #13 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #14 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #15 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #16 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #17 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #18 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
+        },
+        {
+            "name": "Desert 5 - Secret Melon #19 Along Fence",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert",
+            "requires": "({YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Level Complete",
@@ -1314,17 +1689,17 @@
             "region": "Castle"
         },
         {
-            "name": "Castle 2 - Secret Melon #1 On Bridge Between Trees",
+            "name": "Castle 2 - Secret Melon #1 Next To Rocks",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
         {
-            "name": "Castle 2 - Secret Melon #2 On Bridge Between Trees",
+            "name": "Castle 2 - Secret Melon #2 Next To Rocks",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
         {
-            "name": "Castle 2 - Secret Melon #3 On Bridge Between Trees",
+            "name": "Castle 2 - Secret Melon #3 Next To Rocks",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
@@ -1340,6 +1715,21 @@
         },
         {
             "name": "Castle 2 - Secret Melon #6 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #7 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #8 On Bridge Between Trees",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 2 - Secret Melon #9 On Bridge Between Trees",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
@@ -1371,6 +1761,11 @@
         {
             "name": "Castle 3 - Golden Melon #2 On Bridge",
             "category": ["Castle", "Golden Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 3 - Secret Melon Behind Spawn",
+            "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
         {
@@ -1466,12 +1861,22 @@
             "region": "Castle"
         },
         {
-            "name": "Castle 6 - Secret Melon #3 In Left Corner Of Maze",
+            "name": "Castle 6 - Secret Melon #3 In Front Left Corner Of Maze",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
         {
-            "name": "Castle 6 - Secret Melon #4 In Right Corner Of Maze",
+            "name": "Castle 6 - Secret Melon #4 In Front Right Corner Of Maze",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Secret Melon #5 In Back Left Corner Of Maze",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 6 - Secret Melon #6 In Back Right Corner Of Maze",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
@@ -1521,7 +1926,12 @@
             "region": "Winter"
         },
         {
-            "name": "Winter 2 - Secret Melon On Ice Block",
+            "name": "Winter 2 - Secret Melon #2 On Ice Block",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 2 - Secret Melon #2 On Secret Ice Block Off To Right Of Path",
             "category": ["Winter", "Secret Melons"],
             "region": "Winter"
         },
@@ -1588,6 +1998,16 @@
         {
             "name": "Winter 5 - Golden Melon In Middle Of Half-Pipe",
             "category": ["Winter", "Golden Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 5 - Secret Melon #1 On Corner Of Ice Platform Before Goal Post",
+            "category": ["Winter", "Secret Melons"],
+            "region": "Winter"
+        },
+        {
+            "name": "Winter 5 - Secret Melon #2 On Corner Of Ice Platform Before Goal Post",
+            "category": ["Winter", "Secret Melons"],
             "region": "Winter"
         },
         {
@@ -1996,7 +2416,12 @@
             "region": "Swamp"
         },
         {
-            "name": "Swamp 5 - Secret Melon #1 On Wooden Platform",
+            "name": "Swamp 5 - Secret Melon #1 On Lily Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 5 - Secret Melon #2 On Wooden Platform",
             "category": ["Swamp", "Secret Melons"],
             "region": "Swamp"
         },
@@ -2047,7 +2472,7 @@
             "region": "Swamp"
         },
         {
-            "name": "Swamp 6 - Secret Melon #5 On Balcony Outside Final Bounce Pad",
+            "name": "Swamp 6 - Secret Melon #5 On Other Side Of Balcony Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
             "region": "Swamp"
         },
@@ -2057,7 +2482,7 @@
             "region": "Swamp"
         },
         {
-            "name": "Swamp 6 - Secret Melon #7 On Bridge Outside Final Bounce Pad",
+            "name": "Swamp 6 - Secret Melon #7 On Balcony Outside Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
             "region": "Swamp"
         },
@@ -2072,7 +2497,27 @@
             "region": "Swamp"
         },
         {
-            "name": "Swamp 6 - Secret Melon #10 On Balcony Across From Final Bounce Pad",
+            "name": "Swamp 6 - Secret Melon #10 On Bridge Outside Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #11 On Balcony Across From Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #12 On Other Side Of Balcony Across From Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #13 On Lower Part Of Balcony Across From Final Bounce Pad",
+            "category": ["Swamp", "Secret Melons"],
+            "region": "Swamp"
+        },
+        {
+            "name": "Swamp 6 - Secret Melon #14 On Edge Of Balcony Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
             "region": "Swamp"
         },
@@ -2126,6 +2571,21 @@
         {
             "name": "PC 1 - Golden Melon #2 To Right Of First Fan",
             "category": ["PC", "Golden Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 1 - Secret Melon #1 Behind Spawn",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 1 - Secret Melon #2 Behind Spawn",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 1 - Secret Melon #3 Behind Spawn",
+            "category": ["PC", "Secret Melons"],
             "region": "PC"
         },
         {
@@ -2204,6 +2664,41 @@
             "region": "PC"
         },
         {
+            "name": "PC 4 - Secret Melon #1 Around Turn Before Goal Post",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Secret Melon #2 Around Turn Before Goal Post",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Secret Melon #3 Around Turn Before Goal Post",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Secret Melon #4 Around Turn Before Goal Post",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Secret Melon #5 Around Turn Before Goal Post",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Secret Melon #6 Around Turn Before Goal Post",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 4 - Secret Melon #7 Around Turn Before Goal Post",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
             "name": "PC 4 - Level Complete",
             "category": ["PC"],
             "region": "PC"
@@ -2224,7 +2719,7 @@
             "region": "PC"
         },
         {
-            "name": "PC 5 - Secret Melon #4 On Processor Chip After Second Set Of Wires",
+            "name": "PC 5 - Secret Melon #4 Behind Big Wire After First Set Of Wires",
             "category": ["PC", "Secret Melons"],
             "region": "PC"
         },
@@ -2239,7 +2734,7 @@
             "region": "PC"
         },
         {
-            "name": "PC 5 - Secret Melon #7 In Between Two RAM Sticks",
+            "name": "PC 5 - Secret Melon #7 On Processor Chip After Second Set Of Wires",
             "category": ["PC", "Secret Melons"],
             "region": "PC"
         },
@@ -2250,6 +2745,11 @@
         },
         {
             "name": "PC 5 - Secret Melon #9 In Between Two RAM Sticks",
+            "category": ["PC", "Secret Melons"],
+            "region": "PC"
+        },
+        {
+            "name": "PC 5 - Secret Melon #10 In Between Two RAM Sticks",
             "category": ["PC", "Secret Melons"],
             "region": "PC"
         },
@@ -2389,6 +2889,36 @@
             "region": "Retro"
         },
         {
+            "name": "Retro 1 - Secret Melon #6 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #7 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #8 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #9 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #10 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 1 - Secret Melon #11 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
             "name": "Retro 1 - Golden Melon #1 Above Pipe",
             "category": ["Retro", "Golden Melons"],
             "region": "Retro"
@@ -2419,62 +2949,77 @@
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #1 On High Magenta Platform",
+            "name": "Retro 2 - Secret Melon #1 On Red I Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #2 On Low Magenta Platform",
+            "name": "Retro 2 - Secret Melon #2 On Magenta O Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #3 On Yellow Back Platform",
+            "name": "Retro 2 - Secret Melon #3 On Yellow O Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #4 On High Blue Platform",
+            "name": "Retro 2 - Secret Melon #4 On Orange L Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #5 On Red Platform",
+            "name": "Retro 2 - Secret Melon #5 On Blue I Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #6 On Low Orange Platform",
+            "name": "Retro 2 - Secret Melon #6 On Floating Blue L Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #7 On Low Blue Platform",
+            "name": "Retro 2 - Secret Melon #7 On Blue L Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #8 On Green Platform",
+            "name": "Retro 2 - Secret Melon #8 On Green O Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #9 On High Orange Platform",
+            "name": "Retro 2 - Secret Melon #9 On Yellow O Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #10 On Yellow Side Platform",
+            "name": "Retro 2 - Secret Melon #9 On Red S / Orange L Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #11 On Top Of Blue Tower",
+            "name": "Retro 2 - Secret Melon #10 On Other Blue I Platform",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Secret Melon #12 On Top Of Orange Tower",
+            "name": "Retro 2 - Secret Melon #11 On Magenta T Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #12 On Other Orange L Platform",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #13 On Top Of Blue Tower",
+            "category": ["Retro", "Secret Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Secret Melon #14 On Top Of Orange Tower",
             "category": ["Retro", "Secret Melons"],
             "region": "Retro"
         },
@@ -2484,7 +3029,12 @@
             "region": "Retro"
         },
         {
-            "name": "Retro 2 - Golden Melon #2 On Orange Platform",
+            "name": "Retro 2 - Golden Melon #2 Behind Red S Platform Near Goal",
+            "category": ["Retro", "Golden Melons"],
+            "region": "Retro"
+        },
+        {
+            "name": "Retro 2 - Golden Melon #3 On Orange Platform",
             "category": ["Retro", "Golden Melons"],
             "region": "Retro"
         },
@@ -4654,19 +5204,19 @@
             "requires": "|Progressive Spring King (Reverse):3|"
         },
         {
-            "name": "Castle 2R - Secret Melon #1 On Bridge Between Trees",
+            "name": "Castle 2R - Secret Melon #1 Next To Rocks",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
         },
         {
-            "name": "Castle 2R - Secret Melon #2 On Bridge Between Trees",
+            "name": "Castle 2R - Secret Melon #2 Next To Rocks",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
         },
         {
-            "name": "Castle 2R - Secret Melon #3 On Bridge Between Trees",
+            "name": "Castle 2R - Secret Melon #3 Next To Rocks",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
@@ -4685,6 +5235,24 @@
         },
         {
             "name": "Castle 2R - Secret Melon #6 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):3|"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #7 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):3|"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #8 On Bridge Between Trees",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):3|"
+        },
+        {
+            "name": "Castle 2R - Secret Melon #9 On Bridge Between Trees",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
@@ -4722,6 +5290,12 @@
         {
             "name": "Castle 3R - Golden Melon #2 On Bridge",
             "category": ["Castle (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Castle (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):3|"
+        },
+        {
+            "name": "Castle 3R - Secret Melon Behind Spawn",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
         },
@@ -4828,13 +5402,25 @@
             "requires": "|Progressive Spring King (Reverse):3|"
         },
         {
-            "name": "Castle 6R - Secret Melon #3 In Left Corner Of Maze",
+            "name": "Castle 6R - Secret Melon #3 In Front Left Corner Of Maze",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
         },
         {
-            "name": "Castle 6R - Secret Melon #4 In Right Corner Of Maze",
+            "name": "Castle 6R - Secret Melon #4 In Front Right Corner Of Maze",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):3|"
+        },
+        {
+            "name": "Castle 6R - Secret Melon #5 In Left Corner Of Maze",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):3|"
+        },
+        {
+            "name": "Castle 6R - Secret Melon #6 In Right Corner Of Maze",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
@@ -4888,7 +5474,13 @@
             "requires": "|Progressive Spring King (Reverse):2|"
         },
         {
-            "name": "Winter 2R - Secret Melon On Ice Block",
+            "name": "Winter 2R - Secret Melon #1 On Ice Block",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):2|"
+        },
+        {
+            "name": "Winter 2R - Secret Melon #2 On Secret Ice Block Off To Right Of Path",
             "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Winter (Reverse)",
             "requires": "|Progressive Spring King (Reverse):2|"
@@ -4972,6 +5564,18 @@
             "requires": "|Progressive Spring King (Reverse):2|"
         },
         {
+            "name": "Winter 5R - Secret Melon #1 On Corner Of Ice Platform Before Goal Post",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):2|"
+        },
+        {
+            "name": "Winter 5R - Secret Melon #2 On Corner Of Ice Platform Before Goal Post",
+            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Winter (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):2|"
+        },
+        {
             "name": "Winter 5R - Level Complete",
             "category": ["Winter (Reverse)", "Reverse Levels"],
             "region": "Winter (Reverse)",
@@ -5020,13 +5624,7 @@
             "requires": "|Progressive Spring King (Reverse):2|"
         },
         {
-            "name": "Winter 6R - Secret Melon #8 On Top Of Half-Pipe",
-            "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
-            "region": "Winter (Reverse)",
-            "requires": "|Progressive Spring King (Reverse):2|"
-        },
-        {
-            "name": "Winter 6R - Secret Melon #9 On High Platform",
+            "name": "Winter 6R - Secret Melon #8 On High Platform",
             "category": ["Winter (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Winter (Reverse)",
             "requires": "|Progressive Spring King (Reverse):2|"
@@ -5434,7 +6032,13 @@
             "requires": "|Progressive Spring King (Reverse)|"
         },
         {
-            "name": "Swamp 5R - Secret Melon #1 On Wooden Platform",
+            "name": "Swamp 5R - Secret Melon #1 On Lily Pad",
+            "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Swamp (Reverse)",
+            "requires": "|Progressive Spring King (Reverse)|"
+        },
+        {
+            "name": "Swamp 5R - Secret Melon #2 On Wooden Platform",
             "category": ["Swamp (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Swamp (Reverse)",
             "requires": "|Progressive Spring King (Reverse)|"
@@ -5493,6 +6097,24 @@
         {
             "name": "PC 1R - Golden Melon #2 To Right Of First Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 1R - Secret Melon #1 Behind Spawn",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 1R - Secret Melon #2 Behind Spawn",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 1R - Secret Melon #3 Behind Spawn",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
             "requires": "|Progressive Digital Dilemma (Reverse):3|"
         },
@@ -5587,6 +6209,48 @@
             "requires": "|Progressive Digital Dilemma (Reverse):3|"
         },
         {
+            "name": "PC 4R - Secret Melon #1 Around Turn Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 4R - Secret Melon #2 Around Turn Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 4R - Secret Melon #3 Around Turn Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 4R - Secret Melon #4 Around Turn Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 4R - Secret Melon #5 Around Turn Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 4R - Secret Melon #6 Around Turn Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 4R - Secret Melon #7 Around Turn Before Goal Post",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
             "name": "PC 4R - Level Complete",
             "category": ["PC (Reverse)", "Reverse Levels"],
             "region": "PC (Reverse)",
@@ -5611,7 +6275,7 @@
             "requires": "|Progressive Digital Dilemma (Reverse):3|"
         },
         {
-            "name": "PC 5R - Secret Melon #4 On Processor Chip After Second Set Of Wires",
+            "name": "PC 5 - Secret Melon #4 Behind Big Wire After First Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
             "requires": "|Progressive Digital Dilemma (Reverse):3|"
@@ -5629,7 +6293,7 @@
             "requires": "|Progressive Digital Dilemma (Reverse):3|"
         },
         {
-            "name": "PC 5R - Secret Melon #7 In Between Two RAM Sticks",
+            "name": "PC 5R - Secret Melon #7 On Processor Chip After Second Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
             "requires": "|Progressive Digital Dilemma (Reverse):3|"
@@ -5642,6 +6306,12 @@
         },
         {
             "name": "PC 5R - Secret Melon #9 In Between Two RAM Sticks",
+            "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "PC (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+        },
+        {
+            "name": "PC 5R - Secret Melon #10 In Between Two RAM Sticks",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
             "requires": "|Progressive Digital Dilemma (Reverse):3|"
@@ -5804,6 +6474,42 @@
         },
         {
             "name": "Retro 1R - Secret Melon #5 In Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #6 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #7 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #8 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #9 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #10 On Edge Of Platform Left Of Shortcut Pipe",
+            "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Retro (Reverse)",
+            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+        },
+        {
+            "name": "Retro 1R - Secret Melon #11 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
             "requires": "|Progressive Digital Dilemma (Reverse):2|"
@@ -6599,6 +7305,195 @@
             "category": ["Completions", "Reverse Levels"],
             "region": "PC (Reverse)",
             "requires": "|Progressive Digital Dilemma (Reverse):3|",
+            "place_item": [
+                "Level Pack Completion"
+            ]
+        },
+        {
+            "name": "Community Level 1 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels|"
+        },
+        {
+            "name": "Community Level 2 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels|"
+        },
+        {
+            "name": "Community Level 3 - Golden Melon Around Turn",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels|"
+        },
+        {
+            "name": "Community Level 3 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels|"
+        },
+        {
+            "name": "Community Level 4 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels|"
+        },
+        {
+            "name": "Community Level 5 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels|"
+        },
+        {
+            "name": "Community Level 6 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels|"
+        },
+        {
+            "name": "Community Level 7 - Golden Melon Off To Left",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 7 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 8 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 9 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 10 - Golden Melon #1 Over Ramp",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 10 - Golden Melon #2 Behind Spike",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 10 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 11 - Golden Melon #1 Over Ramp",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 11 - Golden Melon #2 Before Drop",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 11 - Golden Melon #3 In Loop-De-Loop",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 11 - Broken Rails Shortcut",
+            "category": ["Community Levels", "Shortcuts"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 11 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 12 - Golden Melon #1 On Third Layer First Hole",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 12 - Golden Melon #2 On Third Layer Second Hole",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 12 - Golden Melon #3 On Third Layer Third Hole",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 12 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:2|"
+        },
+        {
+            "name": "Community Level 13 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
+        },
+        {
+            "name": "Community Level 14 - Golden Melon On Thin Platform",
+            "category": ["Community Levels", "Golden Melons"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
+        },
+        {
+            "name": "Community Level 14 - Low Platforms Shortcut",
+            "category": ["Community Levels", "Shortcuts"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
+        },
+        {
+            "name": "Community Level 14 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
+        },
+        {
+            "name": "Community Level 15 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
+        },
+        {
+            "name": "Community Level 16 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
+        },
+        {
+            "name": "Community Level 17 - Level Complete",
+            "category": ["Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
+        },
+        {
+            "name": "Community Levels - Pack Complete",
+            "category": ["Completions", "Community Levels"],
+            "region": "Community Levels",
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|",
             "place_item": [
                 "Level Pack Completion"
             ]

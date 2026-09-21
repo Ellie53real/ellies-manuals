@@ -1,7 +1,7 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
     "Pack Select":{
-        "connects_to": ["Island", "Night", "Castle", "PC", "Glitch (Reverse)", "Swamp (Reverse)", "Desert (Reverse)", "Space (Reverse)"],
+        "connects_to": ["Island", "Night", "Castle", "PC", "Glitch (Reverse)", "Swamp (Reverse)", "Desert (Reverse)", "Space (Reverse)", "Community Levels"],
         "starting": true
     },
     "Island":{
@@ -86,5 +86,7 @@
         "connects_to": ["Island (Reverse)"]
     },
     "Island (Reverse)":{
+    },
+    "Community Levels":{
     }
 }

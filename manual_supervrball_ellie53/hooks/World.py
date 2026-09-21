@@ -85,6 +85,9 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     item_config["Level Pack Completion"] = 8 if world.options.include_reverse_levels else 4
     item_config["Auto Brake"] = 0 if world.options.game_version == community_levels else 1
+    item_config["Progressive Spring King"] = 0 if world.options.game_version == community_levels else 3
+    item_config["Progressive Digital Dilemma"] = 3 if world.options.game_version == standard else 0
+    item_config["Progressive Community Levels"] = 3 if world.options.game_version == community_levels else 0
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
