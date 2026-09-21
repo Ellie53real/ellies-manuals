@@ -27,9 +27,33 @@
             "type": "Toggle",
             "default": true
         },
+        "game_version":{
+            "type": "Choice",
+            "description": [
+                "What version of Super VR Ball you intend to run.",
+                "Standard: The current, up-to-date version of SVRB, with all 4 main level packs intact.",
+                "2023 Legacy: SVRB as it was before the Digital Dilemma update, accessible here: https://vrchat.com/home/world/wrld_1b2208e3-073f-423e-b073-83498f8fb188",
+                "Community Levels: A version pre-Reverse Update with a handful of community levels replacing original ones, accessible here: https://vrchat.com/home/world/wrld_3bdf4d00-7335-4667-8707-6da920250c7d"
+            ],
+            "values": {
+                "standard":0,
+                "2023_legacy":1,
+                "community_levels":2
+             },
+            "aliases": {
+                "Standard":0,
+                "2023 Legacy":1,
+                "Community Levels":2
+             },
+            "display_name": "Game Version",
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Game Options"
+        },
         "include_reverse_levels":{
             "description": [
                 "Whether or not to include checks for the Reversed versions of each level.",
+                "Will do nothing if Game Version is set to Community Levels.",
                 "NOTE: Golden Melon and Secret Melon checks in Reverse levels are named identically to their Forward counterparts.",
                 "Any Impossible Golden / Secret Melons, and Shortcuts that do not work, in the Reverse version of a level are removed from that Reverse level's locations."
             ],
