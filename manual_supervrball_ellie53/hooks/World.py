@@ -45,6 +45,16 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     if world.options.include_reverse_levels == False:
         if world.options.pack_requirement >= 4:
             world.options.pack_requirement.value = 4
+    if world.options.game_version == 1:
+        if world.options.include_reverse_levels == False:
+            if world.options.pack_requirement >= 3:
+                world.options.pack_requirement.value = 3
+        else:
+            if world.options.pack_requirement >= 6:
+                world.options.pack_requirement.value = 6
+    if world.options.game_version == 2:
+        if world.options.pack_requirement >= 2:
+            world.options.pack_requirement.value = 2
     pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
