@@ -955,6 +955,12 @@
             "region": "Desert"
         },
         {
+            "name": "Desert 6 - Mega Melon",
+            "category": ["Desert", "Mega Melons"],
+            "region": "Desert",
+            "requires": "{YamlCompare(game_version = community_levels)}"
+        },
+        {
             "name": "Desert 6 - Level Complete",
             "category": ["Desert"],
             "region": "Desert"
