@@ -1125,7 +1125,12 @@
             "region": "Castle"
         },
         {
-            "name": "Castle 5 - Secret Melon To Right Of Barrel",
+            "name": "Castle 5 - Secret Melon #1 To Right Of Barrel",
+            "category": ["Castle", "Secret Melons"],
+            "region": "Castle"
+        },
+        {
+            "name": "Castle 5 - Secret Melon #2 Above Wall Ramp",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle"
         },
@@ -4091,7 +4096,13 @@
             "requires": "|Progressive Spring King (Reverse):3|"
         },
         {
-            "name": "Castle 5R - Secret Melon To Right Of Barrel",
+            "name": "Castle 5R - Secret Melon #1 To Right Of Barrel",
+            "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Castle (Reverse)",
+            "requires": "|Progressive Spring King (Reverse):3|"
+        },
+        {
+            "name": "Castle 5R - Secret Melon #2 Above Wall Ramp",
             "category": ["Castle (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Castle (Reverse)",
             "requires": "|Progressive Spring King (Reverse):3|"
