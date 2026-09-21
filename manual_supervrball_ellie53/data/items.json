@@ -4,9 +4,30 @@
         {
             "name": "Jump",
             "category": [
-                "Abilities"
+                "Movement"
             ],
             "progression": true
+        },
+        {
+            "name": "Sideways Movement",
+            "category": [
+                "Movement"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Backwards Movement",
+            "category": [
+                "Movement"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Auto Brake",
+            "category": [
+                "Movement"
+            ],
+            "useful": true
         },
         {
             "name": "Progressive Kula Cruise",
