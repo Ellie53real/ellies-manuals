@@ -142,6 +142,16 @@
             "region": "Space"
         },
         {
+            "name": "Space 5 - Secret Melon #1 Below Middle Asteroid Rings",
+            "category": ["Space", "Secret Melons"],
+            "region": "Space"
+        },
+        {
+            "name": "Space 5 - Secret Melon #2 On Final Asteroid Before Goak",
+            "category": ["Space", "Secret Melons"],
+            "region": "Space"
+        },
+        {
             "name": "Space 5 - Level Complete",
             "category": ["Space"],
             "region": "Space"
@@ -170,6 +180,16 @@
             "region": "Night"
         },
         {
+            "name": "Night 1 - Secret Melon #1 Left Behind Spawn",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 1 - Secret Melon #2 Right Behind Spawn",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
             "name": "Night 1 - Level Complete",
             "category": ["Night"],
             "region": "Night"
@@ -180,23 +200,48 @@
             "region": "Night"
         },
         {
-            "name": "Night 2 - Secret Melon #1 Behind Tree",
+            "name": "Night 2 - Secret Melon #1 After First Bridge",
             "category": ["Night", "Secret Melons"],
             "region": "Night"
         },
         {
-            "name": "Night 2 - Secret Melon #2 Behind Tree",
+            "name": "Night 2 - Secret Melon #2 After First Bridge",
             "category": ["Night", "Secret Melons"],
             "region": "Night"
         },
         {
-            "name": "Night 2 - Secret Melon #3 Behind Tree",
+            "name": "Night 2 - Secret Melon #3 On Top Of Rock",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Secret Melon #4 Behind Tree",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Secret Melon #5 Behind Tree",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 2 - Secret Melon #6 Behind Tree",
             "category": ["Night", "Secret Melons"],
             "region": "Night"
         },
         {
             "name": "Night 2 - Level Complete",
             "category": ["Night"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 3 - Secret Melon #1 In-Between Rocks",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 3 - Secret Melon #2 In-Between Rocks",
+            "category": ["Night", "Secret Melons"],
             "region": "Night"
         },
         {
@@ -425,17 +470,27 @@
             "region": "Night"
         },
         {
-            "name": "Night 6 - Secret Melon #15 Past Rock Near Goal Post",
+            "name": "Night 6 - Secret Melon #15 On Left Outstretched Bridge Before Goal Post",
             "category": ["Night", "Secret Melons"],
             "region": "Night"
         },
         {
-            "name": "Night 6 - Secret Melon #16 Past Rock Near Goal Post",
+            "name": "Night 6 - Secret Melon #16 On Right Outstretched Bridge Before Goal Post",
             "category": ["Night", "Secret Melons"],
             "region": "Night"
         },
         {
             "name": "Night 6 - Secret Melon #17 Past Rock Near Goal Post",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #18 Past Rock Near Goal Post",
+            "category": ["Night", "Secret Melons"],
+            "region": "Night"
+        },
+        {
+            "name": "Night 6 - Secret Melon #19 Past Rock Near Goal Post",
             "category": ["Night", "Secret Melons"],
             "region": "Night"
         },
@@ -730,6 +785,91 @@
             "region": "Toxic"
         },
         {
+            "name": "Toxic 6 - Secret Melon #1 Off Side Of Starting Pipes",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #2 On Left Edge Of Platform Bump",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #3 On Right Edge Of Platform Bump",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #4 On Extended Platform Bar Before Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #5 On Extended Platform Bar Before Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #6 On Extended Platform Bar Before Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #7 On Extended Platform Bar Before Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #8 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #9 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #10 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #11 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #12 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #13 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #14 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #15 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #16 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
+            "name": "Toxic 6 - Secret Melon #17 On Wall Behind Float",
+            "category": ["Toxic", "Secret Melons"],
+            "region": "Toxic"
+        },
+        {
             "name": "Toxic 6 - Level Complete",
             "category": ["Toxic"],
             "region": "Toxic"
@@ -742,6 +882,56 @@
         {
             "name": "Desert 2 - Golden Melon By Ramps",
             "category": ["Desert", "Golden Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #1 On Boxes At Start",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #2 On Boxes At Start",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #3 On Boxes At Start",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #4 On Boxes At Start",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #5 Behind Boxes Near Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #6 Behind Boxes Near Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #7 Behind Boxes Near Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #8 Behind Boxes Near Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #9 Behind Boxes Near Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 2 - Secret Melon #10 Behind Boxes Near Goal",
+            "category": ["Desert", "Secret Melons"],
             "region": "Desert"
         },
         {
@@ -825,6 +1015,56 @@
             "region": "Desert"
         },
         {
+            "name": "Desert 3 - Secret Melon #16 In-Between 4 Golden Melons",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #17 In-Between 4 Golden Melons",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #18 In-Between 4 Golden Melons",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #19 In-Between 4 Golden Melons",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #20 In-Between 4 Golden Melons",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #21 Off To Side Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #22 Off To Side Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #23 Off To Side Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #24 Off To Side Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 3 - Secret Melon #25 Off To Side Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
             "name": "Desert 3 - Golden Melon #1 On High Platform In Starting Area",
             "category": ["Desert", "Golden Melons"],
             "region": "Desert"
@@ -855,22 +1095,82 @@
             "region": "Desert"
         },
         {
-            "name": "Desert 4 - Secret Melon #1 On Disconnected Pathway",
+            "name": "Desert 4 - Secret Melon #1 On Wall Behind Spawn",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert"
         },
         {
-            "name": "Desert 4 - Secret Melon #2 On Disconnected Pathway",
+            "name": "Desert 4 - Secret Melon #2 On Wall Behind Spawn",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert"
         },
         {
-            "name": "Desert 4 - Secret Melon #3 On Disconnected Pathway",
+            "name": "Desert 4 - Secret Melon #3 On Wall Behind Spawn",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert"
         },
         {
-            "name": "Desert 4 - Secret Melon #4 On Disconnected Pathway",
+            "name": "Desert 4 - Secret Melon #4 On Wall Behind Spawn",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #5 Behind Cacti",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #6 On Box",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #7 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #8 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #9 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #10 On Disconnected Pathway",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #11 Left Of Boxes Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #12 Left Of Boxes Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #13 Left Of Boxes Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #14 Left Of Boxes Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #15 Left Of Boxes Before Goal",
+            "category": ["Desert", "Secret Melons"],
+            "region": "Desert"
+        },
+        {
+            "name": "Desert 4 - Secret Melon #16 Left Of Boxes Before Goal",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert"
         },
@@ -955,7 +1255,7 @@
             "region": "Desert"
         },
         {
-            "name": "Desert 6 - Mega Melon",
+            "name": "Desert 6 - Mega Melon Behind Pyramid",
             "category": ["Desert", "Mega Melons"],
             "region": "Desert",
             "requires": "{YamlCompare(game_version = community_levels)}"
@@ -1779,22 +2079,26 @@
         {
             "name": "Swamp 6 - Mega Melon #1 Before First Bounce Pad",
             "category": ["Swamp", "Mega Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "{YamlCompare(game_version = 2023_legacy)}"
         },
         {
             "name": "Swamp 6 - Mega Melon #2 On First Stump After Third Bounce Pad",
             "category": ["Swamp", "Mega Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "{YamlCompare(game_version = 2023_legacy)}"
         },
         {
             "name": "Swamp 6 - Mega Melon #3 On Second Stump Before Final Bounce Pad",
             "category": ["Swamp", "Mega Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "{YamlCompare(game_version = 2023_legacy)}"
         },
         {
             "name": "Swamp 6 - Mega Melon #4 Below Golden Melon",
             "category": ["Swamp", "Mega Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "{YamlCompare(game_version = 2023_legacy)}"
         },
         {
             "name": "Swamp 6 - Golden Melon On Bridge",
@@ -2952,6 +3256,18 @@
             "requires": "|Progressive Kula Cruise (Reverse)|"
         },
         {
+            "name": "Space 5R - Secret Melon #1 Below Middle Asteroid Rings",
+            "category": ["Space (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Space (Reverse)",
+            "requires": "|Progressive Kula Cruise (Reverse)|"
+        },
+        {
+            "name": "Space 5R - Secret Melon #2 On Final Asteroid Before Goak",
+            "category": ["Space (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Space (Reverse)",
+            "requires": "|Progressive Kula Cruise (Reverse)|"
+        },
+        {
             "name": "Space 5R - Level Complete",
             "category": ["Space (Reverse)", "Reverse Levels"],
             "region": "Space (Reverse)",
@@ -2985,6 +3301,18 @@
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
+            "name": "Night 1R - Secret Melon #1 Left Behind Spawn",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 1R - Secret Melon #2 Right Behind Spawn",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
             "name": "Night 1R - Level Complete",
             "category": ["Night (Reverse)", "Reverse Levels"],
             "region": "Night (Reverse)",
@@ -2997,19 +3325,37 @@
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
-            "name": "Night 2R - Secret Melon #1 Behind Tree",
+            "name": "Night 2R - Secret Melon #1 After First Bridge",
             "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Night (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
-            "name": "Night 2R - Secret Melon #2 Behind Tree",
+            "name": "Night 2R - Secret Melon #2 After First Bridge",
             "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Night (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
-            "name": "Night 2R - Secret Melon #3 Behind Tree",
+            "name": "Night 2R - Secret Melon #3 On Top Of Rock",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 2R - Secret Melon #4 Behind Tree",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 2R - Secret Melon #5 Behind Tree",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 2R - Secret Melon #6 Behind Tree",
             "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Night (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse):3|"
@@ -3035,6 +3381,18 @@
         {
             "name": "Night 3R - Golden Melon #3 Before Goal Post",
             "category": ["Night (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 3R - Secret Melon #1 In-Between Rocks",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 3R - Secret Melon #2 In-Between Rocks",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Night (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
@@ -3291,19 +3649,31 @@
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
-            "name": "Night 6R - Secret Melon #15 Past Rock Near Goal Post",
+            "name": "Night 6R - Secret Melon #15 On Left Outstretched Bridge Before Goal Post",
             "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Night (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
-            "name": "Night 6R - Secret Melon #16 Past Rock Near Goal Post",
+            "name": "Night 6R - Secret Melon #16 On Right Outstretched Bridge Before Goal Post",
             "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Night (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
             "name": "Night 6R - Secret Melon #17 Past Rock Near Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 6R - Secret Melon #18 Past Rock Near Goal Post",
+            "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Night (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
+        },
+        {
+            "name": "Night 6R - Secret Melon #19 Past Rock Near Goal Post",
             "category": ["Night (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Night (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse):3|"
@@ -3657,6 +4027,108 @@
             "requires": "|Progressive Twilight Tour (Reverse):2|"
         },
         {
+            "name": "Toxic 6R - Secret Melon #1 Off Side Of Starting Pipes",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #2 On Left Edge Of Platform Bump",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #3 On Right Edge Of Platform Bump",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #4 On Extended Platform Bar Before Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #5 On Extended Platform Bar Before Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #6 On Extended Platform Bar Before Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #7 On Extended Platform Bar Before Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #8 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #9 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #10 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #11 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #12 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #13 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #14 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #15 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #16 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
+            "name": "Toxic 6R - Secret Melon #17 On Wall Behind Float",
+            "category": ["Toxic (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Toxic (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse):2|"
+        },
+        {
             "name": "Toxic 6R - Level Complete",
             "category": ["Toxic (Reverse)", "Reverse Levels"],
             "region": "Toxic (Reverse)",
@@ -3671,6 +4143,66 @@
         {
             "name": "Desert 2R - Golden Melon By Ramps",
             "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #1 On Boxes At Start",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #2 On Boxes At Start",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #3 On Boxes At Start",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #4 On Boxes At Start",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #5 Behind Boxes Near Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #6 Behind Boxes Near Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #7 Behind Boxes Near Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #8 Behind Boxes Near Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #9 Behind Boxes Near Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 2R - Secret Melon #10 Behind Boxes Near Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Desert (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse)|"
         },
@@ -3771,6 +4303,66 @@
             "requires": "|Progressive Twilight Tour (Reverse)|"
         },
         {
+            "name": "Desert 3R - Secret Melon #16 In-Between 4 Golden Melons",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #17 In-Between 4 Golden Melons",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #18 In-Between 4 Golden Melons",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #19 In-Between 4 Golden Melons",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #20 In-Between 4 Golden Melons",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #21 Off To Side Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #22 Off To Side Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #23 Off To Side Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #24 Off To Side Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 3R - Secret Melon #25 Off To Side Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
             "name": "Desert 3R - Golden Melon #1 On High Platform In Starting Area",
             "category": ["Desert (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Desert (Reverse)",
@@ -3807,25 +4399,97 @@
             "requires": "|Progressive Twilight Tour (Reverse)|"
         },
         {
-            "name": "Desert 4R - Secret Melon #1 On Disconnected Pathway",
+            "name": "Desert 4R - Secret Melon #1 On Wall Behind Spawn",
             "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Desert (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse)|"
         },
         {
-            "name": "Desert 4R - Secret Melon #2 On Disconnected Pathway",
+            "name": "Desert 4R - Secret Melon #2 On Wall Behind Spawn",
             "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Desert (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse)|"
         },
         {
-            "name": "Desert 4R - Secret Melon #3 On Disconnected Pathway",
+            "name": "Desert 4R - Secret Melon #3 On Wall Behind Spawn",
             "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Desert (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse)|"
         },
         {
-            "name": "Desert 4R - Secret Melon #4 On Disconnected Pathway",
+            "name": "Desert 4R - Secret Melon #4 On Wall Behind Spawn",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #5 Behind Cacti",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #6 On Box",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #7 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #8 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #9 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #10 On Disconnected Pathway",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #11 Left Of Boxes Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #12 Left Of Boxes Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #13 Left Of Boxes Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #14 Left Of Boxes Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #15 Left Of Boxes Before Goal",
+            "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
+            "region": "Desert (Reverse)",
+            "requires": "|Progressive Twilight Tour (Reverse)|"
+        },
+        {
+            "name": "Desert 4R - Secret Melon #16 Left Of Boxes Before Goal",
             "category": ["Desert (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Desert (Reverse)",
             "requires": "|Progressive Twilight Tour (Reverse)|"
