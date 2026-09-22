@@ -42,9 +42,10 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
-    if world.options.include_reverse_levels == False:
-        if world.options.pack_requirement >= 4:
-            world.options.pack_requirement.value = 4
+    if world.options.game_version == 0:
+        if world.options.include_reverse_levels == False:
+            if world.options.pack_requirement >= 4:
+                world.options.pack_requirement.value = 4
     if world.options.game_version == 1:
         if world.options.include_reverse_levels == False:
             if world.options.pack_requirement >= 3:
