@@ -88,6 +88,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     if world.options.game_version == 0:
         item_config["Level Pack Completion"] = 8 if world.options.include_reverse_levels else 4
+        item_config["Progressive Digital Dilemma (Reverse)"] = 3 if world.options.include_reverse_levels else 0
     if world.options.game_version == 1:
         item_config["Level Pack Completion"] = 6 if world.options.include_reverse_levels else 3
     if world.options.game_version == 2:
