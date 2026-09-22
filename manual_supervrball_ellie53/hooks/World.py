@@ -53,8 +53,8 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
             if world.options.pack_requirement >= 6:
                 world.options.pack_requirement.value = 6
     if world.options.game_version == 2:
-        if world.options.pack_requirement >= 2:
-            world.options.pack_requirement.value = 2
+        if world.options.pack_requirement >= 3:
+            world.options.pack_requirement.value = 3
         if world.options.include_reverse_levels == True:
             world.options.include_reverse_levels.value = False
     pass
