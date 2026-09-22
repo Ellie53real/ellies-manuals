@@ -83,11 +83,22 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
-    item_config["Level Pack Completion"] = 8 if world.options.include_reverse_levels else 4
-    item_config["Auto Brake"] = 0 if world.options.game_version == community_levels else 1
-    item_config["Progressive Spring King"] = 0 if world.options.game_version == community_levels else 3
-    item_config["Progressive Digital Dilemma"] = 3 if world.options.game_version == standard else 0
-    item_config["Progressive Community Levels"] = 3 if world.options.game_version == community_levels else 0
+    if world.options.game_version == 0:
+        item_config["Level Pack Completion"] = 8 if world.options.include_reverse_levels else 4
+    if world.options.game_version == 1:
+        item_config["Level Pack Completion"] = 6 if world.options.include_reverse_levels else 3
+    if world.options.game_version == 2:
+        item_config["Level Pack Completion"] = 3
+    item_config["Auto Brake"] = 0 if world.options.game_version == 2 else 1
+    item_config["Progressive Spring King"] = 0 if world.options.game_version == 2 else 3
+    item_config["Wooden Planks"] = 0 if world.options.game_version == 2 else 50
+    item_config["Snowball"] = 0 if world.options.game_version == 2 else 50
+    item_config["Lily Pad"] = 0 if world.options.game_version == 2 else 50
+    item_config["Progressive Digital Dilemma"] = 3 if world.options.game_version == 0 else 0
+    item_config["RAM Stick"] = 50 if world.options.game_version == 0 else 0
+    item_config["Tetromino"] = 50 if world.options.game_version == 0 else 0
+    item_config["Corruption"] = 50 if world.options.game_version == 0 else 0
+    item_config["Progressive Community Levels"] = 3 if world.options.game_version == 2 else 0
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
