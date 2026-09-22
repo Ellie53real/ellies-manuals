@@ -6311,1219 +6311,1219 @@
             "name": "PC 1R - Golden Melon #1 To Left Of First Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 1R - Golden Melon #2 To Right Of First Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 1R - Secret Melon #1 Behind Spawn",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 1R - Secret Melon #2 Behind Spawn",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 1R - Secret Melon #3 Behind Spawn",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 1R - Level Complete",
             "category": ["PC (Reverse)", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 2R - Golden Melon #1 In Front Of Ship",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 2R - Golden Melon #2 Next To RAM Stick",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 2R - Golden Melon #3 On Penultimate Platform",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 2R - Golden Melon #4 On Cables",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 2R - Level Complete",
             "category": ["PC (Reverse)", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 3R - Golden Melon #1 On First Roundabout",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 3R - Golden Melon #2 On First Roundabout",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 3R - Golden Melon #3 On First Roundabout",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 3R - Golden Melon #4 On Second Roundabout",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 3R - Golden Melon #5 On Second Roundabout",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 3R - Golden Melon #6 On Second Roundabout",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 3R - Level Complete",
             "category": ["PC (Reverse)", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Golden Melon #1 Next To Processor Chip",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Golden Melon #2 Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Secret Melon #1 Around Turn Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Secret Melon #2 Around Turn Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Secret Melon #3 Around Turn Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Secret Melon #4 Around Turn Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Secret Melon #5 Around Turn Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Secret Melon #6 Around Turn Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Secret Melon #7 Around Turn Before Goal Post",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 4R - Level Complete",
             "category": ["PC (Reverse)", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #1 On Processor Chip After First Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #2 On Processor Chip After First Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #3 On Processor Chip After First Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #4 Behind Big Wire After First Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #5 On Processor Chip After Second Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #6 On Processor Chip After Second Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #7 On Processor Chip After Second Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #8 In Between Two RAM Sticks",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #9 In Between Two RAM Sticks",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Secret Melon #10 In Between Two RAM Sticks",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Golden Melon #1 On Green Wire",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Golden Melon #2 On Final Set Of Wires",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 5R - Level Complete",
             "category": ["PC (Reverse)", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #1 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #2 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #3 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #4 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #5 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #6 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #7 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #8 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #9 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #10 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #11 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #12 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #13 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #14 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #15 Behind RAM Stick After Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Secret Melon #16 In Corner Next To Processor Chip",
             "category": ["PC (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Golden Melon #1 In First Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Golden Melon #2 In Second Fan",
             "category": ["PC (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "PC 6R - Level Complete",
             "category": ["PC (Reverse)", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "Retro 1R - Secret Melon #1 In Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #2 In Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #3 In Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #4 In Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #5 In Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #6 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #7 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #8 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #9 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #10 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Secret Melon #11 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Golden Melon #1 Below Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Golden Melon #2 After Ramp",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Golden Melon #3 Next To Last Pipe",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 1R - Level Complete",
             "category": ["Retro (Reverse)", "Reverse Levels"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 2R - Secret Melon #1 On Yellow Side Platform",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 2R - Secret Melon #2 On Top Of Blue Tower",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 2R - Secret Melon #3 On Top Of Orange Tower",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 2R - Golden Melon #1 On Top Of Red Tower",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 2R - Golden Melon #2 On Orange Platform",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 2R - Level Complete",
             "category": ["Retro (Reverse)", "Reverse Levels"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 3R - Secret Melon #1 Left Of Spawn Block",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 3R - Secret Melon #2 Left Of Spawn Block",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 3R - Golden Melon #1 On Magenta Platform",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 3R - Golden Melon #2 On Magenta Platform",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 3R - Golden Melon #3 After Ramp",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 3R - Golden Melon #4 On Blue Platform",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 3R - Level Complete",
             "category": ["Retro (Reverse)", "Reverse Levels"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 4R - Golden Melon In Front Of Goal Post",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 4R - Level Complete",
             "category": ["Retro (Reverse)", "Reverse Levels"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #1 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #2 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #3 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #4 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #5 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #6 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #7 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #8 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #9 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Secret Melon #10 In Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Golden Melon #1 In Corner At Start",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Golden Melon #2 In Corner Before Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Golden Melon #3 In Corner After Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Golden Melon #4 In Corner On Top Platform",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Float Shortcut",
             "category": ["Retro (Reverse)", "Reverse Levels", "Shortcuts"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 5R - Level Complete",
             "category": ["Retro (Reverse)", "Reverse Levels"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #1 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #2 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #3 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #4 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #5 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #6 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #7 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #8 On South Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #9 On West Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #10 On West Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #11 On West Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #12 On West Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #13 On West Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #14 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #15 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #16 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #17 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #18 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #19 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #20 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Secret Melon #21 On North/East Outstretched Platforms",
             "category": ["Retro (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Golden Melon #1 In Intersection",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Golden Melon #2 Near Goal",
             "category": ["Retro (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Retro 6R - Level Complete",
             "category": ["Retro (Reverse)", "Reverse Levels"],
             "region": "Retro (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):2|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):2|"
         },
         {
             "name": "Glitch 1R - Secret Melon #1 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Secret Melon #2 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Secret Melon #3 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Secret Melon #4 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Secret Melon #5 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Secret Melon #6 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Secret Melon #7 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Secret Melon #8 On Left Of Path Split",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Golden Melon #1 Behind Rock",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Golden Melon #2 Behind Rock",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 1R - Level Complete",
             "category": ["Glitch (Reverse)", "Reverse Levels"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #1 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #2 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #3 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #4 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #5 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #6 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #7 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #8 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #9 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Secret Melon #10 Surrounded By Cards",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Golden Melon #1 On Left Side Of Top Platform",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Golden Melon #2 On Right Side Of Top Platform",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 2R - Level Complete",
             "category": ["Glitch (Reverse)", "Reverse Levels"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #1 On Wall Next To Golden Melon",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #2 On Wall Next To Golden Melon",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #3 On Wall Next To Golden Melon",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #4 On High Ledge",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #5 On High Ledge",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #6 On High Ledge",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #7 On High Ledge",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #8 On High Ledge",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Secret Melon #9 On High Ledge",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Golden Melon #1 On Platform Next To Ramp",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Golden Melon #2 Near Goal",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Golden Melon #3 Near Goal",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 3R - Level Complete",
             "category": ["Glitch (Reverse)", "Reverse Levels"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #1 Above First Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #2 Above First Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #3 Above First Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #4 Above First Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #5 Above First Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #6 Above First Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #7 Above Second Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #8 Above Second Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #9 Above Second Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #10 Above Second Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #11 Above Second Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Golden Melon #12 Above Second Bounce Pad",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 4R - Level Complete",
             "category": ["Glitch (Reverse)", "Reverse Levels"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #1 Near Ship",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #2 To Left Of Asteroid",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #3 Behind Parasol Asteroid",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #4 Out In The Open",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #5 Behind Left Asteroid",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #6 Behind Middle Asteroid",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #7 Next To Right Asteroid",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Golden Melon #8 Near Computer Window",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 5R - Level Complete",
             "category": ["Glitch (Reverse)", "Reverse Levels"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Secret Melon #1 Behind Keyboard",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Secret Melon #2 Behind Keyboard",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Secret Melon #3 Behind Keyboard",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Secret Melon #4 Behind Keyboard",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Secret Melon #5 Behind Keyboard",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Secret Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Golden Melon #1 Behind Right Wire",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Golden Melon #2 Behind Right Wire",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Golden Melon #3 Behind Right Wire",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Golden Melon #4 Behind Right Wire",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Golden Melon #5 Behind Left Wire",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Golden Melon #6 Behind Left Wire",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Golden Melon #7 Behind Left Wire",
             "category": ["Glitch (Reverse)", "Reverse Levels", "Golden Melons"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Glitch 6R - Level Complete",
             "category": ["Glitch (Reverse)", "Reverse Levels"],
             "region": "Glitch (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse)|"
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse)|"
         },
         {
             "name": "Digital Dilemma (Reverse) - Pack Complete",
             "category": ["Completions", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "|Progressive Digital Dilemma (Reverse):3|",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|",
             "place_item": [
                 "Level Pack Completion"
             ]
