@@ -29,16 +29,13 @@
         "requires": "|Progressive Twilight Tour:3|"
     },
     "Castle":{
-        "connects_to": ["Winter"],
-        "requires": "|Progressive Spring King|"
+        "connects_to": ["Winter"]
     },
     "Winter":{
-        "connects_to": ["Swamp"],
-        "requires": "|Progressive Spring King:2|"
+        "connects_to": ["Swamp"]
     },
     "Swamp":{
-        "connects_to": ["PC"],
-        "requires": "|Progressive Spring King:3|"
+        "connects_to": ["PC"]
     },
     "PC":{
         "connects_to": ["Retro"]

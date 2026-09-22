@@ -1651,909 +1651,1070 @@
         {
             "name": "Castle 1 - Secret Melon #1 To Left Of Wall",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 1 - Secret Melon #2 To Left Of Wall",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 1 - Secret Melon #3 To Left Of Wall",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 1 - Secret Melon #4 To Left Of Wall",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 1 - Golden Melon #1 Behind Wall",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 1 - Golden Melon #2 Behind Wall",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 1 - Golden Melon #3 Behind Wall",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 1 - Level Complete",
             "category": ["Castle"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #1 Next To Rocks",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #2 Next To Rocks",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #3 Next To Rocks",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #4 On Bridge Between Trees",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #5 On Bridge Between Trees",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #6 On Bridge Between Trees",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #7 On Bridge Between Trees",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #8 On Bridge Between Trees",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Secret Melon #9 On Bridge Between Trees",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Golden Melon #1 On Back Wall",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Golden Melon #2 On Front Wall",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Golden Melon #3 Above Goal Post",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 2 - Level Complete",
             "category": ["Castle"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 3 - Golden Melon #1 On Bridge",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 3 - Golden Melon #2 On Bridge",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 3 - Secret Melon Behind Spawn",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 3 - Level Complete",
             "category": ["Castle"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 4 - Secret Melon #1 Behind Barrels",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Castle 4 - Secret Melon #2 Behind Barrels",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Castle 4 - Secret Melon #3 Behind Barrels",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Castle 4 - Secret Melon #4 Behind Barrels",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Castle 4 - Secret Melon #5 Behind Barrels",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Castle 4 - Secret Melon #6 Behind Barrels",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Castle 4 - Secret Melon #7 Behind Barrels",
             "category": ["Castle", "Secret Melons"],
             "region": "Castle",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Castle 4 - Golden Melon On Ramp",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 4 - Level Complete",
             "category": ["Castle"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 5 - Secret Melon #1 To Right Of Barrel",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 5 - Secret Melon #2 Above Wall Ramp",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 5 - Golden Melon #1 Behind Barrel",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 5 - Golden Melon #2 On Back Of Wall",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 5 - Level Complete",
             "category": ["Castle"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Secret Melon #1 In Left Corner Near Entrance",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Secret Melon #2 In Right Corner Near Entrance",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Secret Melon #3 In Front Left Corner Of Maze",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Secret Melon #4 In Front Right Corner Of Maze",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Secret Melon #5 In Back Left Corner Of Maze",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Secret Melon #6 In Back Right Corner Of Maze",
             "category": ["Castle", "Secret Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Golden Melon Above Hole",
             "category": ["Castle", "Golden Melons"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Castle 6 - Level Complete",
             "category": ["Castle"],
-            "region": "Castle"
+            "region": "Castle",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King|"
         },
         {
             "name": "Winter 1 - Secret Melon #1 In Top-Left Corner Of High Platform",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 1 - Secret Melon #2 In Top-Right Corner Of High Platform",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 1 - Secret Melon #3 In Bottom-Left Corner Of High Platform",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 1 - Secret Melon #4 In Bottom-Right Corner Of High Platform",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 1 - Golden Melon On High Platform",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 1 - High Platform Shortcut",
             "category": ["Winter", "Shortcuts"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 1 - Level Complete",
             "category": ["Winter"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
-            "name": "Winter 2 - Secret Melon #2 On Ice Block",
+            "name": "Winter 2 - Secret Melon #1 On Ice Block",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 2 - Secret Melon #2 On Secret Ice Block Off To Right Of Path",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 2 - Golden Melon On Ramp",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 2 - Level Complete",
             "category": ["Winter"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 3 - Golden Melon #1 On Iceberg",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 3 - Golden Melon #2 On Iceberg",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 3 - Golden Melon #3 By Trees",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 3 - Golden Melon #4 By Trees",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 3 - Level Complete",
             "category": ["Winter"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 4 - Secret Melon #1 Behind Spawn",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 4 - Secret Melon #2 Behind Spawn",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 4 - Secret Melon #3 Behind Spawn",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 4 - Secret Melon #4 Behind Spawn",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 4 - Level Complete",
             "category": ["Winter"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 5 - Golden Melon In Middle Of Half-Pipe",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 5 - Secret Melon #1 On Corner Of Ice Platform Before Goal Post",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 5 - Secret Melon #2 On Corner Of Ice Platform Before Goal Post",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 5 - Level Complete",
             "category": ["Winter"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Secret Melon #1 On Top Of Half-Pipe",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Secret Melon #2 On Top Of Half-Pipe",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Secret Melon #3 On Top Of Half-Pipe",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Secret Melon #4 On Top Of Half-Pipe",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Secret Melon #5 On Top Of Half-Pipe",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Secret Melon #6 On Top Of Half-Pipe",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Secret Melon #7 On Top Of Half-Pipe",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
-            "name": "Winter 6 - Secret Melon #8 On Top Of Half-Pipe",
+            "name": "Winter 6 - Secret Melon #8 On High Platform",
             "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
-        },
-        {
-            "name": "Winter 6 - Secret Melon #9 On High Platform",
-            "category": ["Winter", "Secret Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Golden Melon #1 On High Platform",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Golden Melon #2 On Iceberg",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Golden Melon #3 On Iceberg",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Golden Melon #4 On Iceberg",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Golden Melon #5 On Iceberg",
             "category": ["Winter", "Golden Melons"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Winter 6 - Level Complete",
             "category": ["Winter"],
-            "region": "Winter"
+            "region": "Winter",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:2|"
         },
         {
             "name": "Swamp 1 - Secret Melon #1 Left Of Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Secret Melon #2 Left Of Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Secret Melon #3 Left Of Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Secret Melon #4 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Secret Melon #5 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Secret Melon #6 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Golden Melon #1 On Lily Pad",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Golden Melon #2 On Ledge",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 1 - Level Complete",
             "category": ["Swamp"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Secret Melon #1 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Secret Melon #2 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Secret Melon #3 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Secret Melon #4 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Secret Melon #5 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Secret Melon #6 Behind Spawn",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Golden Melon #1 Below Bridge",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Golden Melon #2 Above Tree",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 2 - Level Complete",
             "category": ["Swamp"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 3 - Golden Melon After Bounce Pad",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 3 - Level Complete",
             "category": ["Swamp"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #1 In First Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #2 In First Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #3 In First Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #4 In First Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #5 In Second Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #6 In Second Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #7 In Third Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #8 In Third Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #9 In Third Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #10 In Fourth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #11 In Fourth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #12 In Fourth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #13 In Fifth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #14 In Fifth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #15 In Fifth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #16 In Fifth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #17 In Sixth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #18 In Sixth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #19 In Sixth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #20 In Sixth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #21 In Seventh Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #22 In Seventh Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #23 In Seventh Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #24 In Eighth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #25 In Eighth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #26 In Eighth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #27 In Eighth Row Of Left Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #28 In First Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #29 In First Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #30 In First Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #31 In Second Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #32 In Second Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #33 In Second Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #34 In Third Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #35 In Third Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #36 In Third Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #37 In Fourth Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #38 In Fourth Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #39 In Fourth Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Secret Melon #40 In Fourth Row Of Right Runway Plantations",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Golden Melon #1 Behind Floats",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Golden Melon #2 Behind Bush",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Golden Melon #3 On Bounce Pad",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Golden Melon #4 On High Platform",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 4 - Level Complete",
             "category": ["Swamp"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 5 - Secret Melon #1 On Lily Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 5 - Secret Melon #2 On Wooden Platform",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 5 - Golden Melon #1 On High Ledge",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 5 - Golden Melon #2 On Middle Ledge",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 5 - Golden Melon #3 On Roundabout Path",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 5 - Wooden Stools Shortcut",
             "category": ["Swamp", "Shortcuts"],
             "region": "Swamp",
-            "requires": "|Jump|"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King| AND |Jump|"
         },
         {
             "name": "Swamp 5 - Level Complete",
             "category": ["Swamp"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #1 On Bridge Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #2 On Bridge Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #3 On Bridge Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #4 On Balcony Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #5 On Other Side Of Balcony Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #6 On Balcony Outside Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #7 On Balcony Outside Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #8 On Bridge Outside Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #9 On Bridge Outside Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #10 On Bridge Outside Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #11 On Balcony Across From Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #12 On Other Side Of Balcony Across From Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #13 On Lower Part Of Balcony Across From Final Bounce Pad",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Secret Melon #14 On Edge Of Balcony Below Goal Post",
             "category": ["Swamp", "Secret Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Mega Melon #1 Before First Bounce Pad",
             "category": ["Swamp", "Mega Melons"],
             "region": "Swamp",
-            "requires": "{YamlCompare(game_version = 2023_legacy)}"
+            "requires": "{YamlCompare(game_version = 2023_legacy)} AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Mega Melon #2 On First Stump After Third Bounce Pad",
             "category": ["Swamp", "Mega Melons"],
             "region": "Swamp",
-            "requires": "{YamlCompare(game_version = 2023_legacy)}"
+            "requires": "{YamlCompare(game_version = 2023_legacy)} AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Mega Melon #3 On Second Stump Before Final Bounce Pad",
             "category": ["Swamp", "Mega Melons"],
             "region": "Swamp",
-            "requires": "{YamlCompare(game_version = 2023_legacy)}"
+            "requires": "{YamlCompare(game_version = 2023_legacy)} AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Mega Melon #4 Below Golden Melon",
             "category": ["Swamp", "Mega Melons"],
             "region": "Swamp",
-            "requires": "{YamlCompare(game_version = 2023_legacy)}"
+            "requires": "{YamlCompare(game_version = 2023_legacy)} AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Golden Melon On Bridge",
             "category": ["Swamp", "Golden Melons"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Swamp 6 - Level Complete",
             "category": ["Swamp"],
-            "region": "Swamp"
+            "region": "Swamp",
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "Spring King - Pack Complete",
@@ -2561,7 +2722,8 @@
             "region": "Swamp",
             "place_item": [
                 "Level Pack Completion"
-            ]
+            ],
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
             "name": "PC 1 - Golden Melon #1 To Left Of First Fan",
