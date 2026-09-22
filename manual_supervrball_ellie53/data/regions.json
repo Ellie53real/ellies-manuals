@@ -41,16 +41,13 @@
         "requires": "|Progressive Spring King:3|"
     },
     "PC":{
-        "connects_to": ["Retro"],
-        "requires": "|Progressive Digital Dilemma|"
+        "connects_to": ["Retro"]
     },
     "Retro":{
-        "connects_to": ["Glitch"],
-        "requires": "|Progressive Digital Dilemma:2|"
+        "connects_to": ["Glitch"]
     },
     "Glitch":{
-        "connects_to": ["Glitch (Reverse)"],
-        "requires": "|Progressive Digital Dilemma:3|"
+        "connects_to": ["Glitch (Reverse)"]
     },
     "Glitch (Reverse)":{
         "connects_to": ["Retro (Reverse)"]

@@ -2566,1092 +2566,1310 @@
         {
             "name": "PC 1 - Golden Melon #1 To Left Of First Fan",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 1 - Golden Melon #2 To Right Of First Fan",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 1 - Secret Melon #1 Behind Spawn",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 1 - Secret Melon #2 Behind Spawn",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 1 - Secret Melon #3 Behind Spawn",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 1 - Level Complete",
             "category": ["PC"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 2 - Golden Melon #1 In Front Of Ship",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 2 - Golden Melon #2 Next To RAM Stick",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 2 - Golden Melon #3 On Penultimate Platform",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 2 - Golden Melon #4 On Cables",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 2 - Level Complete",
             "category": ["PC"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 3 - Golden Melon #1 On First Roundabout",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 3 - Golden Melon #2 On First Roundabout",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 3 - Golden Melon #3 On First Roundabout",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 3 - Golden Melon #4 On Second Roundabout",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 3 - Golden Melon #5 On Second Roundabout",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 3 - Golden Melon #6 On Second Roundabout",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 3 - Level Complete",
             "category": ["PC"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Golden Melon #1 Next To Processor Chip",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Golden Melon #2 Before Goal Post",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Secret Melon #1 Around Turn Before Goal Post",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Secret Melon #2 Around Turn Before Goal Post",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Secret Melon #3 Around Turn Before Goal Post",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Secret Melon #4 Around Turn Before Goal Post",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Secret Melon #5 Around Turn Before Goal Post",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Secret Melon #6 Around Turn Before Goal Post",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Secret Melon #7 Around Turn Before Goal Post",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 4 - Level Complete",
             "category": ["PC"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #1 On Processor Chip After First Set Of Wires",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #2 On Processor Chip After First Set Of Wires",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #3 On Processor Chip After First Set Of Wires",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #4 Behind Big Wire After First Set Of Wires",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #5 On Processor Chip After Second Set Of Wires",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #6 On Processor Chip After Second Set Of Wires",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #7 On Processor Chip After Second Set Of Wires",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #8 In Between Two RAM Sticks",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #9 In Between Two RAM Sticks",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Secret Melon #10 In Between Two RAM Sticks",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Golden Melon #1 On Green Wire",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Golden Melon #2 On Final Set Of Wires",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 5 - Level Complete",
             "category": ["PC"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #1 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #2 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #3 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #4 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #5 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #6 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #7 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #8 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #9 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #10 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #11 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #12 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #13 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #14 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #15 Behind RAM Stick After Second Fan",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Secret Melon #16 In Corner Next To Processor Chip",
             "category": ["PC", "Secret Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Golden Melon #1 In First Fan",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Golden Melon #2 In Second Fan",
             "category": ["PC", "Golden Melons"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "PC 6 - Level Complete",
             "category": ["PC"],
-            "region": "PC"
+            "region": "PC",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma|"
         },
         {
             "name": "Retro 1 - Secret Melon #1 In Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #2 In Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #3 In Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #4 In Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #5 In Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #6 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #7 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #8 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #9 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #10 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Secret Melon #11 On Edge Of Platform Left Of Shortcut Pipe",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Golden Melon #1 Above Pipe",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Golden Melon #2 Below Pipe",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Golden Melon #3 After Ramp",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Golden Melon #4 Next To Last Pipe",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Pipe Shortcut",
             "category": ["Retro", "Shortcuts"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 1 - Level Complete",
             "category": ["Retro"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #1 On Red I Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #2 On Magenta O Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #3 On Yellow O Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #4 On Orange L Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #5 On Blue I Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #6 On Floating Blue L Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #7 On Blue L Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #8 On Green O Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #9 On Yellow O Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #9 On Red S / Orange L Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #10 On Other Blue I Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #11 On Magenta T Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #12 On Other Orange L Platform",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #13 On Top Of Blue Tower",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Secret Melon #14 On Top Of Orange Tower",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Golden Melon #1 On Top Of Red Tower",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Golden Melon #2 Behind Red S Platform Near Goal",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Golden Melon #3 On Orange Platform",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 2 - Level Complete",
             "category": ["Retro"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Secret Melon #1 Left Of Spawn Block",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Secret Melon #2 Left Of Spawn Block",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Golden Melon #1 On Magenta Platform",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Golden Melon #2 On Magenta Platform",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Golden Melon #3 After Ramp",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Golden Melon #4 On Blue Platform",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Left Side Yellow Platforms Shortcut",
             "category": ["Retro", "Shortcuts"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 3 - Level Complete",
             "category": ["Retro"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 4 - Golden Melon In Front Of Goal Post",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 4 - Level Complete",
             "category": ["Retro"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #1 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #2 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #3 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #4 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #5 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #6 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #7 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #8 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #9 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Secret Melon #10 In Float Shortcut",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Golden Melon #1 In Corner At Start",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Golden Melon #2 In Corner Before Float Shortcut",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Golden Melon #3 In Corner After Float Shortcut",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Golden Melon #4 In Corner On Top Platform",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Float Shortcut",
             "category": ["Retro", "Shortcuts"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 5 - Level Complete",
             "category": ["Retro"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #1 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #2 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #3 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #4 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #5 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #6 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #7 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #8 On South Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #9 On West Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #10 On West Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #11 On West Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #12 On West Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #13 On West Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #14 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #15 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #16 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #17 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #18 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #19 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #20 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Secret Melon #21 On North/East Outstretched Platforms",
             "category": ["Retro", "Secret Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Golden Melon #1 In Intersection",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Golden Melon #2 Near Goal",
             "category": ["Retro", "Golden Melons"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Retro 6 - Level Complete",
             "category": ["Retro"],
-            "region": "Retro"
+            "region": "Retro",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:2|"
         },
         {
             "name": "Glitch 1 - Secret Melon #1 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Secret Melon #2 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Secret Melon #3 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Secret Melon #4 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Secret Melon #5 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Secret Melon #6 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Secret Melon #7 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Secret Melon #8 On Left Of Path Split",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Golden Melon #1 Behind Rock",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Golden Melon #2 Behind Rock",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 1 - Level Complete",
             "category": ["Glitch"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #1 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #2 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #3 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #4 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #5 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #6 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #7 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #8 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #9 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Secret Melon #10 Surrounded By Cards",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Golden Melon #1 On Left Side Of Top Platform",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Golden Melon #2 On Right Side Of Top Platform",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 2 - Level Complete",
             "category": ["Glitch"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #1 On Wall Next To Golden Melon",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #2 On Wall Next To Golden Melon",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #3 On Wall Next To Golden Melon",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #4 On High Ledge",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #5 On High Ledge",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #6 On High Ledge",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #7 On High Ledge",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #8 On High Ledge",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Secret Melon #9 On High Ledge",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Golden Melon #1 On Platform Next To Ramp",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Golden Melon #2 Near Goal",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Golden Melon #3 Near Goal",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 3 - Level Complete",
             "category": ["Glitch"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #1 Above First Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #2 Above First Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #3 Above First Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #4 Above First Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #5 Above First Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #6 Above First Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #7 Above Second Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #8 Above Second Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #9 Above Second Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #10 Above Second Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #11 Above Second Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Golden Melon #12 Above Second Bounce Pad",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 4 - Level Complete",
             "category": ["Glitch"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #1 Near Ship",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #2 To Left Of Asteroid",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #3 Behind Parasol Asteroid",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #4 Out In The Open",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #5 Behind Left Asteroid",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #6 Behind Middle Asteroid",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #7 Next To Right Asteroid",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Golden Melon #8 Near Computer Window",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 5 - Level Complete",
             "category": ["Glitch"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Secret Melon #1 Behind Keyboard",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Secret Melon #2 Behind Keyboard",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Secret Melon #3 Behind Keyboard",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Secret Melon #4 Behind Keyboard",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Secret Melon #5 Behind Keyboard",
             "category": ["Glitch", "Secret Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Golden Melon #1 Behind Right Wire",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Golden Melon #2 Behind Right Wire",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Golden Melon #3 Behind Right Wire",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Golden Melon #4 Behind Right Wire",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Golden Melon #5 Behind Left Wire",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Golden Melon #6 Behind Left Wire",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Golden Melon #7 Behind Left Wire",
             "category": ["Glitch", "Golden Melons"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Glitch 6 - Level Complete",
             "category": ["Glitch"],
-            "region": "Glitch"
+            "region": "Glitch",
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Digital Dilemma - Pack Complete",
@@ -3659,7 +3877,8 @@
             "region": "Glitch",
             "place_item": [
                 "Level Pack Completion"
-            ]
+            ],
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
             "name": "Island 1R - Level Complete",
