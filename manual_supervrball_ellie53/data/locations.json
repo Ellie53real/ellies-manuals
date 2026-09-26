@@ -179,10 +179,7 @@
         {
             "name": "Kula Cruise - Pack Complete",
             "category": ["Completions"],
-            "region": "Space",
-            "place_item": [
-                "Level Pack Completion"
-            ]
+            "region": "Space"
         },
         {
             "name": "Night 1 - Golden Melon On Right Path",
@@ -1643,10 +1640,7 @@
         {
             "name": "Twilight Tour - Pack Complete",
             "category": ["Completions"],
-            "region": "Desert",
-            "place_item": [
-                "Level Pack Completion"
-            ]
+            "region": "Desert"
         },
         {
             "name": "Castle 1 - Secret Melon #1 To Left Of Wall",
@@ -2720,9 +2714,6 @@
             "name": "Spring King - Pack Complete",
             "category": ["Completions"],
             "region": "Swamp",
-            "place_item": [
-                "Level Pack Completion"
-            ],
             "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)}) AND |Progressive Spring King:3|"
         },
         {
@@ -4037,9 +4028,6 @@
             "name": "Digital Dilemma - Pack Complete",
             "category": ["Completions"],
             "region": "Glitch",
-            "place_item": [
-                "Level Pack Completion"
-            ],
             "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma:3|"
         },
         {
@@ -4220,10 +4208,7 @@
             "name": "Kula Cruise (Reverse) - Pack Complete",
             "category": ["Completions", "Reverse Levels"],
             "region": "Island (Reverse)",
-            "requires": "|Progressive Kula Cruise (Reverse):3|",
-            "place_item": [
-                "Level Pack Completion"
-            ]
+            "requires": "|Progressive Kula Cruise (Reverse):3|"
         },
         {
             "name": "Night 1R - Golden Melon On Right Path",
@@ -5531,10 +5516,7 @@
             "name": "Twilight Tour (Reverse) - Pack Complete",
             "category": ["Completions", "Reverse Levels"],
             "region": "Night (Reverse)",
-            "requires": "|Progressive Twilight Tour (Reverse):3|",
-            "place_item": [
-                "Level Pack Completion"
-            ]
+            "requires": "|Progressive Twilight Tour (Reverse):3|"
         },
         {
             "name": "Castle 1R - Secret Melon #1 To Left Of Wall",
@@ -6464,10 +6446,7 @@
             "name": "Spring King (Reverse) - Pack Complete",
             "category": ["Completions", "Reverse Levels"],
             "region": "Castle (Reverse)",
-            "requires": "|Progressive Spring King (Reverse):3|",
-            "place_item": [
-                "Level Pack Completion"
-            ]
+            "requires": "|Progressive Spring King (Reverse):3|"
         },
         {
             "name": "PC 1R - Golden Melon #1 To Left Of First Fan",
@@ -7685,10 +7664,7 @@
             "name": "Digital Dilemma (Reverse) - Pack Complete",
             "category": ["Completions", "Reverse Levels"],
             "region": "PC (Reverse)",
-            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|",
-            "place_item": [
-                "Level Pack Completion"
-            ]
+            "requires": "{YamlCompare(game_version = standard)} AND |Progressive Digital Dilemma (Reverse):3|"
         },
         {
             "name": "Community Level 1 - Level Complete",
@@ -7874,10 +7850,7 @@
             "name": "Community Levels - Pack Complete",
             "category": ["Completions", "Community Levels"],
             "region": "Community Levels",
-            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|",
-            "place_item": [
-                "Level Pack Completion"
-            ]
+            "requires": "{YamlCompare(game_version = community_levels)} AND |Progressive Community Levels:3|"
         },
         {
             "name": "Game Completed",

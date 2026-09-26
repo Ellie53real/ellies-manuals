@@ -132,6 +132,53 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # item_to_place = next(i for i in item_pool if i.name == "Item Name")
     # location.place_locked_item(item_to_place)
     # remove_specific_item(item_pool, item_to_place)
+    location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Kula Cruise - Pack Complete")
+    item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+    location.place_locked_item(item_to_place)
+    remove_specific_item(item_pool, item_to_place)
+    location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Twilight Tour - Pack Complete")
+    item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+    location.place_locked_item(item_to_place)
+    remove_specific_item(item_pool, item_to_place)
+    if world.options.game_version != 2:
+        location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Spring King - Pack Complete")
+        item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+        location.place_locked_item(item_to_place)
+        remove_specific_item(item_pool, item_to_place)
+    if world.options.game_version == 0:
+        location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Digital Dilemma - Pack Complete")
+        item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+        location.place_locked_item(item_to_place)
+        remove_specific_item(item_pool, item_to_place)
+    if world.options.game_version != 2:
+        if world.options.include_reverse_levels:
+            location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Kula Cruise (Reverse) - Pack Complete")
+            item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+            location.place_locked_item(item_to_place)
+            remove_specific_item(item_pool, item_to_place)
+    if world.options.game_version != 2:
+        if world.options.include_reverse_levels:
+            location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Twilight Tour (Reverse) - Pack Complete")
+            item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+            location.place_locked_item(item_to_place)
+            remove_specific_item(item_pool, item_to_place)
+    if world.options.game_version != 2:
+        if world.options.include_reverse_levels:
+            location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Spring King (Reverse) - Pack Complete")
+            item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+            location.place_locked_item(item_to_place)
+            remove_specific_item(item_pool, item_to_place)
+    if world.options.game_version == 0:
+        if world.options.include_reverse_levels:
+            location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Digital Dilemma (Reverse) - Pack Complete")
+            item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+            location.place_locked_item(item_to_place)
+            remove_specific_item(item_pool, item_to_place)
+    if world.options.game_version == 2:
+        location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Community Levels - Pack Complete")
+        item_to_place = next(i for i in item_pool if i.name == "Level Pack Complete")
+        location.place_locked_item(item_to_place)
+        remove_specific_item(item_pool, item_to_place)
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
