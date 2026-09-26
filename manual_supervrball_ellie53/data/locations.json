@@ -35,13 +35,13 @@
             "name": "Island 5 - Cliff Shortcut",
             "category": ["Island", "Shortcuts"],
             "region": "Island",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Island 5 - Golden Melon On Top of Cliff",
             "category": ["Island", "Golden Melons"],
             "region": "Island",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Island 5 - Level Complete",
@@ -82,7 +82,7 @@
             "name": "Volcano 4 - Floats Shortcut",
             "category": ["Volcano", "Shortcuts"],
             "region": "Volcano",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Volcano 4 - Level Complete",
@@ -123,43 +123,43 @@
             "name": "Space 5 - Golden Melon #1 On High Asteroid Rings",
             "category": ["Space", "Golden Melons"],
             "region": "Space",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Space 5 - Golden Melon #2 On Middle Asteroid Rings",
             "category": ["Space", "Golden Melons"],
             "region": "Space",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Space 5 - Golden Melon #3 On Low Asteroid",
             "category": ["Space", "Golden Melons"],
             "region": "Space",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Space 5 - Golden Melon #4 On Low Asteroid Rings",
             "category": ["Space", "Golden Melons"],
             "region": "Space",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Space 5 - Golden Melon #5 On Low Asteroid Rings",
             "category": ["Space", "Golden Melons"],
             "region": "Space",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Space 5 - Secret Melon #1 Below Middle Asteroid Rings",
             "category": ["Space", "Secret Melons"],
             "region": "Space",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Space 5 - Secret Melon #2 On Final Asteroid Before Goal Post",
             "category": ["Space", "Secret Melons"],
             "region": "Space",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Space 5 - Level Complete",
@@ -748,13 +748,13 @@
             "name": "Toxic 4 - Golden Melon #1 On Side Rail",
             "category": ["Toxic", "Golden Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Toxic 4 - Golden Melon #2 On Side Rail",
             "category": ["Toxic", "Golden Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Toxic 4 - Level Complete",
@@ -765,241 +765,241 @@
             "name": "Toxic 5 - Golden Melon #1 On Pipe Behind Ship",
             "category": ["Toxic", "Golden Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Toxic 5 - Golden Melon #2 Near Rocks After 3rd Tunnel",
             "category": ["Toxic", "Golden Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Toxic 5 - Golden Melon On Middle Pipe",
             "category": ["Toxic", "Golden Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #1 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #2 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #3 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #4 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #5 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #6 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #7 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #8 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #9 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #10 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #11 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #12 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #13 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #14 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #15 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #16 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #17 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #18 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #19 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #20 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #21 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #22 On Inner Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #23 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #24 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #25 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #26 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #27 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #28 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #29 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #30 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #31 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #32 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #33 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #34 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #35 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #36 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Secret Melon #37 On Outer Edge Of Pipes",
             "category": ["Toxic", "Secret Melons"],
             "region": "Toxic",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Toxic 5 - Level Complete",
@@ -1430,139 +1430,139 @@
             "name": "Desert 5 - Float Around The Back Shortcut",
             "category": ["Desert", "Shortcuts"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = legacy_2023)}"
+            "requires": "({YamlCompare(game_version = standard)} OR {YamlCompare(game_version = 2023_legacy)})"
         },
         {
             "name": "Desert 5 - Golden Melon #1 On Left Corner Float",
             "category": ["Desert", "Golden Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Golden Melon #2 On Right Corner Float",
             "category": ["Desert", "Golden Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Golden Melon #3 Above Pyramid Entrance",
             "category": ["Desert", "Golden Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #1 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #2 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #3 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #4 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #5 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #6 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #7 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #8 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #9 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "{YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #10 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #11 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #12 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #13 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #14 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #15 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #16 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #17 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #18 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Secret Melon #19 Along Fence",
             "category": ["Desert", "Secret Melons"],
             "region": "Desert",
-            "requires": "({YamlCompare(game_version = community_levels)}"
+            "requires": "YamlCompare(game_version = community_levels)}"
         },
         {
             "name": "Desert 5 - Level Complete",
