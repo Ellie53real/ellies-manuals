@@ -7772,7 +7772,7 @@
         },
         {
             "name": "Community Levels - Pack Complete",
-            "category": ["Completions", "Community Levels"],
+            "category": ["Completions"],
             "region": "Community Levels",
             "requires": "|Progressive Community Levels:3|"
         },
