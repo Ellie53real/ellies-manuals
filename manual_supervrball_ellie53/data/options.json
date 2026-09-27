@@ -64,8 +64,7 @@
         },
         "include_secret_melons":{
             "description": [
-                "Whether or not to include checks for collecting Secret Melons.",
-                "Adds 308 checks - 597 if Reverse levels are enabled."
+                "Whether or not to include checks for collecting Secret Melons."
             ],
             "type": "Toggle",
             "default": false,
@@ -74,8 +73,7 @@
         },
         "include_golden_melons":{
             "description": [
-                "Whether or not to include checks for collecting Golden Melons.",
-                "Adds 153 checks - 300 if Reverse levels are enabled."
+                "Whether or not to include checks for collecting Golden Melons."
             ],
             "type": "Toggle",
             "default": false,
@@ -104,8 +102,7 @@
         },
         "include_shortcuts":{
             "description": [
-                "Whether or not to include checks for taking the developer-intended shortcuts found in a handful of levels.",
-                "Adds 14 checks - 21 if Reverse levels are also enabled."
+                "Whether or not to include checks for taking the developer-intended shortcuts found in a handful of levels."
             ],
             "type": "Toggle",
             "default": false,
