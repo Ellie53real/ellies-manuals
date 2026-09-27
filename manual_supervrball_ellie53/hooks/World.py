@@ -89,6 +89,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         if world.options.include_secret_melons:
             locationNamesToRemove.append("Space 5 - Secret Melon #1 Below Middle Asteroid Rings")
             locationNamesToRemove.append("Space 5 - Secret Melon #2 On Final Asteroid Before Goal Post")
+    if world.options.game_version != 1:
         if world.options.include_mega_melons:
             locationNamesToRemove.append("Swamp 6 - Mega Melon #1 Before First Bounce Pad")
             locationNamesToRemove.append("Swamp 6 - Mega Melon #2 On First Stump After Third Bounce Pad")
