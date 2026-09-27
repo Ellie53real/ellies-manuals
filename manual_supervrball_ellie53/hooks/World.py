@@ -217,15 +217,15 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
     item_config["Tetromino"] = 50 if world.options.game_version == 0 else 0
     item_config["Corruption"] = 50 if world.options.game_version == 0 else 0
     item_config["Progressive Community Levels"] = 3 if world.options.game_version == 2 else 0
-    item_config["Star Ball"] = 1 if world.options.game_version == 2 else 0
-    item_config["Snowman Ball"] = 1 if world.options.game_version == 2 else 0
-    item_config["Bauble Ball"] = 1 if world.options.game_version == 2 else 0
-    item_config["Present Ball"] = 1 if world.options.game_version == 2 else 0
-    item_config["LED Lights Ball"] = 1 if world.options.game_version == 2 else 0
-    item_config["Red Beach Ball"] = 0 if world.options.game_version == 0 else 1
-    item_config["Green Beach Ball"] = 0 if world.options.game_version == 0 else 1
-    item_config["Blue Beach Ball"] = 0 if world.options.game_version == 0 else 1
-    item_config["LGBTQIA+ Ball"] = 0 if world.options.game_version == 0 else 1
+    item_config["Star Ball"] = 1 if world.options.game_version == 0 else 0
+    item_config["Snowman Ball"] = 1 if world.options.game_version == 0 else 0
+    item_config["Bauble Ball"] = 1 if world.options.game_version == 0 else 0
+    item_config["Present Ball"] = 1 if world.options.game_version == 0 else 0
+    item_config["LED Lights Ball"] = 1 if world.options.game_version == 0 else 0
+    item_config["Red Beach Ball"] = 0 if world.options.game_version == 2 else 1
+    item_config["Green Beach Ball"] = 0 if world.options.game_version == 2 else 1
+    item_config["Blue Beach Ball"] = 0 if world.options.game_version == 2 else 1
+    item_config["LGBTQIA+ Ball"] = 0 if world.options.game_version == 2 else 1
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
