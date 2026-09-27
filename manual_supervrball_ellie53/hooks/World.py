@@ -101,14 +101,6 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
             locationNamesToRemove.append("Desert 5 - Golden Melon #1 On Left Corner Float")
             locationNamesToRemove.append("Desert 5 - Golden Melon #2 On Right Corner Float")
             locationNamesToRemove.append("Desert 5 - Golden Melon #3 Above Pyramid Entrance")
-        if world.options.include_secret_melons:
-            for region in multiworld.regions:
-                if region.player == player:
-                    for location in list(region.locations):
-                        if "Toxic 5 - Secret Melon" in location.name:
-                            locationNamesToRemove.append(location.name)
-                        if "Desert 5 - Secret Melon" in location.name:
-                            locationNamesToRemove.append(location.name)
         if world.options.include_mega_melons:
             locationNamesToRemove.append("Desert 6 - Mega Melon Behind Pyramid")
     for region in multiworld.regions:
@@ -134,6 +126,10 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
                         locationNamesToRemove.append(location.name)
                 if world.options.game_version != 2:
                     if "Community" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Toxic 5 - Secret Melon" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Desert 5 - Secret Melon" in location.name:
                         locationNamesToRemove.append(location.name)
     for region in multiworld.regions:
         if region.player == player:
