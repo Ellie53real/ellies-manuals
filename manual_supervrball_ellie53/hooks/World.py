@@ -72,20 +72,118 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Add your code here to calculate which locations to remove
     if world.options.game_version == 2:
         if world.options.include_shortcuts:
-            locationNamesToRemove.append("Island 5 - Cliff Shortcut", "Volcano 4 - Floats Shortcut", "Desert 5 - Float Around The Back Shortcut")
+            locationNamesToRemove.append("Island 5 - Cliff Shortcut")
+            locationNamesToRemove.append("Volcano 4 - Floats Shortcut")
+            locationNamesToRemove.append("Desert 5 - Float Around The Back Shortcut")
         if world.options.include_golden_melons:
-            locationNamesToRemove.append("Island 5 - Golden Melon On Top of Cliff", "Space 5 - Golden Melon #1 On High Asteroid Rings", "Space 5 - Golden Melon #2 On Middle Asteroid Rings", "Space 5 - Golden Melon #3 On Low Asteroid", "Space 5 - Golden Melon #4 On Low Asteroid Rings", "Space 5 - Golden Melon #5 On Low Asteroid Rings", "Toxic 4 - Golden Melon #1 On Side Rail", "Toxic 4 - Golden Melon #2 On Side Rail", "Golden Melon #1 On Pipe Behind Ship", "Golden Melon #2 Near Rocks After 3rd Tunnel")
+            locationNamesToRemove.append("Island 5 - Golden Melon On Top of Cliff")
+            locationNamesToRemove.append("Space 5 - Golden Melon #1 On High Asteroid Rings")
+            locationNamesToRemove.append("Space 5 - Golden Melon #2 On Middle Asteroid Rings")
+            locationNamesToRemove.append("Space 5 - Golden Melon #3 On Low Asteroid")
+            locationNamesToRemove.append("Space 5 - Golden Melon #4 On Low Asteroid Rings")
+            locationNamesToRemove.append("Space 5 - Golden Melon #5 On Low Asteroid Rings")
+            locationNamesToRemove.append("Toxic 4 - Golden Melon #1 On Side Rail")
+            locationNamesToRemove.append("Toxic 4 - Golden Melon #2 On Side Rail")
+            locationNamesToRemove.append("Toxic 5 - Golden Melon #1 On Pipe Behind Ship")
+            locationNamesToRemove.append("Toxic 5 - Golden Melon #2 Near Rocks After 3rd Tunnel")
         if world.options.include_secret_melons:
-            locationNamesToRemove.append("Space 5 - Secret Melon #1 Below Middle Asteroid Rings", "Space 5 - Secret Melon #2 On Final Asteroid Before Goal Post")
+            locationNamesToRemove.append("Space 5 - Secret Melon #1 Below Middle Asteroid Rings")
+            locationNamesToRemove.append("Space 5 - Secret Melon #2 On Final Asteroid Before Goal Post")
         if world.options.include_mega_melons:
-            locationNamesToRemove.append("Swamp 6 - Mega Melon #1 Before First Bounce Pad", "Swamp 6 - Mega Melon #2 On First Stump After Third Bounce Pad", "Swamp 6 - Mega Melon #3 On Second Stump Before Final Bounce Pad", "Swamp 6 - Mega Melon #4 Below Golden Melon")
+            locationNamesToRemove.append("Swamp 6 - Mega Melon #1 Before First Bounce Pad")
+            locationNamesToRemove.append("Swamp 6 - Mega Melon #2 On First Stump After Third Bounce Pad")
+            locationNamesToRemove.append("Swamp 6 - Mega Melon #3 On Second Stump Before Final Bounce Pad")
+            locationNamesToRemove.append("Swamp 6 - Mega Melon #4 Below Golden Melon")
     if world.options.game_version != 2:
         if world.options.include_golden_melons:
-            locationNamesToRemove.append("Toxic 5 - Golden Melon On Middle Pipe", "Desert 5 - Golden Melon #1 On Left Corner Float", "Desert 5 - Golden Melon #2 On Right Corner Float", "Desert 5 - Golden Melon #3 Above Pyramid Entrance")
+            locationNamesToRemove.append("Toxic 5 - Golden Melon On Middle Pipe")
+            locationNamesToRemove.append("Desert 5 - Golden Melon #1 On Left Corner Float")
+            locationNamesToRemove.append("Desert 5 - Golden Melon #2 On Right Corner Float")
+            locationNamesToRemove.append("Desert 5 - Golden Melon #3 Above Pyramid Entrance")
         if world.options.include_secret_melons:
-            locationNamesToRemove.append("Toxic 5 - Secret Melon #1 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #2 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #3 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #4 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #5 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #6 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #7 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #8 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #9 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #10 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #11 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #12 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #13 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #14 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #15 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #16 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #17 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #18 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #19 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #20 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #21 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #22 On Inner Edge Of Pipes", "Toxic 5 - Secret Melon #23 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #24 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #25 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #26 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #27 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #28 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #29 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #30 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #31 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #32 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #33 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #34 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #35 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #36 On Outer Edge Of Pipes", "Toxic 5 - Secret Melon #37 On Outer Edge Of Pipes", "Desert 5 - Secret Melon #1 Along Fence", "Desert 5 - Secret Melon #2 Along Fence", "Desert 5 - Secret Melon #3 Along Fence", "Desert 5 - Secret Melon #4 Along Fence", "Desert 5 - Secret Melon #5 Along Fence", "Desert 5 - Secret Melon #6 Along Fence", "Desert 5 - Secret Melon #7 Along Fence", "Desert 5 - Secret Melon #8 Along Fence", "Desert 5 - Secret Melon #9 Along Fence", "Desert 5 - Secret Melon #10 Along Fence", "Desert 5 - Secret Melon #11 Along Fence", "Desert 5 - Secret Melon #12 Along Fence", "Desert 5 - Secret Melon #13 Along Fence", "Desert 5 - Secret Melon #13 Along Fence", "Desert 5 - Secret Melon #14 Along Fence", "Desert 5 - Secret Melon #15 Along Fence", "Desert 5 - Secret Melon #16 Along Fence", "Desert 5 - Secret Melon #17 Along Fence", "Desert 5 - Secret Melon #18 Along Fence", "Desert 5 - Secret Melon #19 Along Fence")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #1 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #2 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #3 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #4 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #5 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #6 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #7 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #8 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #9 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #10 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #11 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #12 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #13 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #14 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #15 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #16 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #17 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #18 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #19 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #20 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #21 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #22 On Inner Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #23 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #24 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #25 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #26 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #27 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #28 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #29 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #30 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #31 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #32 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #33 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #34 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #35 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #36 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Toxic 5 - Secret Melon #37 On Outer Edge Of Pipes")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #1 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #2 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #3 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #4 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #5 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #6 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #7 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #8 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #9 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #10 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #11 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #12 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #13 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #13 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #14 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #15 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #16 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #17 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #18 Along Fence")
+            locationNamesToRemove.append("Desert 5 - Secret Melon #19 Along Fence")
         if world.options.include_mega_melons:
             locationNamesToRemove.append("Desert 6 - Mega Melon Behind Pyramid")
+    for region in multiworld.regions:
+        if region.player == player:
+            for location in list(region.locations):
+                if world.options.game_version == 2:
+                    if "Castle" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Winter" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Swamp" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Spring King" in location.name:
+                        locationNamesToRemove.append(location.name)
+                if world.options.game_version != 0:
+                    if "PC" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Retro" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Glitch" in location.name:
+                        locationNamesToRemove.append(location.name)
+                    if "Digital Dilemma" in location.name:
+                        locationNamesToRemove.append(location.name)
+                if world.options.game_version != 2:
+                    if "Community" in location.name:
+                        locationNamesToRemove.append(location.name)
     for region in multiworld.regions:
         if region.player == player:
             for location in list(region.locations):
