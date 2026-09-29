@@ -11,5 +11,13 @@
     "Hard Time Trials": {
         "yaml_option": ["hard_time_trials"],
         "hidden": true
+    },
+    "Item Boxes": {
+        "yaml_option": ["box_groups"],
+        "hidden": true
+    },
+    "Multiplayer": {
+        "yaml_option": ["multiplayer"],
+        "hidden": true
     }
 }
