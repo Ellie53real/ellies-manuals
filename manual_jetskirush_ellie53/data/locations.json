@@ -18,7 +18,7 @@
             "name": "Seaside Factory - 1st Place",
             "category": ["Seaside Factory", "Multiplayer"],
             "region": "Seaside Factory",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Seaside Factory - Time Trial in 2:00",
@@ -104,7 +104,7 @@
             "name": "Arctic Iceway - 1st Place",
             "category": ["Arctic Iceway", "Multiplayer"],
             "region": "Arctic Iceway",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Arctic Iceway - Time Trial in 3:30",
@@ -215,7 +215,7 @@
             "name": "Kabuki Peaks - 1st Place",
             "category": ["Kabuki Peaks", "Multiplayer"],
             "region": "Kabuki Peaks",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Kabuki Peaks - Time Trial in 3:00",
@@ -316,7 +316,7 @@
             "name": "Fungal Forest - 1st Place",
             "category": ["Fungal Forest", "Multiplayer"],
             "region": "Fungal Forest",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Fungal Forest - Time Trial in 4:00",
@@ -417,7 +417,7 @@
             "name": "Crossbone Cove - 1st Place",
             "category": ["Crossbone Cove", "Multiplayer"],
             "region": "Crossbone Cove",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Crossbone Cove - Time Trial in 3:45",
@@ -503,7 +503,7 @@
             "name": "Aquatic Arena - 1st Place",
             "category": ["Aquatic Arena", "Multiplayer"],
             "region": "Aquatic Arena",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Aquatic Arena - Time Trial in 3:00",
@@ -569,7 +569,7 @@
             "name": "Temple Ravine - 1st Place",
             "category": ["Temple Ravine", "Multiplayer"],
             "region": "Temple Ravine",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Temple Ravine - Time Trial in 3:45",
@@ -725,7 +725,7 @@
             "name": "Candy Canyon - 1st Place",
             "category": ["Candy Canyon", "Multiplayer"],
             "region": "Candy Canyon",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Candy Canyon - Time Trial in 3:30",
@@ -816,7 +816,7 @@
             "name": "Hollow Castle - 1st Place",
             "category": ["Hollow Castle", "Multiplayer"],
             "region": "Hollow Castle",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Hollow Castle - Time Trial in 3:45",
@@ -967,7 +967,7 @@
             "name": "Retro Rush - 1st Place",
             "category": ["Retro Rush", "Multiplayer"],
             "region": "Retro Rush",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Retro Rush - Time Trial in 3:15",
@@ -1068,7 +1068,7 @@
             "name": "Cosmic Circuit - 1st Place",
             "category": ["Cosmic Circuit", "Multiplayer"],
             "region": "Cosmic Circuit",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Cosmic Circuit - Time Trial in 3:00",
@@ -1169,7 +1169,7 @@
             "name": "Pyro Peak - 1st Place",
             "category": ["Pyro Peak", "Multiplayer"],
             "region": "Pyro Peak",
-            "requires": "|Progressive Speed Upgrade|"
+            "requires": "|Progressive Speed Upgrade| AND |@Items:2|"
         },
         {
             "name": "Pyro Peak - Time Trial in 3:45",
