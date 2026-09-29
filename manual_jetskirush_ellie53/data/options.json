@@ -16,8 +16,10 @@
         },
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "display_name": "Trap Percentage",
+            "description": "The percentage of filler items in the pool that will be replaced with traps.",
             "values": {
-                "recommended": 20
+                "default": 15
             }
         }
     },
