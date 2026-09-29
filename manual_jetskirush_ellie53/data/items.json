@@ -241,6 +241,86 @@
             "filler": true
         },
         {
+            "name": "Sharkpedo",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Puffermine",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Bird Bomb",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Frost Blaster",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Turbo Fuel",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Dolphin Battery",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Bubble Shield",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Royal Crown",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Carry Cloud",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Skull",
+            "category": [
+                "Items",
+                "Multiplayer"
+            ],
+            "progression": true
+        },
+        {
             "name": "Sea Salt Soda",
             "category": [
                 "Junk"
