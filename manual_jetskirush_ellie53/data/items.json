@@ -279,6 +279,23 @@
             ],
             "filler": true,
             "count": 10
+        },
+        {
+            "name": "No Waves Trap",
+            "category": [
+                "Traps"
+            ],
+            "trap": true,
+            "count": 10
+        },
+        {
+            "name": "Item Chaos Trap",
+            "category": [
+                "Traps",
+                "Multiplayer"
+            ],
+            "trap": true,
+            "count": 10
         }
     ]
 }
