@@ -46,6 +46,25 @@
             "default": false,
             "group": "Game Options"
         },
+        "box_groups":{
+            "description": [
+                "Whether or not to include locations for each of the item box groups on the tracks."
+            ],
+            "type": "Toggle",
+            "display_name": "Box Groups",
+            "default": false,
+            "group": "Game Options"
+        },
+        "multiplayer":{
+            "description": [
+                "Whether or not you intend to play in a multiplayer instance.",
+                "Adds '1st Place' locations for each track, and disables Time Trial locations."
+            ],
+            "type": "Toggle",
+            "display_name": "Multiplayer",
+            "default": false,
+            "group": "Game Options"
+        },
         "track_requirement":{
             "type": "Range",
             "description": [
