@@ -239,6 +239,46 @@
                 "Code Jetski Skins"
             ],
             "filler": true
+        },
+        {
+            "name": "Sea Salt Soda",
+            "category": [
+                "Junk"
+            ],
+            "filler": true,
+            "count": 20
+        },
+        {
+            "name": "Lollipop",
+            "category": [
+                "Junk"
+            ],
+            "filler": true,
+            "count": 10
+        },
+        {
+            "name": "Pile of Bones",
+            "category": [
+                "Junk"
+            ],
+            "filler": true,
+            "count": 10
+        },
+        {
+            "name": "Pumice",
+            "category": [
+                "Junk"
+            ],
+            "filler": true,
+            "count": 10
+        },
+        {
+            "name": "Mushroom",
+            "category": [
+                "Junk"
+            ],
+            "filler": true,
+            "count": 10
         }
     ]
 }
