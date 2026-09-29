@@ -692,12 +692,22 @@
             "region": "Candy Canyon"
         },
         {
-            "name": "Candy Canyon - Item Box Group #9 On Penultimate Turn After Split Path",
+            "name": "Candy Canyon - Item Box Group #9 After Split Path",
             "category": ["Candy Canyon"],
             "region": "Candy Canyon"
         },
         {
-            "name": "Candy Canyon - Item Box Group #10 Before End",
+            "name": "Candy Canyon - Item Box Group #10 Near Arrow",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #11 Before Tunnel",
+            "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Item Box Group #12 Before End",
             "category": ["Candy Canyon"],
             "region": "Candy Canyon"
         },
