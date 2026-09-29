@@ -4,9 +4,14 @@
         {
             "name": "Seaside Factory - Finish",
             "category": ["Seaside Factory"],
+            "region": "Seaside Factory"
+        },
+        {
+            "name": "Seaside Factory - Finish (Trophy)",
+            "category": ["Seaside Factory"],
             "region": "Seaside Factory",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -79,9 +84,14 @@
         {
             "name": "Arctic Iceway - Finish",
             "category": ["Arctic Iceway"],
+            "region": "Arctic Iceway"
+        },
+        {
+            "name": "Arctic Iceway - Finish (Trophy)",
+            "category": ["Arctic Iceway"],
             "region": "Arctic Iceway",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -179,9 +189,14 @@
         {
             "name": "Kabuki Peaks - Finish",
             "category": ["Kabuki Peaks"],
+            "region": "Kabuki Peaks"
+        },
+        {
+            "name": "Kabuki Peaks - Finish (Trophy)",
+            "category": ["Kabuki Peaks"],
             "region": "Kabuki Peaks",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -269,9 +284,14 @@
         {
             "name": "Fungal Forest - Finish",
             "category": ["Fungal Forest"],
+            "region": "Fungal Forest"
+        },
+        {
+            "name": "Fungal Forest - Finish (Trophy)",
+            "category": ["Fungal Forest"],
             "region": "Fungal Forest",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -359,9 +379,14 @@
         {
             "name": "Crossbone Cove - Finish",
             "category": ["Crossbone Cove"],
+            "region": "Crossbone Cove"
+        },
+        {
+            "name": "Crossbone Cove - Finish (Trophy)",
+            "category": ["Crossbone Cove"],
             "region": "Crossbone Cove",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -434,9 +459,14 @@
         {
             "name": "Aquatic Arena - Finish",
             "category": ["Aquatic Arena"],
+            "region": "Aquatic Arena"
+        },
+        {
+            "name": "Aquatic Arena - Finish (Trophy)",
+            "category": ["Aquatic Arena"],
             "region": "Aquatic Arena",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -489,9 +519,14 @@
         {
             "name": "Temple Ravine - Finish",
             "category": ["Temple Ravine"],
+            "region": "Temple Ravine"
+        },
+        {
+            "name": "Temple Ravine - Finish (Trophy)",
+            "category": ["Temple Ravine"],
             "region": "Temple Ravine",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -634,9 +669,14 @@
         {
             "name": "Candy Canyon - Finish",
             "category": ["Candy Canyon"],
+            "region": "Candy Canyon"
+        },
+        {
+            "name": "Candy Canyon - Finish (Trophy)",
+            "category": ["Candy Canyon"],
             "region": "Candy Canyon",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -714,9 +754,14 @@
         {
             "name": "Hollow Castle - Finish",
             "category": ["Hollow Castle"],
+            "region": "Hollow Castle"
+        },
+        {
+            "name": "Hollow Castle - Finish (Trophy)",
+            "category": ["Hollow Castle"],
             "region": "Hollow Castle",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -854,9 +899,14 @@
         {
             "name": "Retro Rush - Finish",
             "category": ["Retro Rush"],
+            "region": "Retro Rush"
+        },
+        {
+            "name": "Retro Rush - Finish (Trophy)",
+            "category": ["Retro Rush"],
             "region": "Retro Rush",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -944,9 +994,14 @@
         {
             "name": "Cosmic Circuit - Finish",
             "category": ["Cosmic Circuit"],
+            "region": "Cosmic Circuit"
+        },
+        {
+            "name": "Cosmic Circuit - Finish (Trophy)",
+            "category": ["Cosmic Circuit"],
             "region": "Cosmic Circuit",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -1034,9 +1089,14 @@
         {
             "name": "Pyro Peak - Finish",
             "category": ["Pyro Peak"],
+            "region": "Pyro Peak"
+        },
+        {
+            "name": "Pyro Peak - Finish (Trophy)",
+            "category": ["Pyro Peak"],
             "region": "Pyro Peak",
             "place_item": [
-                "Track Completion"
+                "Trophy"
             ]
         },
         {
@@ -1186,7 +1246,7 @@
             "category": ["Victory"],
             "region": "Track Selection",
             "victory": true,
-            "requires": "{OptionCount(|Track Completion|, track_requirement)}"
+            "requires": "{OptionCount(|Trophy|, track_requirement)}"
         }
     ]
 }
