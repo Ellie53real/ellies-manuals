@@ -94,9 +94,9 @@
             "progression": true
         },
         {
-            "name": "Track Completion",
+            "name": "Trophy",
             "category": [
-                "Completions"
+                "Trophies"
             ],
             "progression": true,
             "count": 12
