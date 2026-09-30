@@ -361,6 +361,22 @@
             "count": 15
         },
         {
+            "name": "Snow Brick",
+            "category": [
+                "Junk"
+            ],
+            "filler": true,
+            "count": 15
+        },
+        {
+            "name": "Bucket and Shovel",
+            "category": [
+                "Junk"
+            ],
+            "filler": true,
+            "count": 15
+        },
+        {
             "name": "No Waves Trap",
             "category": [
                 "Traps"
