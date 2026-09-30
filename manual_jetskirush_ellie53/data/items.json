@@ -326,7 +326,7 @@
                 "Junk"
             ],
             "filler": true,
-            "count": 20
+            "count": 60
         },
         {
             "name": "Lollipop",
@@ -334,7 +334,7 @@
                 "Junk"
             ],
             "filler": true,
-            "count": 10
+            "count": 15
         },
         {
             "name": "Pile of Bones",
@@ -342,7 +342,7 @@
                 "Junk"
             ],
             "filler": true,
-            "count": 10
+            "count": 15
         },
         {
             "name": "Pumice",
@@ -350,7 +350,7 @@
                 "Junk"
             ],
             "filler": true,
-            "count": 10
+            "count": 15
         },
         {
             "name": "Mushroom",
@@ -358,7 +358,7 @@
                 "Junk"
             ],
             "filler": true,
-            "count": 10
+            "count": 15
         },
         {
             "name": "No Waves Trap",
