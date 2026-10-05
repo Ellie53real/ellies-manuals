@@ -246,7 +246,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Puffermine",
@@ -254,7 +254,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Bird Bomb",
@@ -262,7 +262,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Frost Blaster",
@@ -270,7 +270,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Turbo Fuel",
@@ -278,7 +278,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Dolphin Battery",
@@ -286,7 +286,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Bubble Shield",
@@ -294,7 +294,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Royal Crown",
@@ -302,7 +302,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Carry Cloud",
@@ -310,7 +310,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Skull",
@@ -318,7 +318,7 @@
                 "Items",
                 "Multiplayer"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Sea Salt Soda",
