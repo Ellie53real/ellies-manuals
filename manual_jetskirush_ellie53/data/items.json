@@ -374,8 +374,7 @@
             "category": [
                 "Traps"
             ],
-            "trap": true,
-            "count": 10
+            "trap": true
         },
         {
             "name": "Item Chaos Trap",
@@ -383,8 +382,7 @@
                 "Traps",
                 "Multiplayer"
             ],
-            "trap": true,
-            "count": 10
+            "trap": true
         }
     ]
 }
