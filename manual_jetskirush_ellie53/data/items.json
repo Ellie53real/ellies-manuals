@@ -370,6 +370,14 @@
             "count": 15
         },
         {
+            "name": "No Jetski Collision",
+            "category": [
+                "Modifiers",
+                "Multiplayer"
+            ],
+            "useful": true
+        },
+        {
             "name": "No Waves Trap",
             "category": [
                 "Traps"
